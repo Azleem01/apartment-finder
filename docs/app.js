@@ -33,6 +33,9 @@ function facts(l) {
   if (l.advertiser_role) bits.push(`<span class="fact">👤 ${esc(l.advertiser_role)}</span>`);
   if (l.bills_included === "yes") bits.push(`<span class="chip chip--bills">Bills included</span>`);
   if (Number(l.days_old) === 0) bits.push(`<span class="chip chip--new">New today</span>`);
+  if (l.verified) bits.push(`<span class="chip chip--verified">✓ Verified advertiser</span>`);
+  (l.risk_flags || []).forEach((f) =>
+    bits.push(`<span class="chip chip--risk">⚠ ${esc(f)}</span>`));
   return bits.join("");
 }
 
@@ -70,6 +73,18 @@ function card(l) {
       <button class="why" type="button">Why this score</button>
       <a class="btn" href="${esc(url)}" target="_blank" rel="noopener noreferrer">View on SpareRoom ↗</a>
     </div>
+    <div class="cmts js-comments" data-listing="${esc(l.id)}">
+      <button class="cmts__toggle" type="button">💬 <span class="cmts__count">Add a comment</span></button>
+      <div class="cmts__panel" hidden>
+        <div class="cmts__list"></div>
+        <form class="cmts__form">
+          <input class="cmts__name" maxlength="60" placeholder="Your name (optional)" />
+          <textarea class="cmts__body" maxlength="2000" rows="2" placeholder="Share what you know — the place, the advertiser, anything others should see…" required></textarea>
+          <label class="cmts__fraud"><input type="checkbox" /> ⚠ Report this as possibly fraudulent</label>
+          <button class="cmts__send" type="submit">Post comment</button>
+        </form>
+      </div>
+    </div>
   </article>`;
 }
 
@@ -105,6 +120,9 @@ function apply() {
   grid.innerHTML = rows.map(card).join("");
   $("empty").hidden = rows.length > 0;
   $("statCount").textContent = rows.length;
+
+  window.__listingIds = rows.map((r) => String(r.id));
+  if (window.onCardsRendered) window.onCardsRendered();
 
   grid.querySelectorAll(".why").forEach((btn) => {
     btn.addEventListener("click", () => {

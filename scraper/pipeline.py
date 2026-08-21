@@ -42,6 +42,23 @@ def api_session() -> requests.Session:
     return s
 
 
+# Central/expensive districts where a very cheap room is a classic scam red-flag.
+_PREMIUM_OUTCODES = {"SW3", "SW7", "SW1", "SW5", "SW10", "W8", "W11", "W1", "W2", "SW1X", "SW1W"}
+
+
+def flag_risks(l, cfg) -> None:
+    """Lightweight, honest scam heuristics. Not a guarantee — a nudge to verify."""
+    flags = []
+    lo = cfg["budget"]["min"]
+    if l.num_photos == 0:
+        flags.append("No photos in the ad")
+    if l.price_pcm and l.price_pcm <= lo + 80 and l.postcode in _PREMIUM_OUTCODES:
+        flags.append("Unusually cheap for this area — verify carefully")
+    if not l.verified and l.advertiser_role in ("", "live in landlord") and l.num_photos == 0:
+        flags.append("Unverified advertiser with no photos")
+    l.risk_flags = flags
+
+
 def run(config_path: str, limit: int | None = None, log=print) -> dict:
     cfg = load_config(config_path)
     if limit:                       # test mode: shrink the run
@@ -140,6 +157,7 @@ def run(config_path: str, limit: int | None = None, log=print) -> dict:
     # 5) SCORE + SORT ------------------------------------------------------
     for c in results:
         score.score(c, cfg)
+        flag_risks(c, cfg)
     results.sort(key=lambda c: c.suitability, reverse=True)
     max_results = cfg["output"].get("max_results", 80)
     results = results[:max_results]

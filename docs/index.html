@@ -42,12 +42,12 @@
       </select>
     </div>
     <div class="control">
-      <label for="maxCommute">Max commute · <b id="maxCommuteVal">40</b> min</label>
-      <input type="range" id="maxCommute" min="10" max="40" value="40" step="1" />
+      <label for="maxCommute">Max commute · <b id="maxCommuteVal">45</b> min</label>
+      <input type="range" id="maxCommute" min="10" max="45" value="45" step="1" />
     </div>
     <div class="control">
       <label for="maxPrice">Max rent · <b id="maxPriceVal">£850</b></label>
-      <input type="range" id="maxPrice" min="700" max="850" value="850" step="10" />
+      <input type="range" id="maxPrice" min="500" max="850" value="850" step="10" />
     </div>
     <div class="control control--checks">
       <label class="check"><input type="checkbox" id="billsOnly" /> Bills included</label>
@@ -70,9 +70,12 @@
 
   <footer class="site-footer wrap">
     <p><strong>How ranking works.</strong> Each room gets a suitability % from five factors — rent within your band, real TfL commute to Imperial, bills included, a Sept–Oct move-in, and how newly listed it is. Commute is a live public-transport journey for a weekday morning. Tap “Why this score” on any card for the breakdown.</p>
-    <p class="muted">Source: SpareRoom · Commute: Transport for London · Geocoding: postcodes.io. This is a personal search aid; always verify details and never send money before viewing. Refreshed automatically each day.</p>
+    <p><strong>Comments & fraud flags are community-sourced.</strong> Anyone can post — they're public and unmoderated, so treat them as tips, not proof. A “verified advertiser” badge and a fraud report are signals to weigh, not guarantees. No tool can promise a listing is genuine: always view in person and <strong>never send money or a deposit before viewing</strong>.</p>
+    <p class="muted">Source: SpareRoom · Commute: Transport for London · Geocoding: postcodes.io · Comments: Supabase. A personal search aid, refreshed automatically each day.</p>
   </footer>
 
+  <script src="supabase-config.js"></script>
   <script src="app.js"></script>
+  <script type="module" src="comments.js"></script>
 </body>
 </html>

@@ -60,6 +60,9 @@ class Listing:
     days_old: int = 0
     available_now: bool = False
     image: str = ""
+    verified: bool = False           # SpareRoom "verified advertiser" badge
+    num_photos: int = 0              # 0 photos is a mild scam red-flag
+    risk_flags: list = field(default_factory=list)  # human safety notes
     # filled by fetch_detail()
     lat: float | None = None
     lng: float | None = None
@@ -157,6 +160,10 @@ def _parse_card(li) -> Listing | None:
         days_old = int(li.get("data-listing-days-old") or 0)
     except ValueError:
         days_old = 0
+    try:
+        num_photos = int(li.get("data-listing-ad-pics") or 0)
+    except ValueError:
+        num_photos = 0
     return Listing(
         id=str(lid),
         title=li.get("data-listing-title", "") or "",
@@ -172,6 +179,8 @@ def _parse_card(li) -> Listing | None:
         days_old=days_old,
         available_now=li.get("data-listing-available-now") == "1",
         image=li.get("data-listing-ad-profile-photo", "") or "",
+        verified=(li.get("data-listing-ad-verified", "") or "").lower() == "yes",
+        num_photos=num_photos,
     )
 
 

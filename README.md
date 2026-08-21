@@ -5,17 +5,21 @@ Imperial College London (South Kensington)** within your budget and commute, ran
 each by how well it fits, and updates itself every day — for free.
 
 - **Source:** SpareRoom (the main site for London flatshares at this budget)
-- **Budget:** £700–850 / month per room (a hard filter — set in `config.yml`)
-- **Commute:** real Transport for London journey time to Imperial (≤ 40 min)
+- **Budget:** £500–850 / month per room (a hard filter — set in `config.yml`)
+- **Commute:** real Transport for London journey time to Imperial (≤ 45 min)
 - **Ranking:** a transparent suitability % from price, commute, bills-included,
   a Sept–Oct move-in, and how newly listed the ad is
+- **Safety:** a “verified advertiser” badge, automatic scam red-flags (e.g. no
+  photos, a suspiciously cheap central room), and **community comments + fraud
+  reports** on every listing that everyone can see
 - **Hosting:** static site on **GitHub Pages**, refreshed daily by a **GitHub
-  Actions** cron job. No server to run, nothing to pay for.
+  Actions** cron job; comments live in a free **Supabase** database. Nothing to pay for.
 
-> **Reality check.** £700–850 *within 40 minutes of South Kensington* is a genuinely
-> tight slice of London. Expect a handful to a few dozen matches on any given day,
-> mostly in Fulham, Hammersmith, Earls Court, Holland Park, Putney and Battersea.
-> That's the market, not a bug — the app shows the best of what's actually there.
+> **Reality check.** £500–850 *within 45 minutes of South Kensington* is still a
+> tight slice of London. Expect a few dozen matches on any given day, mostly in
+> Fulham, Hammersmith, Earls Court, Holland Park, Putney and Battersea, with the
+> cheapest rooms sitting further out. That's the market, not a bug — the app shows
+> the best of what's actually there.
 
 ---
 
@@ -34,6 +38,23 @@ GitHub Pages serves /docs  ->  the dashboard reads the JSON, filters & sorts liv
 
 Caches in `caches/` (committed) remember geocoding and commute results so repeat
 listings aren't re-queried every day.
+
+### Community comments & fraud flags
+
+Every listing has a public comment thread (Supabase-backed) — **anyone can post
+without logging in**, and everyone sees the same comments. Ticking **“Report as
+possibly fraudulent”** files a fraud report; once a listing has any, a red
+**“⚠ N fraud reports from the community — verify very carefully”** banner shows on
+its card. Readers can 👍 a comment to agree.
+
+Row-Level Security allows only *read* and *insert* — nobody can edit or delete
+someone else's comment through the site. The Supabase URL + publishable key in
+`docs/supabase-config.js` are safe to be public (that's what publishable keys are
+for). Comments are **unmoderated** — signals to weigh, not proof.
+
+> Fraud safety is best-effort: SpareRoom's verified badge + red-flag heuristics
+> (`scraper/pipeline.py:flag_risks`) + community reports. No tool can guarantee a
+> listing is genuine — always view in person and never pay before viewing.
 
 ---
 
