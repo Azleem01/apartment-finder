@@ -68,6 +68,8 @@ class Listing:
     lng: float | None = None
     bills_included: str = "unknown"  # "yes" / "no" / "unknown"
     available: str = ""              # human string, e.g. "Available now" / "01 Sep 2026"
+    min_term: str = ""               # e.g. "None" / "6 months" / "1 year"
+    max_term: str = ""               # short max term => unsuitable for a 12-month course
     room_type: str = ""              # "double" / "single" / ""
     furnishings: str = ""
     description: str = ""
@@ -253,6 +255,8 @@ def fetch_detail(session: requests.Session, listing: Listing, log=print) -> None
     if bills:
         listing.bills_included = "yes" if bills.lower().startswith("y") else "no"
     listing.available = features.get("available", "") or listing.available
+    listing.min_term = features.get("minimum term", "")
+    listing.max_term = features.get("maximum term", "")
     listing.furnishings = features.get("furnishings", "")
 
     # Room type from title/description.

@@ -40,7 +40,7 @@ function facts(l) {
 }
 
 function breakdown(l) {
-  const order = ["budget", "commute", "bills", "move_in", "freshness"];
+  const order = ["budget", "commute", "bills", "tenancy", "freshness"];
   const rows = order.map((k) => {
     const b = l.score_breakdown?.[k];
     if (!b) return "";

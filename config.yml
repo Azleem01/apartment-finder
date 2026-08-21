@@ -46,14 +46,17 @@ weights:
   budget: 0.35      # cheaper within your band scores higher
   commute: 0.40     # faster to Imperial scores higher
   bills: 0.10       # bills included (your chosen boost)
-  move_in: 0.10     # available around your move-in window (your chosen boost)
+  tenancy: 0.10     # available for your move-in AND lets you stay the full course
   freshness: 0.05   # newly listed scores higher
 
 prefs:
-  # Boost listings available around the start of term.
+  # You're doing a 12-month master's: move in ~Sept 2026 and stay through ~Sept 2027.
   move_in_window:
     from: "2026-09-01"
     to: "2026-10-31"
+  tenancy_months: 12          # length of stay you need (rewards long-term rooms)
+  min_stay_months: 10         # drop rooms whose max term is clearly shorter than this
+  exclude_short_lets: true    # hide sublets / short-lets / Mon-Fri-only rooms
 
 # --- Output ---------------------------------------------------------------
 output:

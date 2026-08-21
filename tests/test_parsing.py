@@ -44,8 +44,9 @@ DETAIL_HTML = """
 CFG = {
     "budget": {"min": 700, "max": 850, "tolerance": 0},
     "commute": {"ideal_minutes": 30, "max_minutes": 40},
-    "weights": {"budget": .35, "commute": .40, "bills": .10, "move_in": .10, "freshness": .05},
-    "prefs": {"move_in_window": {"from": "2026-09-01", "to": "2026-10-31"}},
+    "weights": {"budget": .35, "commute": .40, "bills": .10, "tenancy": .10, "freshness": .05},
+    "prefs": {"move_in_window": {"from": "2026-09-01", "to": "2026-10-31"},
+              "tenancy_months": 12, "min_stay_months": 10, "exclude_short_lets": True},
 }
 
 
@@ -88,7 +89,23 @@ def test_scoring_bounds_and_order():
     score.score(poor, CFG)
     assert 0 <= poor.suitability <= good.suitability <= 100
     assert good.suitability > 70 and set(good.score_breakdown) == {
-        "budget", "commute", "bills", "move_in", "freshness"}
+        "budget", "commute", "bills", "tenancy", "freshness"}
+
+
+def test_term_and_short_let_detection():
+    assert score.parse_term_months("None") is None
+    assert score.parse_term_months("12 months") == 12
+    assert score.parse_term_months("1 year") == 12
+    assert score.parse_term_months("6 months") == 6
+    # sublet in the title is rejected
+    subl = spareroom.Listing(id="s", title="12 day sublet in Fulham 6th-18th")
+    assert score.short_let_reason(subl, 10)
+    # a short max term is rejected
+    short = spareroom.Listing(id="t", title="Nice double room", max_term="3 months")
+    assert score.short_let_reason(short, 10)
+    # a normal long-term room passes
+    ok = spareroom.Listing(id="u", title="Double room in a friendly flat", max_term="None")
+    assert score.short_let_reason(ok, 10) is None
 
 
 if __name__ == "__main__":

@@ -59,8 +59,6 @@ b { font-weight: 700; }
   background: rgba(255,255,255,.14); border: 1px solid rgba(255,255,255,.22);
   padding: 7px 13px; border-radius: 999px; font-size: 13px; color: #eaf1ff;
 }
-.freshness .dot { width: 8px; height: 8px; border-radius: 50%; background: #46e6a3; box-shadow: 0 0 0 0 rgba(70,230,163,.7); animation: pulse 2.2s infinite; }
-@keyframes pulse { 0%{box-shadow:0 0 0 0 rgba(70,230,163,.6)} 70%{box-shadow:0 0 0 7px rgba(70,230,163,0)} 100%{box-shadow:0 0 0 0 rgba(70,230,163,0)} }
 
 /* ---- Stats ---- */
 .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-top: -14px; }

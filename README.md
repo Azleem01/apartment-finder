@@ -8,7 +8,8 @@ each by how well it fits, and updates itself every day — for free.
 - **Budget:** £500–850 / month per room (a hard filter — set in `config.yml`)
 - **Commute:** real Transport for London journey time to Imperial (≤ 45 min)
 - **Ranking:** a transparent suitability % from price, commute, bills-included,
-  a Sept–Oct move-in, and how newly listed the ad is
+  tenancy fit (move in ~Sept 2026 and stay the full 12-month course), and freshness.
+  Short-lets and sublets are filtered out.
 - **Safety:** a “verified advertiser” badge, automatic scam red-flags (e.g. no
   photos, a suspiciously cheap central room), and **community comments + fraud
   reports** on every listing that everyone can see

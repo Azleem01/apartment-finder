@@ -79,21 +79,68 @@ def parse_available_date(text: str) -> dt.date | None:
     return None
 
 
-def move_in_score(listing: Listing, cfg: dict) -> tuple[float, str]:
+def parse_term_months(text: str):
+    """Parse a SpareRoom term string to months. 'None' -> None, days -> 0."""
+    t = (text or "").strip().lower()
+    if not t or t in ("none", "n/a", "no minimum", "no maximum", "-"):
+        return None
+    m = re.search(r"(\d+)\s*(year|yr)", t)
+    if m:
+        return int(m.group(1)) * 12
+    m = re.search(r"(\d+)\s*month", t)
+    if m:
+        return int(m.group(1))
+    m = re.search(r"(\d+)\s*week", t)
+    if m:
+        return max(1, round(int(m.group(1)) / 4.345))
+    if re.search(r"(\d+)\s*(night|day)", t):
+        return 0                       # days => far too short
+    return None
+
+
+# Titles/descriptions that signal a short stay, unsuitable for a 12-month course.
+_SHORTLET_RE = re.compile(
+    r"\b(sub-?let|short[- ]?let|short[- ]?term|holiday\s+let|temporary|"
+    r"mon(day)?\s*[-–to ]+\s*fri(day)?|weekdays?\s+only|nights?\s+only|"
+    r"days?\s+only|per\s+night)\b", re.I)
+
+
+def short_let_reason(listing: Listing, min_stay_months: int):
+    """Return a reason string if this is a short-let (unsuitable), else None."""
+    hay = f"{listing.title} {listing.description}"
+    if _SHORTLET_RE.search(hay):
+        return "short-term / sublet listing"
+    mx = parse_term_months(listing.max_term)
+    if mx is not None and mx < min_stay_months:
+        return f"max term ~{mx} month(s) — too short for your course"
+    return None
+
+
+def tenancy_score(listing: Listing, cfg: dict) -> tuple[float, str]:
+    """Combines move-in timing (~Sept 2026) with the ability to stay the full course."""
     win = cfg["prefs"]["move_in_window"]
-    start = dt.date.fromisoformat(str(win["from"]))
     end = dt.date.fromisoformat(str(win["to"]))
+    need = int(cfg["prefs"].get("tenancy_months", 12))
+
     date = parse_available_date(listing.available) or (
-        dt.date.today() if listing.available_now else None
-    )
+        dt.date.today() if listing.available_now else None)
     if date is None:
-        return 0.5, "availability unknown"
-    if date <= end:
-        # Available by (or before) the end of your window — you can move in on time.
-        return 1.0, f"available {date.isoformat()}"
-    # Available after the window: decline ~0.25 per month late.
-    months_late = (date.year - end.year) * 12 + (date.month - end.month)
-    return max(0.0, 1.0 - 0.25 * months_late), f"available {date.isoformat()} (after window)"
+        timing, tnote = 0.5, "availability unknown"
+    elif date <= end:
+        timing, tnote = 1.0, f"available {date.isoformat()}"
+    else:
+        late = (date.year - end.year) * 12 + (date.month - end.month)
+        timing, tnote = max(0.0, 1.0 - 0.25 * late), f"available {date.isoformat()} (late)"
+
+    mx = parse_term_months(listing.max_term)
+    if mx is None:
+        stay, snote = 0.9, "no max term"
+    elif mx >= need:
+        stay, snote = 1.0, f"stay up to {mx} months"
+    else:
+        stay, snote = max(0.0, mx / need), f"max {mx} months"
+
+    return 0.6 * timing + 0.4 * stay, f"{tnote}; {snote}"
 
 
 def freshness_score(days_old: int) -> tuple[float, str]:
@@ -109,7 +156,7 @@ def score(listing: Listing, cfg: dict) -> None:
         "budget": (budget_score(listing.price_pcm, cfg), w["budget"]),
         "commute": (commute_score(listing.commute_minutes, cfg), w["commute"]),
         "bills": (bills_score(listing), w["bills"]),
-        "move_in": (move_in_score(listing, cfg), w["move_in"]),
+        "tenancy": (tenancy_score(listing, cfg), w["tenancy"]),
         "freshness": (freshness_score(listing.days_old), w["freshness"]),
     }
     total = 0.0

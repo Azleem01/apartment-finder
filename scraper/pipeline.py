@@ -113,22 +113,31 @@ def run(config_path: str, limit: int | None = None, log=print) -> dict:
     max_minutes = cfg["commute"]["max_minutes"]
     results: list[spareroom.Listing] = []
     dropped_commute = 0
+    dropped_shortlet = 0
     for i, c in enumerate(candidates, 1):
         # -- detail (coords, bills, availability) --
         cached = detail_cache.get_fresh(c.id, DETAIL_MAX_AGE)
         if cached:
-            for k in ("lat", "lng", "bills_included", "available",
-                      "room_type", "furnishings", "description", "url"):
+            for k in ("lat", "lng", "bills_included", "available", "min_term",
+                      "max_term", "room_type", "furnishings", "description", "url"):
                 if cached.get(k) not in (None, ""):
                     setattr(c, k, cached[k])
         else:
             spareroom.fetch_detail(sr, c, log=log)
             detail_cache.put(c.id, {
                 "lat": c.lat, "lng": c.lng, "bills_included": c.bills_included,
-                "available": c.available, "room_type": c.room_type,
-                "furnishings": c.furnishings, "description": c.description, "url": c.url,
+                "available": c.available, "min_term": c.min_term, "max_term": c.max_term,
+                "room_type": c.room_type, "furnishings": c.furnishings,
+                "description": c.description, "url": c.url,
             })
             time.sleep(delay)
+
+        # -- drop short-lets / sublets: no use for a 12-month course --
+        if cfg["prefs"].get("exclude_short_lets", True):
+            reason = score.short_let_reason(c, cfg["prefs"].get("min_stay_months", 10))
+            if reason:
+                dropped_shortlet += 1
+                continue
 
         # -- commute (prefer exact coords, fall back to outcode centroid) --
         lat, lng = (c.lat, c.lng)
@@ -162,7 +171,7 @@ def run(config_path: str, limit: int | None = None, log=print) -> dict:
     max_results = cfg["output"].get("max_results", 80)
     results = results[:max_results]
     log(f"{len(results)} listings within {max_minutes} min "
-        f"({dropped_commute} dropped for commute)")
+        f"({dropped_commute} dropped for commute, {dropped_shortlet} short-lets removed)")
 
     # 6) WRITE -------------------------------------------------------------
     listings_path = ROOT / cfg["output"]["listings_path"]
