@@ -1,0 +1,62 @@
+# ============================================================================
+#  Apartment Finder — configuration
+#  Everything you might want to tweak lives here. No code changes needed.
+# ============================================================================
+
+# --- Your hard budget (the most important filter) -------------------------
+# Only rooms whose monthly rent (per room) falls in [min, max] are ever shown.
+# `tolerance` optionally widens the band a little (e.g. 25 => include up to 875)
+# and those over-budget listings are penalised, not hidden. Default 0 = strict.
+budget:
+  min: 700
+  max: 850
+  tolerance: 0
+
+# --- Commute to Imperial College (South Kensington) -----------------------
+# Commute is measured with TfL's Journey Planner for a fixed weekday morning
+# so numbers are stable and represent a real term-time commute.
+commute:
+  destination_postcode: "SW7 2AZ"   # Imperial College, South Kensington campus
+  max_minutes: 40                    # drop anything slower than this
+  ideal_minutes: 30                  # at/under this = top commute score
+  weekday: "next-monday"             # departure day for the estimate
+  depart_time: "0900"                # HHMM, 24h
+  # Optional free TfL API key for higher rate limits (works fine without one).
+  app_key: ""
+
+# --- Where to search ------------------------------------------------------
+# center_path is a SpareRoom area URL segment; radius_miles fans out from it.
+# The commute filter above is what actually enforces "within 30-40 minutes",
+# so the radius only needs to be generous enough to catch candidates.
+search:
+  center_path: "london/south_kensington"
+  radius_miles: 3          # tighter net around Imperial => pool biased to commutable areas
+  max_pages: 20            # ~10 listings/page => ~200-card pool, we enrich the closest
+  rooms_only: true        # rooms in shared flats (flatshares), not whole flats
+  exclude_1beds: true
+  exclude_buddyup: true
+  sort_by: "days_since_placed"   # freshest first
+  request_delay_seconds: 1.5     # politeness between requests
+  # Cap how many candidates we fetch full detail + commute for, per run.
+  enrich_limit: 60
+
+# --- Ranking: what makes a listing score well -----------------------------
+# Weights must sum to ~1.0. Retune to taste (e.g. value commute over price).
+weights:
+  budget: 0.35      # cheaper within your band scores higher
+  commute: 0.40     # faster to Imperial scores higher
+  bills: 0.10       # bills included (your chosen boost)
+  move_in: 0.10     # available around your move-in window (your chosen boost)
+  freshness: 0.05   # newly listed scores higher
+
+prefs:
+  # Boost listings available around the start of term.
+  move_in_window:
+    from: "2026-09-01"
+    to: "2026-10-31"
+
+# --- Output ---------------------------------------------------------------
+output:
+  listings_path: "docs/data/listings.json"
+  meta_path: "docs/data/meta.json"
+  max_results: 80        # cap listings written to the site

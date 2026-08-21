@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Rooms near Imperial · Daily digest</title>
+  <meta name="description" content="A daily-refreshed, ranked shortlist of SpareRoom rooms near Imperial College London, within budget and commute." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏠</text></svg>" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <div class="brand">
+        <span class="brand__logo" aria-hidden="true">🏠</span>
+        <div>
+          <h1>Rooms near Imperial</h1>
+          <p class="brand__sub">Daily shortlist · South Kensington commute · your budget</p>
+        </div>
+      </div>
+      <div class="freshness" id="freshness">
+        <span class="dot"></span><span id="updated">Loading…</span>
+      </div>
+    </div>
+  </header>
+
+  <section class="stats wrap" id="stats" hidden>
+    <div class="stat"><span class="stat__num" id="statCount">–</span><span class="stat__label">matches shown</span></div>
+    <div class="stat"><span class="stat__num" id="statScanned">–</span><span class="stat__label">ads scanned</span></div>
+    <div class="stat"><span class="stat__num" id="statBudget">–</span><span class="stat__label">your budget /mo</span></div>
+    <div class="stat"><span class="stat__num" id="statCommute">–</span><span class="stat__label">max commute</span></div>
+  </section>
+
+  <div class="wrap controls" id="controls" hidden>
+    <div class="control">
+      <label for="sort">Sort by</label>
+      <select id="sort">
+        <option value="suitability">Best match</option>
+        <option value="price">Cheapest</option>
+        <option value="commute">Fastest commute</option>
+        <option value="newest">Newest</option>
+      </select>
+    </div>
+    <div class="control">
+      <label for="maxCommute">Max commute · <b id="maxCommuteVal">40</b> min</label>
+      <input type="range" id="maxCommute" min="10" max="40" value="40" step="1" />
+    </div>
+    <div class="control">
+      <label for="maxPrice">Max rent · <b id="maxPriceVal">£850</b></label>
+      <input type="range" id="maxPrice" min="700" max="850" value="850" step="10" />
+    </div>
+    <div class="control control--checks">
+      <label class="check"><input type="checkbox" id="billsOnly" /> Bills included</label>
+      <label class="check"><input type="checkbox" id="newOnly" /> New today</label>
+    </div>
+    <div class="control control--search">
+      <label for="q">Filter area</label>
+      <input type="search" id="q" placeholder="e.g. Fulham, W6…" />
+    </div>
+  </div>
+
+  <main class="wrap">
+    <div id="notice" class="notice" hidden></div>
+    <div id="grid" class="grid" aria-live="polite"></div>
+    <div id="empty" class="empty" hidden>
+      <p>No rooms match these filters right now.</p>
+      <p class="empty__hint">Try widening the commute or clearing filters. £700–850 within 40 min of South Kensington is a tight slice of the market — some days are thin.</p>
+    </div>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>How ranking works.</strong> Each room gets a suitability % from five factors — rent within your band, real TfL commute to Imperial, bills included, a Sept–Oct move-in, and how newly listed it is. Commute is a live public-transport journey for a weekday morning. Tap “Why this score” on any card for the breakdown.</p>
+    <p class="muted">Source: SpareRoom · Commute: Transport for London · Geocoding: postcodes.io. This is a personal search aid; always verify details and never send money before viewing. Refreshed automatically each day.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

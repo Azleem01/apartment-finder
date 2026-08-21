@@ -1,0 +1,127 @@
+"""
+Suitability scoring.
+
+Each listing gets a 0-100 % built from five components, weighted per config.
+Budget and commute dominate (your priorities); bills-included and a Sept-Oct
+move-in are your chosen boosts; freshness gently favours brand-new ads.
+
+Every component also records a plain-English reason, stored on the listing as
+`score_breakdown` and shown in the dashboard's "why this score" panel.
+"""
+
+from __future__ import annotations
+
+import datetime as dt
+import re
+
+from .spareroom import Listing
+
+
+def _interp(x: float, points: list[tuple[float, float]]) -> float:
+    """Piecewise-linear interpolation over (x, y) anchor points (x ascending)."""
+    if x <= points[0][0]:
+        return points[0][1]
+    if x >= points[-1][0]:
+        return points[-1][1]
+    for (x0, y0), (x1, y1) in zip(points, points[1:]):
+        if x0 <= x <= x1:
+            t = (x - x0) / (x1 - x0) if x1 != x0 else 0
+            return y0 + t * (y1 - y0)
+    return points[-1][1]
+
+
+def budget_score(price: int, cfg: dict) -> tuple[float, str]:
+    lo, hi = cfg["budget"]["min"], cfg["budget"]["max"]
+    if price <= 0:
+        return 0.3, "rent unknown"
+    # Cheaper within band = better; decline past the band.
+    s = _interp(price, [(lo, 1.0), (hi, 0.6), (hi + 100, 0.2)])
+    note = f"£{price} pcm (band £{lo}-£{hi})"
+    if price > hi:
+        note += " — over budget"
+    return max(0.0, min(1.0, s)), note
+
+
+def commute_score(minutes: int | None, cfg: dict) -> tuple[float, str]:
+    if minutes is None:
+        return 0.3, "commute unknown"
+    ideal = cfg["commute"]["ideal_minutes"]
+    mx = cfg["commute"]["max_minutes"]
+    s = _interp(minutes, [(10, 1.0), (ideal, 0.8), (mx, 0.5), (mx + 20, 0.0)])
+    return max(0.0, min(1.0, s)), f"{minutes} min to Imperial"
+
+
+def bills_score(listing: Listing) -> tuple[float, str]:
+    b = listing.bills_included
+    if b == "yes":
+        return 1.0, "bills included"
+    if b == "no":
+        return 0.0, "bills not included"
+    return 0.4, "bills not stated"
+
+
+_DATE_FORMATS = ("%d %b %Y", "%d %B %Y", "%d %b %y", "%d/%m/%Y", "%d/%m/%y")
+
+
+def parse_available_date(text: str) -> dt.date | None:
+    t = (text or "").strip()
+    if not t:
+        return None
+    if "now" in t.lower():
+        return dt.date.today()
+    m = re.search(r"\d{1,2}[ /][A-Za-z]{3,9}[ /]\d{2,4}|\d{1,2}/\d{1,2}/\d{2,4}", t)
+    frag = m.group(0) if m else t
+    for fmt in _DATE_FORMATS:
+        try:
+            return dt.datetime.strptime(frag.strip(), fmt).date()
+        except ValueError:
+            continue
+    return None
+
+
+def move_in_score(listing: Listing, cfg: dict) -> tuple[float, str]:
+    win = cfg["prefs"]["move_in_window"]
+    start = dt.date.fromisoformat(str(win["from"]))
+    end = dt.date.fromisoformat(str(win["to"]))
+    date = parse_available_date(listing.available) or (
+        dt.date.today() if listing.available_now else None
+    )
+    if date is None:
+        return 0.5, "availability unknown"
+    if date <= end:
+        # Available by (or before) the end of your window — you can move in on time.
+        return 1.0, f"available {date.isoformat()}"
+    # Available after the window: decline ~0.25 per month late.
+    months_late = (date.year - end.year) * 12 + (date.month - end.month)
+    return max(0.0, 1.0 - 0.25 * months_late), f"available {date.isoformat()} (after window)"
+
+
+def freshness_score(days_old: int) -> tuple[float, str]:
+    s = _interp(days_old, [(0, 1.0), (1, 1.0), (3, 0.85), (7, 0.65), (14, 0.45), (30, 0.3)])
+    label = "listed today" if days_old == 0 else f"listed {days_old} day(s) ago"
+    return s, label
+
+
+def score(listing: Listing, cfg: dict) -> None:
+    """Compute suitability % + breakdown, writing them onto the listing in place."""
+    w = cfg["weights"]
+    parts = {
+        "budget": (budget_score(listing.price_pcm, cfg), w["budget"]),
+        "commute": (commute_score(listing.commute_minutes, cfg), w["commute"]),
+        "bills": (bills_score(listing), w["bills"]),
+        "move_in": (move_in_score(listing, cfg), w["move_in"]),
+        "freshness": (freshness_score(listing.days_old), w["freshness"]),
+    }
+    total = 0.0
+    breakdown = {}
+    for name, ((raw, note), weight) in parts.items():
+        contribution = raw * weight
+        total += contribution
+        breakdown[name] = {
+            "score": round(raw, 3),
+            "weight": weight,
+            "points": round(contribution * 100, 1),  # points out of 100
+            "note": note,
+        }
+    listing.suitability = int(round(total * 100))
+    listing.score_breakdown = breakdown

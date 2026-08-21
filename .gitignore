@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS
+.DS_Store
+
+# Local scratch / logs
+*.log
+scratch/
+
+# NOTE: caches/ and docs/data/*.json are intentionally committed —
+# the daily GitHub Action updates them and the site reads them.
