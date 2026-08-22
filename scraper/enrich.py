@@ -11,6 +11,7 @@ Enrichment: geography + commute.
 from __future__ import annotations
 
 import math
+import time
 import datetime as dt
 from urllib.parse import quote
 
@@ -77,6 +78,55 @@ def geocode_outcode(session: requests.Session, outcode: str, cache: dict) -> tup
         coords = None
     cache[outcode] = list(coords) if coords else None
     return coords
+
+
+NOMINATIM = "https://nominatim.openstreetmap.org/search"
+POSTCODES_REVERSE = "https://api.postcodes.io/postcodes?lon={lng}&lat={lat}&limit=1"
+
+
+def geocode_place(session: requests.Session, query: str, cache: dict) -> tuple[float, float] | None:
+    """Free-text UK place (e.g. 'Ealing, London') -> (lat, lng) via Nominatim, cached."""
+    query = (query or "").strip()
+    if not query:
+        return None
+    key = query.lower()
+    if key in cache:
+        v = cache[key]
+        return (v[0], v[1]) if v else None
+    coords = None
+    try:
+        url = f"{NOMINATIM}?q={quote(query)}&format=jsonv2&limit=1&countrycodes=gb"
+        r = session.get(url, timeout=25, headers={
+            "User-Agent": "apartment-finder/1.0 (personal room search; contact via github)"})
+        r.raise_for_status()
+        data = r.json()
+        if data:
+            coords = (float(data[0]["lat"]), float(data[0]["lon"]))
+    except (requests.RequestException, ValueError, KeyError, IndexError):
+        coords = None
+    time.sleep(1.0)                      # Nominatim usage policy: max ~1 req/sec
+    cache[key] = list(coords) if coords else None
+    return coords
+
+
+def reverse_geocode(session: requests.Session, lat: float, lng: float, cache: dict) -> dict:
+    """Coords -> {'postcode','area'} via postcodes.io, cached by rounded coords."""
+    key = f"{round(lat,4)},{round(lng,4)}"
+    if key in cache:
+        return cache[key]
+    out = {"postcode": "", "area": ""}
+    try:
+        data = _get_json(session, POSTCODES_REVERSE.format(lng=lng, lat=lat))
+        res = (data.get("result") or [])
+        if res:
+            r = res[0]
+            out = {"postcode": (r.get("outcode") or r.get("postcode") or "").split()[0]
+                   if (r.get("outcode") or r.get("postcode")) else "",
+                   "area": r.get("admin_ward") or r.get("parish") or r.get("admin_district") or ""}
+    except (requests.RequestException, ValueError, KeyError):
+        pass
+    cache[key] = out
+    return out
 
 
 def resolve_departure(cfg: dict) -> tuple[str, str]:

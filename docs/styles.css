@@ -157,6 +157,18 @@ b { font-weight: 700; }
 
 .fact--posted { font-weight: 600; color: var(--ink-soft); }
 
+/* ---- Source labels ---- */
+.src { display: inline-block; font-size: 11px; font-weight: 800; letter-spacing: .02em;
+  text-transform: uppercase; padding: 2px 8px; border-radius: 6px; margin-bottom: 6px; color: #fff; }
+.src--spareroom { background: #e4572e; }
+.src--gumtree { background: #58c322; color: #06260a; }
+.src--openrent { background: #1b7fd6; }
+.src--roomgo { background: #7b3fe4; }
+.srcfilter { display: flex; flex-wrap: wrap; gap: 8px; }
+.srcchip { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px;
+  padding: 4px 10px; border: 1px solid var(--line); border-radius: 999px; cursor: pointer; color: var(--ink-soft); }
+.srcchip input { accent-color: var(--brand-2); }
+
 /* ---- Trust / safety ---- */
 .chip--verified { background: color-mix(in srgb, var(--good) 16%, var(--surface)); color: var(--good); border: 1px solid color-mix(in srgb, var(--good) 30%, transparent); }
 .chip--risk { background: color-mix(in srgb, var(--mid) 18%, var(--surface)); color: var(--mid); border: 1px solid color-mix(in srgb, var(--mid) 38%, transparent); }

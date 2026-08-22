@@ -48,6 +48,7 @@ _PRICE_RE = re.compile(r"([0-9][0-9,]*(?:\.[0-9]+)?)")
 class Listing:
     """One room ad. Fields fill in progressively: search -> detail -> commute -> score."""
     id: str
+    source: str = "SpareRoom"        # which site this came from
     title: str = ""
     url: str = ""                    # canonical public ad URL
     price_pcm: int = 0               # normalised monthly rent for the room
@@ -58,6 +59,7 @@ class Listing:
     rooms_in_property: str = ""
     advertiser_role: str = ""        # agent / live in landlord / current flatmate ...
     days_old: int = 0
+    days_old_known: bool = True      # False when a source can't tell us the posting age
     available_now: bool = False
     image: str = ""
     verified: bool = False           # SpareRoom "verified advertiser" badge

@@ -42,6 +42,17 @@ search:
   # Cap how many candidates we fetch full detail + commute for, per run.
   enrich_limit: 80
 
+# --- Sources: which sites to pull from -----------------------------------
+# SpareRoom is deprioritised in ranking (see source_priority) because you're
+# not getting responses there. Amber is intentionally omitted: its London
+# student halls all start well above your £950 ceiling.
+sources:
+  enabled: [SpareRoom, Gumtree, OpenRent]
+  gumtree:
+    max_pages: 4
+  openrent:
+    location: "South Kensington, London"
+
 # --- Ranking: what makes a listing score well -----------------------------
 # Weights must sum to ~1.0. Retune to taste (e.g. value commute over price).
 weights:
@@ -50,6 +61,14 @@ weights:
   bills: 0.10       # bills included (your chosen boost)
   tenancy: 0.10     # available for your move-in AND lets you stay the full course
   freshness: 0.05   # newly listed scores higher
+
+# Per-source ranking multiplier (1.0 = neutral). SpareRoom is knocked down so
+# other sites' rooms rank above it at a similar match — you're getting no
+# SpareRoom replies, so it should not dominate the list.
+source_priority:
+  SpareRoom: 0.85
+  Gumtree: 1.0
+  OpenRent: 1.0
 
 prefs:
   # You're doing a 12-month master's: move in ~Sept 2026 and stay through ~Sept 2027.

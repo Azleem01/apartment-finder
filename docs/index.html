@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Rooms near Imperial · Daily digest</title>
-  <meta name="description" content="A daily-refreshed, ranked shortlist of SpareRoom rooms near Imperial College London, within budget and commute." />
+  <meta name="description" content="A daily-refreshed, ranked shortlist of rooms near Imperial College London from SpareRoom, Gumtree and OpenRent — within budget and commute." />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏠</text></svg>" />
   <link rel="stylesheet" href="styles.css" />
 </head>
@@ -53,6 +53,10 @@
       <label class="check"><input type="checkbox" id="billsOnly" /> Bills included</label>
       <label class="check"><input type="checkbox" id="newOnly" /> New today</label>
     </div>
+    <div class="control control--sites">
+      <label>Sites</label>
+      <div id="srcFilter" class="srcfilter"></div>
+    </div>
     <div class="control control--search">
       <label for="q">Filter area</label>
       <input type="search" id="q" placeholder="e.g. Fulham, W6…" />
@@ -64,14 +68,14 @@
     <div id="grid" class="grid" aria-live="polite"></div>
     <div id="empty" class="empty" hidden>
       <p>No rooms match these filters right now.</p>
-      <p class="empty__hint">Try widening the commute or clearing filters. £700–850 within 40 min of South Kensington is a tight slice of the market — some days are thin.</p>
+      <p class="empty__hint">Try widening the commute or clearing filters. £500–950 within 45 min of South Kensington is a tight slice of the market — some days are thin.</p>
     </div>
   </main>
 
   <footer class="site-footer wrap">
     <p><strong>How ranking works.</strong> Each room gets a suitability % from five factors — rent within your band, real TfL commute to Imperial, bills included, tenancy fit (available ~Sept 2026 and lets you stay the full 12-month course), and how newly listed it is. Short-lets and sublets are filtered out. Commute is a live public-transport journey for a weekday morning. Tap “Why this score” on any card for the breakdown.</p>
     <p><strong>Comments & fraud flags are community-sourced.</strong> Anyone can post — they're public and unmoderated, so treat them as tips, not proof. A “verified advertiser” badge and a fraud report are signals to weigh, not guarantees. No tool can promise a listing is genuine: always view in person and <strong>never send money or a deposit before viewing</strong>.</p>
-    <p class="muted">Source: SpareRoom · Commute: Transport for London · Geocoding: postcodes.io · Comments: Supabase. A personal search aid, refreshed automatically each day.</p>
+    <p class="muted">Sources: SpareRoom, Gumtree, OpenRent (SpareRoom deprioritised — you weren't getting replies there) · Commute: Transport for London · Geocoding: postcodes.io &amp; OpenStreetMap · Comments: Supabase. A personal search aid, refreshed automatically each day.</p>
   </footer>
 
   <script src="supabase-config.js"></script>

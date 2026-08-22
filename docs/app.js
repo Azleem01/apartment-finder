@@ -17,6 +17,8 @@ function postedLabel(days) {
   return `${d} days ago`;
 }
 
+function srcClass(s) { return "src--" + String(s || "").toLowerCase().replace(/[^a-z0-9]+/g, ""); }
+
 function goodImage(url) {
   if (!url) return null;
   if (!/^https?:\/\//.test(url)) return null;          // relative placeholder
@@ -39,7 +41,9 @@ function facts(l) {
   else if (l.property_type) bits.push(`<span class="fact">🏢 ${esc(l.property_type)}</span>`);
   if (l.advertiser_role) bits.push(`<span class="fact">👤 ${esc(l.advertiser_role)}</span>`);
   if (l.bills_included === "yes") bits.push(`<span class="chip chip--bills">Bills included</span>`);
-  if (Number(l.days_old) === 0)
+  if (l.days_old_known === false)
+    bits.push(`<span class="fact fact--posted">🕒 Recently listed</span>`);
+  else if (Number(l.days_old) === 0)
     bits.push(`<span class="chip chip--new">🕒 Posted today</span>`);
   else
     bits.push(`<span class="fact fact--posted">🕒 Posted ${postedLabel(l.days_old)}</span>`);
@@ -72,6 +76,7 @@ function card(l) {
     <div class="card__top">
       ${thumb(l)}
       <div class="card__head">
+        <span class="src ${srcClass(l.source)}" title="Listing source">${esc(l.source || "SpareRoom")}</span>
         <h3 class="card__title">${esc(l.title || "Room to rent")}</h3>
         <p class="card__loc">${esc(loc)}${commute ? " · " + commute : ""}</p>
       </div>
@@ -106,7 +111,11 @@ function apply() {
   const newOnly = $("newOnly").checked;
   const q = $("q").value.trim().toLowerCase();
 
+  const activeSrc = new Set(
+    [...document.querySelectorAll("#srcFilter input:checked")].map((i) => i.value));
+
   let rows = state.all.filter((l) => {
+    if (activeSrc.size && !activeSrc.has(l.source)) return false;
     if (l.price_pcm > maxP) return false;
     if (l.commute_minutes != null && l.commute_minutes > maxC) return false;
     if (billsOnly && l.bills_included !== "yes") return false;
@@ -157,6 +166,16 @@ function initControls() {
   sync();
 }
 
+function buildSourceFilter() {
+  const wrap = $("srcFilter");
+  if (!wrap) return;
+  const srcs = [...new Set(state.all.map((l) => l.source || "SpareRoom"))].sort();
+  wrap.innerHTML = srcs.map((s) =>
+    `<label class="srcchip ${srcClass(s)}"><input type="checkbox" value="${esc(s)}" checked /> ${esc(s)}</label>`
+  ).join("");
+  wrap.querySelectorAll("input").forEach((i) => i.addEventListener("change", apply));
+}
+
 async function main() {
   try {
     const [listings, meta] = await Promise.all([
@@ -189,6 +208,7 @@ async function main() {
       $("notice").hidden = false;
       $("notice").textContent = "No listings in the latest run. The daily refresh will try again — or widen the budget/commute in config.";
     }
+    buildSourceFilter();
     initControls();
     apply();
   } catch (e) {

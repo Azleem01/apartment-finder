@@ -108,7 +108,7 @@ def parse_term_months(text: str):
 _SHORTLET_RE = re.compile(
     r"\b(sub-?let|short[- ]?let|short[- ]?term|holiday\s+let|temporary|"
     r"mon(day)?\s*[-–to ]+\s*fri(day)?|weekdays?\s+only|nights?\s+only|"
-    r"days?\s+only|per\s+night)\b", re.I)
+    r"days?\s+only|per\s+night|\d+\s*nights?\s*(a|per|/)\s*week|nights?\s+a\s+week)\b", re.I)
 
 
 def short_let_reason(listing: Listing, min_stay_months: int):
@@ -176,5 +176,10 @@ def score(listing: Listing, cfg: dict) -> None:
             "points": round(contribution * 100, 1),  # points out of 100
             "note": note,
         }
-    listing.suitability = int(round(total * 100))
+    # Deprioritise some sources (e.g. SpareRoom) with a ranking multiplier.
+    priority = cfg.get("source_priority", {}).get(listing.source, 1.0)
+    listing.suitability = int(round(total * priority * 100))
     listing.score_breakdown = breakdown
+    if priority != 1.0:
+        breakdown["source"] = {"score": priority, "weight": 0, "points": 0,
+                               "note": f"{listing.source} ×{priority} priority"}
