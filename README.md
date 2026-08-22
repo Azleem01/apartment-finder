@@ -5,7 +5,9 @@ Imperial College London (South Kensington)** within your budget and commute, ran
 each by how well it fits, and updates itself every day — for free.
 
 - **Source:** SpareRoom (the main site for London flatshares at this budget)
-- **Budget:** £500–850 / month per room (a hard filter — set in `config.yml`)
+- **Budget:** up to £950 / month per room, but rooms **≤ £850 score highest**
+  (cheaper is always better; £850–950 is a penalised stretch) — set in `config.yml`
+- **Recency:** only ads **posted within the last 3 days** (freshest first)
 - **Commute:** real Transport for London journey time to Imperial (≤ 45 min)
 - **Ranking:** a transparent suitability % from price, commute, bills-included,
   tenancy fit (move in ~Sept 2026 and stay the full 12-month course), and freshness.

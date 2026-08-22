@@ -31,14 +31,20 @@ def _interp(x: float, points: list[tuple[float, float]]) -> float:
 
 
 def budget_score(price: int, cfg: dict) -> tuple[float, str]:
-    lo, hi = cfg["budget"]["min"], cfg["budget"]["max"]
+    lo = cfg["budget"]["min"]
+    hard = cfg["budget"]["max"]
+    pref = cfg["budget"].get("preferred_max", hard)
     if price <= 0:
         return 0.3, "rent unknown"
-    # Cheaper within band = better; decline past the band.
-    s = _interp(price, [(lo, 1.0), (hi, 0.6), (hi + 100, 0.2)])
-    note = f"£{price} pcm (band £{lo}-£{hi})"
-    if price > hi:
-        note += " — over budget"
+    # Cheaper is always better. Top score at the floor, ~0.6 at the preferred
+    # ceiling, then a steeper drop through the stretch band up to the hard max.
+    if hard > pref:
+        s = _interp(price, [(lo, 1.0), (pref, 0.6), (hard, 0.25)])
+    else:
+        s = _interp(price, [(lo, 1.0), (pref, 0.6), (pref + 100, 0.2)])
+    note = f"£{price} pcm (best value ≤ £{pref})"
+    if price > pref:
+        note = f"£{price} pcm — above your preferred £{pref}"
     return max(0.0, min(1.0, s)), note
 
 

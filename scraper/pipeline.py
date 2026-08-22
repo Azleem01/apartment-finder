@@ -88,18 +88,21 @@ def run(config_path: str, limit: int | None = None, log=print) -> dict:
     cards = spareroom.search(sr, cfg, log=log)
     scanned = len(cards)
 
-    # 2) BUDGET FILTER + de-dupe ------------------------------------------
+    # 2) BUDGET + RECENCY FILTER + de-dupe --------------------------------
+    max_days = cfg["search"].get("max_days_old", 3)
     in_budget = [c for c in cards if lo <= c.price_pcm <= hi]
-    log(f"{scanned} scanned -> {len(in_budget)} within £{lo}-£{hi}")
+    fresh = [c for c in in_budget if c.days_old <= max_days]
+    log(f"{scanned} scanned -> {len(in_budget)} within £{lo}-£{hi} "
+        f"-> {len(fresh)} posted within {max_days} days")
 
-    # 3) PRUNE by rough distance, then prioritise fresh + close -----------
+    # 3) PRUNE by rough distance, then prioritise close -------------------
     prefilter_km = cfg["search"]["radius_miles"] * 1.60934 + 3
     def rough_km(c):
         coords = enrich.geocode_outcode(api, c.postcode, outcode_cache.data)
         return enrich.haversine_km(*imperial, *coords) if coords else 999.0
-    for c in in_budget:
+    for c in fresh:
         c._km = rough_km(c)  # type: ignore[attr-defined]
-    candidates = [c for c in in_budget if c._km <= prefilter_km]
+    candidates = [c for c in fresh if c._km <= prefilter_km]
     # Enrich closest-first: these are the likeliest to clear the commute gate and
     # rank well, so we spend the enrichment budget where it pays off. (Freshness
     # still influences the final suitability score, just not this ordering.)
@@ -186,8 +189,9 @@ def run(config_path: str, limit: int | None = None, log=print) -> dict:
         "count": len(results),
         "scanned": scanned,
         "within_budget": len(in_budget),
+        "posted_within_days": max_days,
         "source": "SpareRoom",
-        "budget": {"min": lo, "max": hi},
+        "budget": {"min": lo, "max": hi, "preferred_max": cfg["budget"].get("preferred_max", hi)},
         "commute": {
             "destination": cfg["commute"]["destination_postcode"],
             "max_minutes": max_minutes,

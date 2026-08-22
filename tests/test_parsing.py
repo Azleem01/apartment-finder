@@ -92,6 +92,14 @@ def test_scoring_bounds_and_order():
         "budget", "commute", "bills", "tenancy", "freshness"}
 
 
+def test_budget_prefers_cheaper_and_penalises_stretch():
+    cfg = {"budget": {"min": 500, "max": 950, "preferred_max": 850}}
+    cheap, _ = score.budget_score(550, cfg)
+    pref_edge, _ = score.budget_score(850, cfg)
+    stretch, _ = score.budget_score(930, cfg)
+    assert cheap > pref_edge > stretch          # cheaper always wins; £850-950 penalised
+
+
 def test_term_and_short_let_detection():
     assert score.parse_term_months("None") is None
     assert score.parse_term_months("12 months") == 12

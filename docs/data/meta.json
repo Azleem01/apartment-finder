@@ -1,13 +1,15 @@
 {
- "generated_at": "2026-08-22T06:25:42.329850+00:00",
- "generated_at_human": "Sat 22 Aug 2026, 06:25 UTC",
- "count": 43,
- "scanned": 230,
- "within_budget": 227,
+ "generated_at": "2026-08-22T10:30:09.345212+00:00",
+ "generated_at_human": "Sat 22 Aug 2026, 10:30 UTC",
+ "count": 51,
+ "scanned": 236,
+ "within_budget": 235,
+ "posted_within_days": 3,
  "source": "SpareRoom",
  "budget": {
   "min": 500,
-  "max": 850
+  "max": 950,
+  "preferred_max": 850
  },
  "commute": {
   "destination": "SW7 2AZ",

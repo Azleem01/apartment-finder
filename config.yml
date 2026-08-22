@@ -9,7 +9,8 @@
 # and those over-budget listings are penalised, not hidden. Default 0 = strict.
 budget:
   min: 500
-  max: 850
+  max: 950            # hard ceiling — rooms above this are never shown
+  preferred_max: 850  # rooms at/under this score highest; £850-950 is a penalised stretch
   tolerance: 0
 
 # --- Commute to Imperial College (South Kensington) -----------------------
@@ -36,6 +37,7 @@ search:
   exclude_1beds: true
   exclude_buddyup: true
   sort_by: "days_since_placed"   # freshest first
+  max_days_old: 3                # purge anything posted more than this many days ago
   request_delay_seconds: 1.5     # politeness between requests
   # Cap how many candidates we fetch full detail + commute for, per run.
   enrich_limit: 80

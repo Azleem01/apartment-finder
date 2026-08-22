@@ -157,12 +157,18 @@ async function main() {
     state.meta = meta;
 
     if (meta) {
-      $("updated").textContent = "Updated " + (meta.generated_at_human || "recently");
+      const days = meta.posted_within_days;
+      $("updated").textContent = "Updated " + (meta.generated_at_human || "recently")
+        + (days ? ` · posted ≤ ${days} days ago` : "");
       $("statScanned").textContent = meta.scanned ?? "–";
       $("statBudget").textContent = `£${meta.budget?.min}–${meta.budget?.max}`;
       $("statCommute").textContent = `${meta.commute?.max_minutes ?? 40} min`;
-      $("maxCommute").value = meta.commute?.max_minutes ?? 40;
-      $("maxPrice").value = meta.budget?.max ?? 850;
+      // Make the sliders span the configured ranges (so e.g. £950 isn't clamped).
+      $("maxCommute").max = meta.commute?.max_minutes ?? 45;
+      $("maxCommute").value = meta.commute?.max_minutes ?? 45;
+      $("maxPrice").min = meta.budget?.min ?? 500;
+      $("maxPrice").max = meta.budget?.max ?? 950;
+      $("maxPrice").value = meta.budget?.max ?? 950;
     } else {
       $("updated").textContent = "Loaded";
     }
