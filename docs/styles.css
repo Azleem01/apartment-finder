@@ -155,6 +155,8 @@ b { font-weight: 700; }
 .site-footer p { margin: 0 0 10px; }
 .muted { color: var(--ink-faint); font-size: 12px; }
 
+.fact--posted { font-weight: 600; color: var(--ink-soft); }
+
 /* ---- Trust / safety ---- */
 .chip--verified { background: color-mix(in srgb, var(--good) 16%, var(--surface)); color: var(--good); border: 1px solid color-mix(in srgb, var(--good) 30%, transparent); }
 .chip--risk { background: color-mix(in srgb, var(--mid) 18%, var(--surface)); color: var(--mid); border: 1px solid color-mix(in srgb, var(--mid) 38%, transparent); }

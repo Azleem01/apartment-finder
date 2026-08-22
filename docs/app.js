@@ -10,6 +10,13 @@ const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
 
 function badgeClass(v) { return v >= 75 ? "badge--high" : v >= 60 ? "badge--mid" : "badge--low"; }
 
+function postedLabel(days) {
+  const d = Number(days) || 0;
+  if (d <= 0) return "today";
+  if (d === 1) return "yesterday";
+  return `${d} days ago`;
+}
+
 function goodImage(url) {
   if (!url) return null;
   if (!/^https?:\/\//.test(url)) return null;          // relative placeholder
@@ -32,7 +39,10 @@ function facts(l) {
   else if (l.property_type) bits.push(`<span class="fact">🏢 ${esc(l.property_type)}</span>`);
   if (l.advertiser_role) bits.push(`<span class="fact">👤 ${esc(l.advertiser_role)}</span>`);
   if (l.bills_included === "yes") bits.push(`<span class="chip chip--bills">Bills included</span>`);
-  if (Number(l.days_old) === 0) bits.push(`<span class="chip chip--new">New today</span>`);
+  if (Number(l.days_old) === 0)
+    bits.push(`<span class="chip chip--new">🕒 Posted today</span>`);
+  else
+    bits.push(`<span class="fact fact--posted">🕒 Posted ${postedLabel(l.days_old)}</span>`);
   if (l.verified) bits.push(`<span class="chip chip--verified">✓ Verified advertiser</span>`);
   (l.risk_flags || []).forEach((f) =>
     bits.push(`<span class="chip chip--risk">⚠ ${esc(f)}</span>`));
