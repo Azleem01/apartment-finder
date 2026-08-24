@@ -1728,54 +1728,54 @@
   }
  },
  {
-  "id": "18397921",
+  "id": "18399111",
   "source": "SpareRoom",
-  "title": "Spacious 4 Bedroom Whole Flat w/ Balcony, Acton W3",
-  "url": "https://www.spareroom.co.uk/flatshare/london/acton/18397921",
-  "price_pcm": 725,
-  "price_raw": "\u00a3725 pcm",
-  "postcode": "W3",
-  "neighbourhood": "Acton",
+  "title": "Double Room in Kennington LGBT Household ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/kennington/18399111",
+  "price_pcm": 855,
+  "price_raw": "\u00a3855 pcm",
+  "postcode": "SE17",
+  "neighbourhood": "Kennington",
   "property_type": "flat",
   "rooms_in_property": "4",
-  "advertiser_role": "agent",
+  "advertiser_role": "current flatmate",
   "days_old": 0,
   "days_old_known": true,
   "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/92/34/92347185.jpg",
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/84/96/84964029.jpg",
   "verified": false,
-  "num_photos": 9,
+  "num_photos": 8,
   "risk_flags": [],
-  "lat": 51.5078897,
-  "lng": -0.2557595,
-  "bills_included": "unknown",
-  "available": "18th Sep 2026",
-  "min_term": "2 months",
+  "lat": 51.4842112,
+  "lng": -0.1022195,
+  "bills_included": "yes",
+  "available": "1st Oct 2026",
+  "min_term": "6 months",
   "max_term": "None",
-  "room_type": "",
+  "room_type": "double",
   "furnishings": "Furnished",
-  "description": "A spacious and well-presented four-bedroom apartment situated within an development in Acton, offering generous accommodation and excellent access to the amenities and transport links of Acton and Chiswick.The property provides particularly practical accommodation for professiona",
-  "commute_minutes": 42,
-  "commute_summary": "42 min \u00b7 bus 207 \u2192 bus 49",
+  "description": "Lovley small-medium double bedroom soon to be available in central Kennington just a short walk from the tube station. The flat is nearby Walworth high street which has several small supermarkets, a large Lidl & Morrisons and right by East Street Market. In terms of transport ple",
+  "commute_minutes": 43,
+  "commute_summary": "43 min \u00b7 Northern \u2192 District \u2192 bus 360",
   "suitability": 64,
   "score_breakdown": {
    "budget": {
-    "score": 0.743,
+    "score": 0.583,
     "weight": 0.35,
-    "points": 26.0,
-    "note": "\u00a3725 pcm (best value \u2264 \u00a3850)"
+    "points": 20.4,
+    "note": "\u00a3855 pcm \u2014 above your preferred \u00a3850"
    },
    "commute": {
-    "score": 0.56,
+    "score": 0.54,
     "weight": 0.4,
-    "points": 22.4,
-    "note": "42 min to Imperial"
+    "points": 21.6,
+    "note": "43 min to Imperial"
    },
    "bills": {
-    "score": 0.4,
+    "score": 1.0,
     "weight": 0.1,
-    "points": 4.0,
-    "note": "bills not stated"
+    "points": 10.0,
+    "note": "bills included"
    },
    "tenancy": {
     "score": 0.66,
@@ -2752,70 +2752,6 @@
   }
  },
  {
-  "id": "18303608",
-  "source": "SpareRoom",
-  "title": "Urgent! Renting double room in East Acton ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/east_acton/18303608",
-  "price_pcm": 800,
-  "price_raw": "\u00a3800 pcm",
-  "postcode": "W3",
-  "neighbourhood": "East Acton",
-  "property_type": "house",
-  "rooms_in_property": "4",
-  "advertiser_role": "former flatmate",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/93/89/93891000.jpg",
-  "verified": false,
-  "num_photos": 5,
-  "risk_flags": [],
-  "lat": 51.5097726,
-  "lng": -0.2469401,
-  "bills_included": "no",
-  "available": "11th Oct 2026",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "Lovely and very spacious double room in a big house in East Acton.Is a semi detached house over 2 floors.4 double bedroom, one separate kitchen, living room, 2 bathrooms, a big garden area and an extra room in the garden that we use it as storage room.The location is East Acton a",
-  "commute_minutes": 42,
-  "commute_summary": "42 min \u00b7 bus 207 \u2192 bus 49",
-  "suitability": 57,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.657,
-    "weight": 0.35,
-    "points": 23.0,
-    "note": "\u00a3800 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.56,
-    "weight": 0.4,
-    "points": 22.4,
-    "note": "42 min to Imperial"
-   },
-   "bills": {
-    "score": 0.0,
-    "weight": 0.1,
-    "points": 0.0,
-    "note": "bills not included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "18394386",
   "source": "SpareRoom",
   "title": "\ud83c\udfe1  Double Room | Latimer Road \ud83d\udccd | 3 Mins Stat",
@@ -2928,6 +2864,70 @@
     "weight": 0.1,
     "points": 10.0,
     "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18399080",
+  "source": "SpareRoom",
+  "title": "2 rooms available in a house share in Kennington ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/kennington/18399080",
+  "price_pcm": 800,
+  "price_raw": "\u00a3800 pcm",
+  "postcode": "SE17",
+  "neighbourhood": "Kennington",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/12/101298552.jpg",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4838271,
+  "lng": -0.1018177,
+  "bills_included": "no",
+  "available": "30th Sep 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "I\u2019m looking for 2 new housemates to fill in as my current housemates will be moving out at the end of September (though the rooms could be available a little earlier).I\u2019m looking for easy-going (reasonably) tidy flatmates who enjoy being part of a friendly household and are up fo",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 Northern \u2192 District \u2192 bus 360",
+  "suitability": 55,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.657,
+    "weight": 0.35,
+    "points": 23.0,
+    "note": "\u00a3800 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
    },
    "tenancy": {
     "score": 0.66,
