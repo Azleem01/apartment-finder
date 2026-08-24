@@ -76,7 +76,7 @@ function card(l) {
     <div class="card__top">
       ${thumb(l)}
       <div class="card__head">
-        <span class="src ${srcClass(l.source)}" title="Listing source">${esc(l.source || "SpareRoom")}</span>
+        ${state.multiSource ? `<span class="src ${srcClass(l.source)}" title="Listing source">${esc(l.source || "SpareRoom")}</span>` : ""}
         <h3 class="card__title">${esc(l.title || "Room to rent")}</h3>
         <p class="card__loc">${esc(loc)}${commute ? " · " + commute : ""}</p>
       </div>
@@ -170,6 +170,11 @@ function buildSourceFilter() {
   const wrap = $("srcFilter");
   if (!wrap) return;
   const srcs = [...new Set(state.all.map((l) => l.source || "SpareRoom"))].sort();
+  if (srcs.length <= 1) {           // single source: no point showing the filter
+    wrap.innerHTML = "";
+    (wrap.closest(".control") || wrap).setAttribute("hidden", "");
+    return;
+  }
   wrap.innerHTML = srcs.map((s) =>
     `<label class="srcchip ${srcClass(s)}"><input type="checkbox" value="${esc(s)}" checked /> ${esc(s)}</label>`
   ).join("");
@@ -184,6 +189,7 @@ async function main() {
     ]);
     state.all = Array.isArray(listings) ? listings : [];
     state.meta = meta;
+    state.multiSource = new Set(state.all.map((l) => l.source || "SpareRoom")).size > 1;
 
     if (meta) {
       const days = meta.posted_within_days;
@@ -206,7 +212,7 @@ async function main() {
 
     if (!state.all.length) {
       $("notice").hidden = false;
-      $("notice").textContent = "No listings in the latest run. The daily refresh will try again — or widen the budget/commute in config.";
+      $("notice").textContent = "No listings in the latest run. The hourly refresh will try again — or widen the budget/commute in config.";
     }
     buildSourceFilter();
     initControls();

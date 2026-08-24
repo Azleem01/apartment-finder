@@ -1,24 +1,18 @@
 {
- "generated_at": "2026-08-24T06:41:19.924299+00:00",
- "generated_at_human": "Mon 24 Aug 2026, 06:41 UTC",
- "count": 63,
- "scanned": 274,
- "within_budget": 268,
+ "generated_at": "2026-08-24T17:52:42.257084+00:00",
+ "generated_at_human": "Mon 24 Aug 2026, 17:52 UTC",
+ "count": 57,
+ "scanned": 237,
+ "within_budget": 236,
  "posted_within_days": 3,
  "sources": [
-  "SpareRoom",
-  "Gumtree",
-  "OpenRent"
+  "SpareRoom"
  ],
  "scanned_by_source": {
-  "SpareRoom": 235,
-  "Gumtree": 39,
-  "OpenRent": 0
+  "SpareRoom": 237
  },
  "results_by_source": {
-  "SpareRoom": 62,
-  "Gumtree": 1,
-  "OpenRent": 0
+  "SpareRoom": 57
  },
  "budget": {
   "min": 500,

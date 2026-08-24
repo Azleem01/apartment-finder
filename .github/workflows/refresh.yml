@@ -1,25 +1,25 @@
-name: Daily refresh
+name: Hourly refresh
 
-# Runs the scraper once a day and commits the refreshed data back to the repo.
-# GitHub Pages (serving /docs) then shows the new listings within a minute.
-# The daily commit also keeps this scheduled workflow from being auto-disabled.
+# Runs the scraper every hour and commits the refreshed data back to the repo,
+# so a new SpareRoom ad that matches your criteria shows up on the site within
+# the hour. GitHub Pages (serving /docs) then updates within a minute.
 
 on:
   schedule:
-    - cron: "0 6 * * *"      # 06:00 UTC daily
+    - cron: "0 * * * *"      # top of every hour (UTC)
   workflow_dispatch:          # lets you run it on demand from the Actions tab
 
 permissions:
   contents: write
 
 concurrency:
-  group: daily-refresh
+  group: hourly-refresh
   cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -42,6 +42,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Daily refresh: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "Hourly refresh: $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           fi
