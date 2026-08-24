@@ -193,8 +193,9 @@ async function main() {
 
     if (meta) {
       const days = meta.posted_within_days;
-      $("updated").textContent = "Updated " + (meta.generated_at_human || "recently")
-        + (days ? ` · posted ≤ ${days} days ago` : "");
+      const freshNote = days === 0 ? " · only ads from the last 24h"
+        : days ? ` · posted ≤ ${days} days ago` : "";
+      $("updated").textContent = "Updated " + (meta.generated_at_human || "recently") + freshNote;
       $("statScanned").textContent = meta.scanned ?? "–";
       $("statBudget").textContent = `£${meta.budget?.min}–${meta.budget?.max}`;
       $("statCommute").textContent = `${meta.commute?.max_minutes ?? 40} min`;
