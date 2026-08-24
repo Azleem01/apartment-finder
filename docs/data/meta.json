@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-23T06:28:11.286363+00:00",
- "generated_at_human": "Sun 23 Aug 2026, 06:28 UTC",
- "count": 57,
- "scanned": 265,
- "within_budget": 262,
+ "generated_at": "2026-08-24T06:41:19.924299+00:00",
+ "generated_at_human": "Mon 24 Aug 2026, 06:41 UTC",
+ "count": 63,
+ "scanned": 274,
+ "within_budget": 268,
  "posted_within_days": 3,
  "sources": [
   "SpareRoom",
@@ -12,11 +12,11 @@
  ],
  "scanned_by_source": {
   "SpareRoom": 235,
-  "Gumtree": 30,
+  "Gumtree": 39,
   "OpenRent": 0
  },
  "results_by_source": {
-  "SpareRoom": 56,
+  "SpareRoom": 62,
   "Gumtree": 1,
   "OpenRent": 0
  },
@@ -28,6 +28,6 @@
  "commute": {
   "destination": "SW7 2AZ",
   "max_minutes": 45,
-  "depart": "20260824 0900"
+  "depart": "20260831 0900"
  }
 }
