@@ -512,6 +512,70 @@
   }
  },
  {
+  "id": "18398915",
+  "source": "SpareRoom",
+  "title": "Spacious Room with en suite in Camberwell ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/camberwell/18398915",
+  "price_pcm": 500,
+  "price_raw": "\u00a3500 pcm",
+  "postcode": "SE5",
+  "neighbourhood": "Camberwell",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/99/45/99456400.jpg",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.4670105,
+  "lng": -0.0995927,
+  "bills_included": "no",
+  "available": "21st Sep 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "After 5 years I am leaving my lovely room in Camberwell. The room is in a flat in a terrace house with High ceilings and your own en suite! There is a shared living/kitchen area and a small garden which could be a lovely sun trap with a little love! You will be sharing with Betti",
+  "commute_minutes": 39,
+  "commute_summary": "39 min \u00b7 bus 35 \u2192 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 71,
+  "score_breakdown": {
+   "budget": {
+    "score": 1.0,
+    "weight": 0.35,
+    "points": 35.0,
+    "note": "\u00a3500 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.62,
+    "weight": 0.4,
+    "points": 24.8,
+    "note": "39 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "17565616",
   "source": "SpareRoom",
   "title": "Double Rooms in an Excellent Location",
@@ -1488,7 +1552,7 @@
   "available_now": false,
   "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/92/34/92347185.jpg",
   "verified": false,
-  "num_photos": 15,
+  "num_photos": 9,
   "risk_flags": [],
   "lat": 51.5078897,
   "lng": -0.2557595,
@@ -2048,6 +2112,70 @@
   }
  },
  {
+  "id": "18398900",
+  "source": "SpareRoom",
+  "title": "Bright Double bed Room \u2013 SE11",
+  "url": "https://www.spareroom.co.uk/flatshare/london/vauxhall/18398900",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "SE11",
+  "neighbourhood": "Vauxhall",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 3,
+  "risk_flags": [],
+  "lat": 51.4861979,
+  "lng": -0.1194792,
+  "bills_included": "yes",
+  "available": "25th Sep 2026",
+  "min_term": "12 months",
+  "max_term": "36 months",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "A bright and furnished double bed room available in the SE11 area, suitable for one person only.The room comes with a double bed, wardrobe, desk and plenty of natural light. bathroom right next door with a shower is also included.The property is conveniently located, with good tr",
+  "commute_minutes": 35,
+  "commute_summary": "35 min \u00b7 Victoria \u2192 District",
+  "suitability": 59,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.7,
+    "weight": 0.4,
+    "points": 28.0,
+    "note": "35 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.7,
+    "weight": 0.1,
+    "points": 7.0,
+    "note": "availability unknown; stay up to 36 months"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "17555332",
   "source": "SpareRoom",
   "title": "Small EN suite  Putney Bridge",
@@ -2166,6 +2294,70 @@
     "weight": 0.1,
     "points": 6.6,
     "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "17289525",
+  "source": "SpareRoom",
+  "title": "Double Room w/ balcony (bills included)",
+  "url": "https://www.spareroom.co.uk/flatshare/london/chiswick/17289525",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "W4",
+  "neighbourhood": "Chiswick",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/90/55/90553479.jpg",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.4876161,
+  "lng": -0.277317,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "6 months",
+  "max_term": "12 months",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "PLEASE READ THE FULL AD BEFORE ENQUIRING\u00a3950 PCM \u2013 Double Room with balcony Available 22 AugustBills & Council Tax all includedA room is available in this well-maintained 4-bedroom shared flat in Chiswick Village, close to excellent transport links and local amenities.The propert",
+  "commute_minutes": 40,
+  "commute_summary": "40 min \u00b7 District \u2192 bus 360",
+  "suitability": 58,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.6,
+    "weight": 0.4,
+    "points": 24.0,
+    "note": "40 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "available 2026-08-24; stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
