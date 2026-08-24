@@ -1600,6 +1600,70 @@
   }
  },
  {
+  "id": "18399044",
+  "source": "SpareRoom",
+  "title": "Double Room Nine Elms/Stockwell \u00a3880 Bills Incl",
+  "url": "https://www.spareroom.co.uk/flatshare/london/battersea/18399044",
+  "price_pcm": 880,
+  "price_raw": "\u00a3880 pcm",
+  "postcode": "SW8",
+  "neighbourhood": "Battersea",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/63/50/63503851.jpg",
+  "verified": false,
+  "num_photos": 3,
+  "risk_flags": [],
+  "lat": 51.4722747,
+  "lng": -0.1345228,
+  "bills_included": "yes",
+  "available": "30th Aug 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "DOUBLE FURNISHED ROOM AVAILABLE IN A 3 BED FLAT\u00a3880pcm all bills included7 min Walk WANDSWORTH ROAD STATION15 mins Walk to NINE ELMS STATION15 mins Walk to STOCKWELL STATION20 mins Walk to Battersea Power StationVIEWINGS WEDNESDAY 2ND SEPTEMBER 6pmREFERENCES REQUIRED",
+  "commute_minutes": 39,
+  "commute_summary": "39 min \u00b7 bus 452 \u2192 Victoria \u2192 District",
+  "suitability": 64,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.495,
+    "weight": 0.35,
+    "points": 17.3,
+    "note": "\u00a3880 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.62,
+    "weight": 0.4,
+    "points": 24.8,
+    "note": "39 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "11696899",
   "source": "SpareRoom",
   "title": "Stunning 3 rooms flat - Priced to go quickly!",
@@ -1718,70 +1782,6 @@
     "weight": 0.1,
     "points": 6.6,
     "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "18397955",
-  "source": "SpareRoom",
-  "title": "Spacious Double Bedroom in a Two- Bedroom Flat",
-  "url": "https://www.spareroom.co.uk/flatshare/london/south_acton/18397955",
-  "price_pcm": 799,
-  "price_raw": "\u00a3799 pcm",
-  "postcode": "W3",
-  "neighbourhood": "South Acton",
-  "property_type": "flat",
-  "rooms_in_property": "2",
-  "advertiser_role": "current flatmate",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": true,
-  "num_photos": 4,
-  "risk_flags": [],
-  "lat": 51.5042914,
-  "lng": -0.2672081,
-  "bills_included": "no",
-  "available": "Available now",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "A spacious, partially furnished double bedroom (including a double bed and mattress) is available to rent in a clean and quiet two-bedroom top-floor flat.Conveniently located just a 9-minute walk from South Acton station, with excellent transport links across West London.Bills ar",
-  "commute_minutes": 37,
-  "commute_summary": "37 min \u00b7 bus E3 \u2192 District \u2192 bus 360",
-  "suitability": 64,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.658,
-    "weight": 0.35,
-    "points": 23.0,
-    "note": "\u00a3799 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.66,
-    "weight": 0.4,
-    "points": 26.4,
-    "note": "37 min to Imperial"
-   },
-   "bills": {
-    "score": 0.0,
-    "weight": 0.1,
-    "points": 0.0,
-    "note": "bills not included"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-08-24; no max term"
    },
    "freshness": {
     "score": 1.0,
