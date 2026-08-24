@@ -430,14 +430,78 @@
    "bills": {
     "score": 1.0,
     "weight": 0.1,
-    "points": 0.0,
-    "note": "bills not included"
+    "points": 10.0,
+    "note": "bills included"
    },
    "tenancy": {
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
     "note": "available 2026-08-24; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18398716",
+  "source": "SpareRoom",
+  "title": "Lovely cheap room in zone 1 Pimlico",
+  "url": "https://www.spareroom.co.uk/flatshare/london/london_sw1/18398716",
+  "price_pcm": 750,
+  "price_raw": "\u00a3750 pcm",
+  "postcode": "SW1",
+  "neighbourhood": "London SW1",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "former flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/90/27/90270897.jpg",
+  "verified": false,
+  "num_photos": 2,
+  "risk_flags": [],
+  "lat": 51.486431,
+  "lng": -0.1385979,
+  "bills_included": "no",
+  "available": "1st Oct 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "I am leaving London to work away and will sadly be leaving this lovely place! It is a bright Zone 1 double in a really friendly house. The flat is in a fantastic location, 5 minutes walk to pimlico underground and 10 mins from Victoria.We're also about 2 minutes from the Thames a",
+  "commute_minutes": 23,
+  "commute_summary": "23 min \u00b7 bus 360",
+  "suitability": 71,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.714,
+    "weight": 0.35,
+    "points": 25.0,
+    "note": "\u00a3750 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.87,
+    "weight": 0.4,
+    "points": 34.8,
+    "note": "23 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1408,73 +1472,9 @@
   }
  },
  {
-  "id": "18397955",
-  "source": "SpareRoom",
-  "title": "Spacious Double Bedroom in a Two- Bedroom Flat",
-  "url": "https://www.spareroom.co.uk/flatshare/london/south_acton/18397955",
-  "price_pcm": 799,
-  "price_raw": "\u00a3799 pcm",
-  "postcode": "W3",
-  "neighbourhood": "South Acton",
-  "property_type": "flat",
-  "rooms_in_property": "2",
-  "advertiser_role": "current flatmate",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": true,
-  "num_photos": 4,
-  "risk_flags": [],
-  "lat": 51.5042914,
-  "lng": -0.2672081,
-  "bills_included": "no",
-  "available": "Available now",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "A spacious, partially furnished double bedroom (including a double bed and mattress) is available to rent in a clean and quiet two-bedroom top-floor flat.Conveniently located just a 9-minute walk from South Acton station, with excellent transport links across West London.Bills ar",
-  "commute_minutes": 37,
-  "commute_summary": "37 min \u00b7 bus E3 \u2192 District \u2192 bus 360",
-  "suitability": 64,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.658,
-    "weight": 0.35,
-    "points": 23.0,
-    "note": "\u00a3799 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.66,
-    "weight": 0.4,
-    "points": 26.4,
-    "note": "37 min to Imperial"
-   },
-   "bills": {
-    "score": 0.0,
-    "weight": 0.1,
-    "points": 0.0,
-    "note": "bills not included"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-08-24; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "18397921",
   "source": "SpareRoom",
-  "title": "Spacious 4Bedroom Apartment w/ Balcony, Acton W3",
+  "title": "Spacious 4 Bedroom Whole Flat w/ Balcony, Acton W3",
   "url": "https://www.spareroom.co.uk/flatshare/london/acton/18397921",
   "price_pcm": 725,
   "price_raw": "\u00a3725 pcm",
@@ -1488,7 +1488,7 @@
   "available_now": false,
   "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/92/34/92347185.jpg",
   "verified": false,
-  "num_photos": 17,
+  "num_photos": 15,
   "risk_flags": [],
   "lat": 51.5078897,
   "lng": -0.2557595,
@@ -1526,6 +1526,70 @@
     "weight": 0.1,
     "points": 6.6,
     "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18397955",
+  "source": "SpareRoom",
+  "title": "Spacious Double Bedroom in a Two- Bedroom Flat",
+  "url": "https://www.spareroom.co.uk/flatshare/london/south_acton/18397955",
+  "price_pcm": 799,
+  "price_raw": "\u00a3799 pcm",
+  "postcode": "W3",
+  "neighbourhood": "South Acton",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": true,
+  "num_photos": 4,
+  "risk_flags": [],
+  "lat": 51.5042914,
+  "lng": -0.2672081,
+  "bills_included": "no",
+  "available": "Available now",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "A spacious, partially furnished double bedroom (including a double bed and mattress) is available to rent in a clean and quiet two-bedroom top-floor flat.Conveniently located just a 9-minute walk from South Acton station, with excellent transport links across West London.Bills ar",
+  "commute_minutes": 37,
+  "commute_summary": "37 min \u00b7 bus E3 \u2192 District \u2192 bus 360",
+  "suitability": 64,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.658,
+    "weight": 0.35,
+    "points": 23.0,
+    "note": "\u00a3799 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.66,
+    "weight": 0.4,
+    "points": 26.4,
+    "note": "37 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-08-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2862,8 +2926,72 @@
    "bills": {
     "score": 0.0,
     "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18398803",
+  "source": "SpareRoom",
+  "title": "Cosy Furnished Room in Two-Bed Flat, Wandsworth",
+  "url": "https://www.spareroom.co.uk/flatshare/london/london_sw18/18398803",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "SW18",
+  "neighbourhood": "London SW18",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4567509,
+  "lng": -0.1993836,
+  "bills_included": "no",
+  "available": "1st Sep 2026",
+  "min_term": "2 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Open to viewings! Seeking short or long-term lodger for cosy room in two-bed flat-share, Wandsworth\ud83d\udcc5 Available from September 1st\ud83d\udccd 10 minutes walk to Wandsworth Town (SWR)\ud83d\udccd 10 minutes to East Putney (District Line)\ud83d\udccd Merton Rd Bus Station a quick cross of the road\ud83d\uded2 5 minutes walk ",
+  "commute_minutes": 43,
+  "commute_summary": "43 min \u00b7 bus 337 \u2192 District",
+  "suitability": 42,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.54,
+    "weight": 0.4,
+    "points": 21.6,
+    "note": "43 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
    },
    "tenancy": {
     "score": 0.66,
