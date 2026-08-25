@@ -576,70 +576,6 @@
   }
  },
  {
-  "id": "18161803",
-  "source": "SpareRoom",
-  "title": "Spacious double room 3 mins walk from zone 3 tube ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/acton/18161803",
-  "price_pcm": 850,
-  "price_raw": "\u00a3850 pcm",
-  "postcode": "W3",
-  "neighbourhood": "Acton",
-  "property_type": "house",
-  "rooms_in_property": "4",
-  "advertiser_role": "live out landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 9,
-  "risk_flags": [],
-  "lat": 51.5014916,
-  "lng": -0.2820382,
-  "bills_included": "yes",
-  "available": "Available now",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "Double room in a professional houseshare * Shared eating area * Two bathrooms * Three WC's * Quiet Garden with mature trees, lawn and sunny patio * Storage for Bicycles * Quiet road close to the tube and local amenities * Acton Town tube station has Piccadilly and District lines ",
-  "commute_minutes": 37,
-  "commute_summary": "37 min \u00b7 Piccadilly",
-  "suitability": 72,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.6,
-    "weight": 0.35,
-    "points": 21.0,
-    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.66,
-    "weight": 0.4,
-    "points": 26.4,
-    "note": "37 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-08-25; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "18399352",
   "source": "SpareRoom",
   "title": "Lovely DBL 26th Sept, Balcony, 4 bed flat",
@@ -2794,6 +2730,70 @@
     "weight": 0.4,
     "points": 22.4,
     "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18400692",
+  "source": "SpareRoom",
+  "title": "\ud83c\udfe1 Room Available \u2013 Join Our Lovely Flatshare!",
+  "url": "https://www.spareroom.co.uk/flatshare/london/wandsworth_town/18400692",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "SW18",
+  "neighbourhood": "Wandsworth Town",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "former flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/13/101312661.jpg",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.4573787,
+  "lng": -0.1893401,
+  "bills_included": "no",
+  "available": "15th Oct 2026",
+  "min_term": "12 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "\ud83c\udfe1 Room Available \u2013 Join Our Lovely Flatshare!Hi everyone! \ud83d\udc4bI\u2019m moving out of my room and am looking for someone to take over my room and join a lovely flatshare in Wandsworth Town.You\u2019ll be living with Carla and Jess, two lovely, friendly women in their 20s and 30s who are easy-g",
+  "commute_minutes": 39,
+  "commute_summary": "39 min \u00b7 bus 39 \u2192 bus 49 \u2192 bus 360",
+  "suitability": 57,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.6,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.62,
+    "weight": 0.4,
+    "points": 24.8,
+    "note": "39 min to Imperial"
    },
    "bills": {
     "score": 0.0,
