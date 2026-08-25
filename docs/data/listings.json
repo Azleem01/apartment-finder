@@ -53,7 +53,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -117,7 +117,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -181,7 +181,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -245,7 +245,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -373,7 +373,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -437,7 +437,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -565,7 +565,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -629,7 +629,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -757,7 +757,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -810,70 +810,6 @@
     "weight": 0.4,
     "points": 32.8,
     "note": "28 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "17492104",
-  "source": "SpareRoom",
-  "title": "Single room in shared professional let",
-  "url": "https://www.spareroom.co.uk/flatshare/london/stockwell/17492104",
-  "price_pcm": 780,
-  "price_raw": "\u00a3780 pcm",
-  "postcode": "SW8",
-  "neighbourhood": "Stockwell",
-  "property_type": "flat",
-  "rooms_in_property": "5",
-  "advertiser_role": "live out landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": true,
-  "num_photos": 6,
-  "risk_flags": [],
-  "lat": 51.4707311,
-  "lng": -0.1341537,
-  "bills_included": "yes",
-  "available": "17th Sep 2026",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "single",
-  "furnishings": "Furnished",
-  "description": "Room available in a third-storey walk-up flat with all bills included, a large living room, two bathrooms, a washing machine and superfast broadband.Transport linksThe flat is well located, within a 5\u201310 minute walk of Wandsworth Road Station, with National Rail services to Victo",
-  "commute_minutes": 40,
-  "commute_summary": "40 min \u00b7 bus 155 \u2192 Victoria \u2192 District \u2192 bus 360",
-  "suitability": 69,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.68,
-    "weight": 0.35,
-    "points": 23.8,
-    "note": "\u00a3780 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.6,
-    "weight": 0.4,
-    "points": 24.0,
-    "note": "40 min to Imperial"
    },
    "bills": {
     "score": 1.0,
@@ -949,7 +885,71 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "17071513",
+  "source": "SpareRoom",
+  "title": "All Inclusive Single Room Available Central London",
+  "url": "https://www.spareroom.co.uk/flatshare/london/elephant_and_castle/17071513",
+  "price_pcm": 750,
+  "price_raw": "\u00a3750 pcm",
+  "postcode": "SE17",
+  "neighbourhood": "Elephant and Castle",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/92/15/92150614.jpg",
+  "verified": true,
+  "num_photos": 5,
+  "risk_flags": [],
+  "lat": 51.4864518,
+  "lng": -0.0978629,
+  "bills_included": "yes",
+  "available": "21st Sep 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "single",
+  "furnishings": "Furnished",
+  "description": "A bright and fully furnished room has become available in a clean and modern flat just off Walworth Road.\ud83d\udccd Zone 1 \u2013 perfect for anyone working or studying in Central London.\ud83d\ude86 Transport Links \u2022 Kennington Station \u2013 5 min walk (Northern Line) \u2022 Elephant & Castle Station \u2013 8 min wal",
+  "commute_minutes": 43,
+  "commute_summary": "43 min \u00b7 Northern \u2192 District \u2192 bus 360",
+  "suitability": 68,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.714,
+    "weight": 0.35,
+    "points": 25.0,
+    "note": "\u00a3750 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.54,
+    "weight": 0.4,
+    "points": 21.6,
+    "note": "43 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1141,7 +1141,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1333,7 +1333,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1717,7 +1717,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1792,6 +1792,70 @@
   }
  },
  {
+  "id": "18397921",
+  "source": "SpareRoom",
+  "title": "Spacious 4 Bedroom Whole Flat w/ Balcony, Acton W3",
+  "url": "https://www.spareroom.co.uk/flatshare/london/acton/18397921",
+  "price_pcm": 725,
+  "price_raw": "\u00a3725 pcm",
+  "postcode": "W3",
+  "neighbourhood": "Acton",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/92/34/92347185.jpg",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.5078897,
+  "lng": -0.2557595,
+  "bills_included": "unknown",
+  "available": "18th Sep 2026",
+  "min_term": "2 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "A spacious and well-presented four-bedroom apartment situated within an development in Acton, offering generous accommodation and excellent access to the amenities and transport links of Acton and Chiswick.The property provides particularly practical accommodation for professiona",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 bus 207 \u2192 bus 49",
+  "suitability": 64,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.743,
+    "weight": 0.35,
+    "points": 26.0,
+    "note": "\u00a3725 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 0.4,
+    "weight": 0.1,
+    "points": 4.0,
+    "note": "bills not stated"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "5872078",
   "source": "SpareRoom",
   "title": "Double bedroom in West Kensington mews",
@@ -1845,7 +1909,7 @@
     "score": 1.0,
     "weight": 0.1,
     "points": 10.0,
-    "note": "available 2026-08-24; stay up to 12 months"
+    "note": "available 2026-08-25; stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
@@ -2165,7 +2229,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2613,7 +2677,7 @@
     "score": 1.0,
     "weight": 0.1,
     "points": 10.0,
-    "note": "available 2026-08-24; stay up to 12 months"
+    "note": "available 2026-08-25; stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
@@ -2677,7 +2741,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2805,7 +2869,7 @@
     "score": 1.0,
     "weight": 0.1,
     "points": 10.0,
-    "note": "available 2026-08-24; stay up to 12 months"
+    "note": "available 2026-08-25; stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
@@ -3125,7 +3189,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-24; no max term"
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
