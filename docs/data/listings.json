@@ -190,5 +190,69 @@
     "note": "listed today"
    }
   }
+ },
+ {
+  "id": "17977518",
+  "source": "SpareRoom",
+  "title": "Spacious Studio Student welcome, single occupancy",
+  "url": "https://www.spareroom.co.uk/flatshare/london/acton/17977518",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "W3",
+  "neighbourhood": "Acton",
+  "property_type": "flat",
+  "rooms_in_property": "1",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/10/101065133.jpg",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.507506,
+  "lng": -0.264558,
+  "bills_included": "unknown",
+  "available": "21st Oct 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "single",
+  "furnishings": "Furnished",
+  "description": "\ud83c\udf1f Modern & Spacious Studio \u2013 Acton W3 \ud83c\udf1fWe\u2019re delighted to bring to market this beautifully refurbished studio flat on Birkbeck Road, designed for comfort and modern living. Bright, airy, and finished to a high standard, this property is perfect for a Single occupant preferred\u2728 Pr",
+  "commute_minutes": 43,
+  "commute_summary": "43 min \u00b7 bus E3 \u2192 District \u2192 bus 360",
+  "suitability": 46,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.54,
+    "weight": 0.4,
+    "points": 21.6,
+    "note": "43 min to Imperial"
+   },
+   "bills": {
+    "score": 0.4,
+    "weight": 0.1,
+    "points": 4.0,
+    "note": "bills not stated"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
  }
 ]
