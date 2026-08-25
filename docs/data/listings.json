@@ -2,7 +2,7 @@
  {
   "id": "18399352",
   "source": "SpareRoom",
-  "title": "Lovely DBL 26th Sept,, Balcony, 4 bed flat",
+  "title": "Lovely DBL 26th Sept, Balcony, 4 bed flat",
   "url": "https://www.spareroom.co.uk/flatshare/london/shepherds_bush/18399352",
   "price_pcm": 850,
   "price_raw": "\u00a3850 pcm",
@@ -54,6 +54,70 @@
     "weight": 0.1,
     "points": 6.6,
     "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "17565616",
+  "source": "SpareRoom",
+  "title": "Double Rooms in an Excellent Location",
+  "url": "https://www.spareroom.co.uk/flatshare/london/ravenscourt_park/17565616",
+  "price_pcm": 900,
+  "price_raw": "\u00a3900 pcm",
+  "postcode": "W6",
+  "neighbourhood": "Ravenscourt Park",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/05/100596236.jpg",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4950772,
+  "lng": -0.2330545,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "\"Modern and Spacious Double Room in Ravens Court, just 2 minutes from Ravens Court Park (District Line), Zone 2.Situated in a secure and tranquil neighborhood, this double room offers convenience and comfort. Within a short stroll, you'll find supermarkets, grocery stores, coffee",
+  "commute_minutes": 32,
+  "commute_summary": "32 min \u00b7 District \u2192 bus 360",
+  "suitability": 70,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.425,
+    "weight": 0.35,
+    "points": 14.9,
+    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.76,
+    "weight": 0.4,
+    "points": 30.4,
+    "note": "32 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-08-25; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -256,6 +320,70 @@
   }
  },
  {
+  "id": "17200455",
+  "source": "SpareRoom",
+  "title": "Ensuite DR in houseshare 10m to Hammersmith.",
+  "url": "https://www.spareroom.co.uk/flatshare/london/shepherds_bush/17200455",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "W12",
+  "neighbourhood": "Shepherds Bush",
+  "property_type": "house",
+  "rooms_in_property": "6",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/84/90/84901904.jpg",
+  "verified": false,
+  "num_photos": 4,
+  "risk_flags": [],
+  "lat": 51.5026934,
+  "lng": -0.2468084,
+  "bills_included": "yes",
+  "available": "27th Sep 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Please quote reference 67 when you contact. **Postcode:** W12 Bright ensuite double room available in a friendly 6-bedroom house located in a residential area, just a 10-minute walk from Stamford Brook station (District line). The location offers easy access to the amenities of R",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 bus 306 \u2192 bus 9",
+  "suitability": 66,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.6,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.58,
+    "weight": 0.4,
+    "points": 23.2,
+    "note": "41 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "11551627",
   "source": "SpareRoom",
   "title": "154R5 |  Medium Double | Garden | Female House",
@@ -304,6 +432,70 @@
     "weight": 0.1,
     "points": 10.0,
     "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18397921",
+  "source": "SpareRoom",
+  "title": "Spacious 4 Bedroom Whole Flat w/ Balcony, Acton W3",
+  "url": "https://www.spareroom.co.uk/flatshare/london/acton/18397921",
+  "price_pcm": 725,
+  "price_raw": "\u00a3725 pcm",
+  "postcode": "W3",
+  "neighbourhood": "Acton",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/92/34/92347185.jpg",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.5078897,
+  "lng": -0.2557595,
+  "bills_included": "unknown",
+  "available": "18th Sep 2026",
+  "min_term": "2 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "A spacious and well-presented four-bedroom apartment situated within an development in Acton, offering generous accommodation and excellent access to the amenities and transport links of Acton and Chiswick.The property provides particularly practical accommodation for professiona",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 bus 207 \u2192 bus 49",
+  "suitability": 64,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.743,
+    "weight": 0.35,
+    "points": 26.0,
+    "note": "\u00a3725 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 0.4,
+    "weight": 0.1,
+    "points": 4.0,
+    "note": "bills not stated"
    },
    "tenancy": {
     "score": 0.66,
@@ -448,6 +640,70 @@
   }
  },
  {
+  "id": "18399376",
+  "source": "SpareRoom",
+  "title": "Huge, bright Double with Sofa",
+  "url": "https://www.spareroom.co.uk/flatshare/london/shepherds_bush/18399376",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "W12",
+  "neighbourhood": "Shepherds Bush",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 5,
+  "risk_flags": [],
+  "lat": 51.5040062,
+  "lng": -0.2437897,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Bright large entirely redecorated (2025) double available for young professionals (mid 20s-mid 30s) or reliable students in a mixed gender householdPlease note, this is not a party place\ud83d\udcb0 Rent includes all bills\ud83d\udcb0 gas, water, electricity, council tax, WiFi, and TV license.Addition",
+  "commute_minutes": 37,
+  "commute_summary": "37 min \u00b7 bus 306 \u2192 bus 9",
+  "suitability": 60,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.66,
+    "weight": 0.4,
+    "points": 26.4,
+    "note": "37 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-08-25; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18399181",
   "source": "SpareRoom",
   "title": "\ud83d\udd253 Lovely Room in Prime Location+Couple Welcome",
@@ -490,6 +746,134 @@
     "weight": 0.4,
     "points": 24.8,
     "note": "39 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18399414",
+  "source": "SpareRoom",
+  "title": "\ud83c\udfe1 Double Bedroom Available in Maida Vale",
+  "url": "https://www.spareroom.co.uk/flatshare/london/maida_vale/18399414",
+  "price_pcm": 930,
+  "price_raw": "\u00a3930 pcm",
+  "postcode": "W9",
+  "neighbourhood": "Maida Vale",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/10/101097845.jpg",
+  "verified": false,
+  "num_photos": 13,
+  "risk_flags": [],
+  "lat": 51.5245983,
+  "lng": -0.1928015,
+  "bills_included": "yes",
+  "available": "10th Oct 2026",
+  "min_term": "12 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "\u2728 Available from 10th October 2026! \u2728\ud83d\udecf\ufe0f Double bedroom available in a 3-bedroom flat in the popular Maida Vale / Westbourne area.\ud83d\udccd W9 2DT\ud83d\udcc5 Available from 10th October 2026\ud83c\udfe0 3-bedroom flat\ud83c\udf06 Great West London location\ud83d\udecd\ufe0f Close to local shops, caf\u00e9s, restaurants and everyday amenitie",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 bus 328 \u2192 Circle",
+  "suitability": 54,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.32,
+    "weight": 0.35,
+    "points": 11.2,
+    "note": "\u00a3930 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "15409043",
+  "source": "SpareRoom",
+  "title": "Double Room Available/3 Bed Garden House",
+  "url": "https://www.spareroom.co.uk/flatshare/london/shepherds_bush/15409043",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "W12",
+  "neighbourhood": "Shepherds Bush",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.5058248415938,
+  "lng": -0.246389549033719,
+  "bills_included": "yes",
+  "available": "1st Oct 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Double room available in a shared flat with all bills and wifi included.The room comes with a double bed, wardrobe, Chest of Drawer, Double Glazed Windows.It is a bright and spacious house with access to a big patio.The flat comes with 1 full bathroom and a big kitchen with dinin",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 bus 218 \u2192 District \u2192 bus 360",
+  "suitability": 51,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
    },
    "bills": {
     "score": 1.0,
