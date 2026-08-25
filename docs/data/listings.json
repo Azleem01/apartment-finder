@@ -64,6 +64,70 @@
   }
  },
  {
+  "id": "18394320",
+  "source": "SpareRoom",
+  "title": "Great room in clean friendly flat ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/southfields/18394320",
+  "price_pcm": 680,
+  "price_raw": "\u00a3680 pcm",
+  "postcode": "SW19",
+  "neighbourhood": "Southfields",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": true,
+  "num_photos": 3,
+  "risk_flags": [],
+  "lat": 51.4425108,
+  "lng": -0.2197008,
+  "bills_included": "yes",
+  "available": "1st Sep 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "We have a room available in our lovely flatshare.All bills and cleaner included.The other flat mates are professional, clean and friendly and looking for someone similar to share with.There is a kitchen and a decent lounge.The room has good storage with double wardrobe, set of dr",
+  "commute_minutes": 45,
+  "commute_summary": "45 min \u00b7 District \u2192 bus 360",
+  "suitability": 69,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.794,
+    "weight": 0.35,
+    "points": 27.8,
+    "note": "\u00a3680 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.5,
+    "weight": 0.4,
+    "points": 20.0,
+    "note": "45 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "11551627",
   "source": "SpareRoom",
   "title": "154R5 |  Medium Double | Garden | Female House",
@@ -106,6 +170,70 @@
     "weight": 0.4,
     "points": 27.2,
     "note": "36 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "16637093",
+  "source": "SpareRoom",
+  "title": "Lovely double room near Battersea Park",
+  "url": "https://www.spareroom.co.uk/flatshare/london/battersea_park/16637093",
+  "price_pcm": 870,
+  "price_raw": "\u00a3870 pcm",
+  "postcode": "SW11",
+  "neighbourhood": "Battersea park",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.4720768541862,
+  "lng": -0.159071206338862,
+  "bills_included": "yes",
+  "available": "7th Sep 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Spacious, double room in fully furnished, friendly, clean 3 bedroom flat to share with 2 other professionals, available from the 7th of September.Great location, minutes away from Battersea Park and Queenstown Road Station, 5 minutes walk to local supermarkets.11 minutes to Water",
+  "commute_minutes": 43,
+  "commute_summary": "43 min \u00b7 bus 44 \u2192 bus 49 \u2192 bus 360",
+  "suitability": 62,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.53,
+    "weight": 0.35,
+    "points": 18.6,
+    "note": "\u00a3870 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.54,
+    "weight": 0.4,
+    "points": 21.6,
+    "note": "43 min to Imperial"
    },
    "bills": {
     "score": 1.0,
