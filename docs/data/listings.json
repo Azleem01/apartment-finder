@@ -896,6 +896,72 @@
   }
  },
  {
+  "id": "18400268",
+  "source": "SpareRoom",
+  "title": "Cosy Room in Clean, Quiet Home!",
+  "url": "https://www.spareroom.co.uk/flatshare/london/white_city/18400268",
+  "price_pcm": 802,
+  "price_raw": "\u00a3185 pw",
+  "postcode": "W12",
+  "neighbourhood": "White City",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 0,
+  "risk_flags": [
+   "No photos in the ad"
+  ],
+  "lat": 51.5163936,
+  "lng": -0.2303267,
+  "bills_included": "yes",
+  "available": "29th Aug 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "This double room is perfect if you want comfort, convenience, and a friendly house to call home. Spacious, fully furnished, and with all bills included. Housemates are professional, fun, and respectful \u2013 you\u2019ll feel right at home from day one.",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 bus 7X \u2192 bus 49",
+  "suitability": 67,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.655,
+    "weight": 0.35,
+    "points": 22.9,
+    "note": "\u00a3802 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18396255",
   "source": "SpareRoom",
   "title": "Amazing Rooms in Putney Bridge (6 Lc)",
@@ -1200,70 +1266,6 @@
     "weight": 0.1,
     "points": 0.0,
     "note": "bills not included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "10698424",
-  "source": "SpareRoom",
-  "title": "Prof share in H'smith. ALL bills,WiFi,Cleaner&TV's",
-  "url": "https://www.spareroom.co.uk/flatshare/london/ravenscourt_park/10698424",
-  "price_pcm": 915,
-  "price_raw": "\u00a3915 pcm",
-  "postcode": "W6",
-  "neighbourhood": "Ravenscourt Park",
-  "property_type": "flat",
-  "rooms_in_property": "4",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/78/20/78207593.jpg",
-  "verified": false,
-  "num_photos": 14,
-  "risk_flags": [],
-  "lat": 51.4920403688184,
-  "lng": -0.232095395798678,
-  "bills_included": "yes",
-  "available": "29th Aug 2026",
-  "min_term": "2 months",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "***0% Deposit Scheme offered - Reposit**Situated in the heart of Hammersmith in a quiet development this is a fantastic opportunity to live in a very sought after part of London. The property is only 2 minutes walk from the bars and shops of Kings StFor transport it is only 10 mi",
-  "commute_minutes": 33,
-  "commute_summary": "33 min \u00b7 District \u2192 bus 360",
-  "suitability": 64,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.372,
-    "weight": 0.35,
-    "points": 13.0,
-    "note": "\u00a3915 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.74,
-    "weight": 0.4,
-    "points": 29.6,
-    "note": "33 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
    },
    "tenancy": {
     "score": 0.66,
@@ -2160,6 +2162,70 @@
     "weight": 0.1,
     "points": 10.0,
     "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18400263",
+  "source": "SpareRoom",
+  "title": "Double Room Available in Great Balham Flat",
+  "url": "https://www.spareroom.co.uk/flatshare/london/balham/18400263",
+  "price_pcm": 780,
+  "price_raw": "\u00a3780 pcm",
+  "postcode": "SW12",
+  "neighbourhood": "Balham",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/93/80/93800837.jpg",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4476189,
+  "lng": -0.1477025,
+  "bills_included": "no",
+  "available": "1st Nov 2026",
+  "min_term": "2 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Unfurnished",
+  "description": "Beautiful double room available in a tidy and spacious house which stretches across three floors.\ud83d\ude82 5-10 min walk to Clapham South & Balham Station\ud83c\udf33 5-10 min walk to Clapham & Tooting CommonHousemates are great, really friendly and very easy going. Both enjoy going to gym and runn",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 bus 155 \u2192 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 59,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.68,
+    "weight": 0.35,
+    "points": 23.8,
+    "note": "\u00a3780 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.58,
+    "weight": 0.4,
+    "points": 23.2,
+    "note": "41 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
    },
    "tenancy": {
     "score": 0.66,
