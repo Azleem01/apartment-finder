@@ -1216,6 +1216,70 @@
   }
  },
  {
+  "id": "18400637",
+  "source": "SpareRoom",
+  "title": "Double Bedroom in Large Clapham Junction Flat ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/clapham_junction/18400637",
+  "price_pcm": 780,
+  "price_raw": "\u00a3780 pcm",
+  "postcode": "SW11",
+  "neighbourhood": "Clapham Junction",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "former flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/90/99/90995196.jpg",
+  "verified": false,
+  "num_photos": 5,
+  "risk_flags": [],
+  "lat": 51.4674776,
+  "lng": -0.1702233,
+  "bills_included": "no",
+  "available": "12th Sep 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Furnished bedroom available in spacious flat in Clapham Junction. Flat - Double room includes bed, wardrobe, chest of drawers, desk and desk chair - Bathroom shared with two others - Kitchen includes dishwasher, lots of storage - Flat shared with 3 other girls in mid/late twentie",
+  "commute_minutes": 29,
+  "commute_summary": "29 min \u00b7 bus 49 \u2192 bus 360",
+  "suitability": 68,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.68,
+    "weight": 0.35,
+    "points": 23.8,
+    "note": "\u00a3780 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.81,
+    "weight": 0.4,
+    "points": 32.4,
+    "note": "29 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "15910334",
   "source": "SpareRoom",
   "title": "Battersea Bright double room ",
@@ -2672,70 +2736,6 @@
     "weight": 0.1,
     "points": 0.0,
     "note": "bills not included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "10312837",
-  "source": "SpareRoom",
-  "title": "Double room in stunning house W12",
-  "url": "https://www.spareroom.co.uk/flatshare/london/london_w12/10312837",
-  "price_pcm": 925,
-  "price_raw": "\u00a3925 pcm",
-  "postcode": "W12",
-  "neighbourhood": "London W12",
-  "property_type": "house",
-  "rooms_in_property": "6",
-  "advertiser_role": "live out landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/97/25/97254511.jpg",
-  "verified": true,
-  "num_photos": 8,
-  "risk_flags": [],
-  "lat": 51.5151773815259,
-  "lng": -0.244603479726847,
-  "bills_included": "yes",
-  "available": "16th Sep 2026",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "W12 0BE. Walk to tube buses BBC & Hammersmith Hospital! Immaculate double room with great storage. (Large wardrobe, chest of drawers plus lift up bed). Own bathroom. Open plan living/eat in Kitchen. TV sofas. Great garden! 2 fridge freezers, dishwasher, induction job and oven. 2 ",
-  "commute_minutes": 39,
-  "commute_summary": "39 min \u00b7 Central \u2192 Circle \u2192 bus 360",
-  "suitability": 58,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.338,
-    "weight": 0.35,
-    "points": 11.8,
-    "note": "\u00a3925 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.62,
-    "weight": 0.4,
-    "points": 24.8,
-    "note": "39 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
    },
    "tenancy": {
     "score": 0.66,
