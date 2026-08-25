@@ -13,7 +13,7 @@
   "advertiser_role": "agent",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": false,
+  "available_now": true,
   "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/86/45/86454897.jpg",
   "verified": false,
   "num_photos": 6,
@@ -234,70 +234,6 @@
     "weight": 0.4,
     "points": 32.4,
     "note": "29 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-08-25; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "17050677",
-  "source": "SpareRoom",
-  "title": "Stunning Double Room in W3 All bills Available ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/acton/17050677",
-  "price_pcm": 750,
-  "price_raw": "\u00a3750 pcm",
-  "postcode": "W3",
-  "neighbourhood": "Acton",
-  "property_type": "flat",
-  "rooms_in_property": "3",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/90/85/90851132.jpg",
-  "verified": false,
-  "num_photos": 2,
-  "risk_flags": [],
-  "lat": 51.5069268,
-  "lng": -0.2454642,
-  "bills_included": "yes",
-  "available": "Available now",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "All Bills includedWe are extremely excited to present this new 5 bedroom house in between Acton and Shephrds bush is within walking distance to the station and supermarket.* All bills included* High speed broadband* Living room* Terrace* Modern kitchenLocationBedroomsAll bedrooms",
-  "commute_minutes": 38,
-  "commute_summary": "38 min \u00b7 bus 207 \u2192 bus 49",
-  "suitability": 75,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.714,
-    "weight": 0.35,
-    "points": 25.0,
-    "note": "\u00a3750 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.64,
-    "weight": 0.4,
-    "points": 25.6,
-    "note": "38 min to Imperial"
    },
    "bills": {
     "score": 1.0,
@@ -2160,6 +2096,70 @@
     "weight": 0.1,
     "points": 4.0,
     "note": "bills not stated"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "17205456",
+  "source": "SpareRoom",
+  "title": "7 Victorian House ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/clapham/17205456",
+  "price_pcm": 849,
+  "price_raw": "\u00a3196 pw",
+  "postcode": "SW9",
+  "neighbourhood": "Clapham",
+  "property_type": "house",
+  "rooms_in_property": "6",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/82/09/82092417.jpg",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.4680833,
+  "lng": -0.1254501,
+  "bills_included": "no",
+  "available": "6th Sep 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "A Fantastic Double Bedroom \ud83d\udecc to Let, just 4 walk from Clapham North and 4 minutes walk to Stockwell Tube Station \ud83d\ude89 with a huge wardrobe to store all your cloths and also lots of space under the bed . A new bed and and mattress The house offers a large living space, A beautiful Ga",
+  "commute_minutes": 34,
+  "commute_summary": "34 min \u00b7 bus 155 \u2192 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 61,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.601,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3849 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.72,
+    "weight": 0.4,
+    "points": 28.8,
+    "note": "34 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
    },
    "tenancy": {
     "score": 0.66,
