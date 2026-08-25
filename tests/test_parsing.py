@@ -7,6 +7,7 @@ If SpareRoom changes its HTML, the card/detail tests here fail loudly — that's
 the signal to update the selectors in scraper/spareroom.py.
 """
 
+import datetime as dt
 import sys
 from pathlib import Path
 
@@ -98,6 +99,16 @@ def test_budget_prefers_cheaper_and_penalises_stretch():
     pref_edge, _ = score.budget_score(850, cfg)
     stretch, _ = score.budget_score(930, cfg)
     assert cheap > pref_edge > stretch          # cheaper always wins; £850-950 penalised
+
+
+def test_available_now_is_not_a_substring_match():
+    """'unknown' contains the letters 'now' but is not an available-now date."""
+    today = dt.date.today()
+    assert score.parse_available_date("Available now") == today
+    assert score.parse_available_date("now") == today
+    assert score.parse_available_date("unknown") is None
+    assert score.parse_available_date("Not known") is None
+    assert score.parse_available_date("01 Sep 2026").isoformat() == "2026-09-01"
 
 
 def test_term_and_short_let_detection():

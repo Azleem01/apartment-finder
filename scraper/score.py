@@ -73,7 +73,8 @@ def parse_available_date(text: str) -> dt.date | None:
     t = (text or "").strip()
     if not t:
         return None
-    if "now" in t.lower():
+    # Word-boundary match so "unknown" / "not known" are not treated as "now".
+    if re.search(r"\bnow\b", t, re.I):
         return dt.date.today()
     m = re.search(r"\d{1,2}[ /][A-Za-z]{3,9}[ /]\d{2,4}|\d{1,2}/\d{1,2}/\d{2,4}", t)
     frag = m.group(0) if m else t
