@@ -128,48 +128,48 @@
   }
  },
  {
-  "id": "17961112",
+  "id": "18401395",
   "source": "SpareRoom",
-  "title": "\ud83d\ude48Hammersmith Available Now \ud83d\ude49",
-  "url": "https://www.spareroom.co.uk/flatshare/london/hammersmith/17961112",
-  "price_pcm": 835,
-  "price_raw": "\u00a3835 pcm",
-  "postcode": "W6",
-  "neighbourhood": "Hammersmith",
-  "property_type": "flat",
-  "rooms_in_property": "3",
+  "title": "Former hotel Guardianship in Putney",
+  "url": "https://www.spareroom.co.uk/flatshare/london/putney_bridge/18401395",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "SW6",
+  "neighbourhood": "Putney Bridge",
+  "property_type": "property",
+  "rooms_in_property": "12",
   "advertiser_role": "agent",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/94/60/94604284.jpg",
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/90/52/90527438.jpg",
   "verified": false,
   "num_photos": 10,
   "risk_flags": [],
-  "lat": 51.4938676,
-  "lng": -0.2214468,
+  "lat": 51.4680131,
+  "lng": -0.2107611,
   "bills_included": "yes",
-  "available": "15th Sep 2026",
-  "min_term": "12 months",
+  "available": "Available now",
+  "min_term": "1 month",
   "max_term": "None",
   "room_type": "",
-  "furnishings": "Furnished",
-  "description": "INCREDIBLE\ud83d\uded1TO MOVE BY THE 15th of September \ud83d\uded1Double ROOM available NOW! 835pmall bill included5min away from The Underground station Cinema, Gym, Resturant and BIG supermarket Just near byAll bills are included PLEASE SEND ME YOUR NUMBER TO MAKE EASIER THE CONVERSATION!!Thanks",
-  "commute_minutes": 26,
-  "commute_summary": "26 min \u00b7 bus 9",
-  "suitability": 77,
+  "furnishings": "Unfurnished",
+  "description": "Live-in Guardians is delighted to present this former Premier Inn hotel in Putney.The property consists of 40 good sized bedrooms all en suites split across 4 floors with 2 kitchens on each floor.All the rooms are unfurnished, so you will have to provide your own bed and wardrobe",
+  "commute_minutes": 32,
+  "commute_summary": "32 min \u00b7 District",
+  "suitability": 76,
   "score_breakdown": {
    "budget": {
-    "score": 0.617,
+    "score": 0.6,
     "weight": 0.35,
-    "points": 21.6,
-    "note": "\u00a3835 pcm (best value \u2264 \u00a3850)"
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
    },
    "commute": {
-    "score": 0.84,
+    "score": 0.76,
     "weight": 0.4,
-    "points": 33.6,
-    "note": "26 min to Imperial"
+    "points": 30.4,
+    "note": "32 min to Imperial"
    },
    "bills": {
     "score": 1.0,
@@ -178,10 +178,10 @@
     "note": "bills included"
    },
    "tenancy": {
-    "score": 0.66,
+    "score": 0.96,
     "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
+    "points": 9.6,
+    "note": "available 2026-08-26; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -512,6 +512,70 @@
   }
  },
  {
+  "id": "18401327",
+  "source": "SpareRoom",
+  "title": "Room to rent just 6 min away from station \u00a3735pcm",
+  "url": "https://www.spareroom.co.uk/flatshare/london/stockwell/18401327",
+  "price_pcm": 735,
+  "price_raw": "\u00a3735 pcm",
+  "postcode": "SW9",
+  "neighbourhood": "Stockwell",
+  "property_type": "house",
+  "rooms_in_property": "5",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 5,
+  "risk_flags": [],
+  "lat": 51.4666216,
+  "lng": -0.106678,
+  "bills_included": "yes",
+  "available": "10th Sep 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Double Room \u2013 Bills Included \u2013 Near Stockwell Station\ud83d\udccd Swinford Gardens, SW9 7LE, London\ud83d\udcb7 \u00a3735/month \u2013 Single Occupancy\ud83d\udcc5 Available Now\ud83d\udcb8 Deposit Required\ud83c\udfe1 Double room | All bills included | No agency fees\ud83d\ude89 8\u201310 mins walk to Stockwell Station\ud83d\ude87 Northern & Victoria Lines\ud83d\udccd Zone 2 | Ea",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 70,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.731,
+    "weight": 0.35,
+    "points": 25.6,
+    "note": "\u00a3735 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.58,
+    "weight": 0.4,
+    "points": 23.2,
+    "note": "41 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "11075914",
   "source": "SpareRoom",
   "title": "Room To Rent ( Earls Court.)",
@@ -566,6 +630,70 @@
     "weight": 0.1,
     "points": 7.0,
     "note": "availability unknown; stay up to 12 months"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18401291",
+  "source": "SpareRoom",
+  "title": "Lodger room in Battersea ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/battersea/18401291",
+  "price_pcm": 900,
+  "price_raw": "\u00a3900 pcm",
+  "postcode": "SW11",
+  "neighbourhood": "Battersea",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.4738864,
+  "lng": -0.1608376,
+  "bills_included": "yes",
+  "available": "1st Sep 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Single upstairs room available for a lodger. Lodger agreement with a 30 day notice period. All rooms in the flat are available for use. This includes: lounge, kitchen, garden/patio, kitchen, bathroom and basement in addition to your upstairs room.",
+  "commute_minutes": 30,
+  "commute_summary": "30 min \u00b7 bus 44 \u2192 bus 360",
+  "suitability": 68,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.425,
+    "weight": 0.35,
+    "points": 14.9,
+    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.8,
+    "weight": 0.4,
+    "points": 32.0,
+    "note": "30 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -810,6 +938,70 @@
     "weight": 0.4,
     "points": 27.2,
     "note": "36 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "3995587",
+  "source": "SpareRoom",
+  "title": "Double room for rent in Chiswick Bills included!",
+  "url": "https://www.spareroom.co.uk/flatshare/london/chiswick/3995587",
+  "price_pcm": 900,
+  "price_raw": "\u00a3900 pcm",
+  "postcode": "W4",
+  "neighbourhood": "Chiswick",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.492610061346,
+  "lng": -0.253307266566872,
+  "bills_included": "yes",
+  "available": "1st Sep 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Room for rent in Chiswick High Road all bills included +wifi. Room flat share available with double bed, chest of draw, wardrobe, double Glazed windows curtains, Wooden Floor, The kitchen comes with Fridge Freezer, Washing Machine, Microwave, Kettle, Toaster, Cutlery, etc. 3 piec",
+  "commute_minutes": 34,
+  "commute_summary": "34 min \u00b7 District \u2192 bus 360",
+  "suitability": 65,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.425,
+    "weight": 0.35,
+    "points": 14.9,
+    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.72,
+    "weight": 0.4,
+    "points": 28.8,
+    "note": "34 min to Imperial"
    },
    "bills": {
     "score": 1.0,
@@ -1962,6 +2154,70 @@
     "weight": 0.4,
     "points": 24.8,
     "note": "39 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18401250",
+  "source": "SpareRoom",
+  "title": "Spacious, Girly House in Fulham",
+  "url": "https://www.spareroom.co.uk/flatshare/london/fulham/18401250",
+  "price_pcm": 938,
+  "price_raw": "\u00a3938 pcm",
+  "postcode": "SW6",
+  "neighbourhood": "Fulham",
+  "property_type": "house",
+  "rooms_in_property": "4",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/70/31/70315522.jpg",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.4703755,
+  "lng": -0.2070546,
+  "bills_included": "no",
+  "available": "1st Oct 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Available from the beginning of October. Exact date to be confirmed later this week.Must have a UK-based guarantor\ud83d\udecf\ufe0f The room comes fully furnished with a double bed, large wardrobe and chest of drawers. Bathroom is shared with 1 other.\ud83d\udcb8 Cost is \u00a3973.35 per month (plus extra \u00a3137",
+  "commute_minutes": 35,
+  "commute_summary": "35 min \u00b7 District",
+  "suitability": 50,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.292,
+    "weight": 0.35,
+    "points": 10.2,
+    "note": "\u00a3938 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.7,
+    "weight": 0.4,
+    "points": 28.0,
+    "note": "35 min to Imperial"
    },
    "bills": {
     "score": 0.0,
