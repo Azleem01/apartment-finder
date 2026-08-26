@@ -128,6 +128,70 @@
   }
  },
  {
+  "id": "18106891",
+  "source": "SpareRoom",
+  "title": "Chiswick household for young adults",
+  "url": "https://www.spareroom.co.uk/flatshare/london/chiswick/18106891",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "W4",
+  "neighbourhood": "Chiswick",
+  "property_type": "house",
+  "rooms_in_property": "5",
+  "advertiser_role": "former flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/92/35/92353980.jpg",
+  "verified": false,
+  "num_photos": 6,
+  "risk_flags": [],
+  "lat": 51.4878447,
+  "lng": -0.2704261,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Hello,This is a double room available for rent in a household of young adults. I will be moving out by the end of August, so the room will be available from 1st September. Rent is \u00a3850 per month, and includes all bills ( council tax, water, electricity, gas, internet. )The house ",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 bus E3 \u2192 District \u2192 bus 360",
+  "suitability": 66,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.6,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-08-26; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "17205456",
   "source": "SpareRoom",
   "title": "7 Victorian House ",
@@ -240,6 +304,70 @@
     "weight": 0.1,
     "points": 10.0,
     "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18399080",
+  "source": "SpareRoom",
+  "title": "2 rooms available in a house share in Kennington ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/kennington/18399080",
+  "price_pcm": 800,
+  "price_raw": "\u00a3800 pcm",
+  "postcode": "SE17",
+  "neighbourhood": "Kennington",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/12/101298552.jpg",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4838271,
+  "lng": -0.1018177,
+  "bills_included": "no",
+  "available": "30th Sep 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "I\u2019m looking for 2 new housemates to fill in as my current housemates will be moving out at the end of September (though the rooms could be available a little earlier).I\u2019m looking for easy-going (reasonably) tidy flatmates who enjoy being part of a friendly household and are up fo",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 Northern \u2192 District \u2192 bus 360",
+  "suitability": 55,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.657,
+    "weight": 0.35,
+    "points": 23.0,
+    "note": "\u00a3800 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
    },
    "tenancy": {
     "score": 0.66,
@@ -432,6 +560,70 @@
     "weight": 0.1,
     "points": 10.0,
     "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18397889",
+  "source": "SpareRoom",
+  "title": "3 Bed flat on Tooting Bec Road, Tooting Bec, SW17",
+  "url": "https://www.spareroom.co.uk/flatshare/london/tooting_bec/18397889",
+  "price_pcm": 900,
+  "price_raw": "\u00a3900 pcm",
+  "postcode": "SW17",
+  "neighbourhood": "Tooting Bec",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/92/33/92330405.jpg",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.4337747,
+  "lng": -0.1548518,
+  "bills_included": "unknown",
+  "available": "30th Sep 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Part Furnished",
+  "description": "Tooting Bec Road, Tooting Bec, SW17Three BedroomsOne BathroomTop Floor FlatCouncil Tax Band CEPC Rating EExcellent transport links across LondonMoments from Tooting Bec Underground StationDescriptionA well located three bedroom top floor flat situated just moments from Tooting Be",
+  "commute_minutes": 45,
+  "commute_summary": "45 min \u00b7 Northern \u2192 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 50,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.425,
+    "weight": 0.35,
+    "points": 14.9,
+    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.5,
+    "weight": 0.4,
+    "points": 20.0,
+    "note": "45 min to Imperial"
+   },
+   "bills": {
+    "score": 0.4,
+    "weight": 0.1,
+    "points": 4.0,
+    "note": "bills not stated"
    },
    "tenancy": {
     "score": 0.66,
