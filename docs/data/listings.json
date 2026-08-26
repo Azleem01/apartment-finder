@@ -64,6 +64,70 @@
   }
  },
  {
+  "id": "17530459",
+  "source": "SpareRoom",
+  "title": "Large room available ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/clapham_north/17530459",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "SW4",
+  "neighbourhood": "Clapham North",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/84/23/84237316.jpg",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4658731,
+  "lng": -0.1345965,
+  "bills_included": "yes",
+  "available": "7th Sep 2026",
+  "min_term": "3 months",
+  "max_term": "36 months",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "A large furnished room is available for a lady the room is in a ground floor flat in Clapham north transportation is very close an Clapham high street only 5 minutes walk, i would like a lady who prefers ladies nice to meet you \ud83d\ude0a\ud83e\udd17 Short lets welcome",
+  "commute_minutes": 36,
+  "commute_summary": "36 min \u00b7 bus 155 \u2192 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 70,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.6,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.68,
+    "weight": 0.4,
+    "points": 27.2,
+    "note": "36 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.7,
+    "weight": 0.1,
+    "points": 7.0,
+    "note": "availability unknown; stay up to 36 months"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "17205456",
   "source": "SpareRoom",
   "title": "7 Victorian House ",
@@ -304,6 +368,70 @@
     "weight": 0.1,
     "points": 0.0,
     "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "17403889",
+  "source": "SpareRoom",
+  "title": "Lovely double room in E&C, London",
+  "url": "https://www.spareroom.co.uk/flatshare/london/elephant_and_castle/17403889",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "SE1",
+  "neighbourhood": "Elephant and Castle",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "former flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/80/74/80748430.jpg",
+  "verified": false,
+  "num_photos": 4,
+  "risk_flags": [],
+  "lat": 51.4952235,
+  "lng": -0.0964317,
+  "bills_included": "yes",
+  "available": "1st Oct 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Available from 01/10! Gorg cosy little room in 3 bed flat in Elephant and Castle.All bills included!Small shared living area if desired - sharing with 2 other young professionals. Newly renovated kitchen.Super close to tube and green areas.*Additional room in appartment available",
+  "commute_minutes": 40,
+  "commute_summary": "40 min \u00b7 Bakerloo \u2192 District \u2192 bus 360",
+  "suitability": 54,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.6,
+    "weight": 0.4,
+    "points": 24.0,
+    "note": "40 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
    },
    "tenancy": {
     "score": 0.66,
