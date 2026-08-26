@@ -53,7 +53,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-25; no max term"
+    "note": "available 2026-08-26; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -117,7 +117,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-25; no max term"
+    "note": "available 2026-08-26; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -181,7 +181,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-25; no max term"
+    "note": "available 2026-08-26; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -245,7 +245,71 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-25; no max term"
+    "note": "available 2026-08-26; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "17050677",
+  "source": "SpareRoom",
+  "title": "Stunning Double Room in W3 All bills Available ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/acton/17050677",
+  "price_pcm": 750,
+  "price_raw": "\u00a3750 pcm",
+  "postcode": "W3",
+  "neighbourhood": "Acton",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/90/85/90851132.jpg",
+  "verified": false,
+  "num_photos": 2,
+  "risk_flags": [],
+  "lat": 51.5069268,
+  "lng": -0.2454642,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "All Bills includedWe are extremely excited to present this new 5 bedroom house in between Acton and Shephrds bush is within walking distance to the station and supermarket.* All bills included* High speed broadband* Living room* Terrace* Modern kitchenLocationBedroomsAll bedrooms",
+  "commute_minutes": 38,
+  "commute_summary": "38 min \u00b7 bus 207 \u2192 bus 49",
+  "suitability": 75,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.714,
+    "weight": 0.35,
+    "points": 25.0,
+    "note": "\u00a3750 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.64,
+    "weight": 0.4,
+    "points": 25.6,
+    "note": "38 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-08-26; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -512,6 +576,70 @@
   }
  },
  {
+  "id": "18161803",
+  "source": "SpareRoom",
+  "title": "Spacious double room 3 mins walk from zone 3 tube ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/acton/18161803",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "W3",
+  "neighbourhood": "Acton",
+  "property_type": "house",
+  "rooms_in_property": "4",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.5014916,
+  "lng": -0.2820382,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Double room in a professional houseshare * Shared eating area * Two bathrooms * Three WC's * Quiet Garden with mature trees, lawn and sunny patio * Storage for Bicycles * Quiet road close to the tube and local amenities * Acton Town tube station has Piccadilly and District lines ",
+  "commute_minutes": 37,
+  "commute_summary": "37 min \u00b7 Piccadilly",
+  "suitability": 72,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.6,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.66,
+    "weight": 0.4,
+    "points": 26.4,
+    "note": "37 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-08-26; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18399352",
   "source": "SpareRoom",
   "title": "Lovely DBL 26th Sept, Balcony, 4 bed flat",
@@ -629,7 +757,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-25; no max term"
+    "note": "available 2026-08-26; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -693,7 +821,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-25; no max term"
+    "note": "available 2026-08-26; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -757,7 +885,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-25; no max term"
+    "note": "available 2026-08-26; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1013,7 +1141,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-25; no max term"
+    "note": "available 2026-08-26; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1269,7 +1397,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-25; no max term"
+    "note": "available 2026-08-26; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1653,7 +1781,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-25; no max term"
+    "note": "available 2026-08-26; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2357,7 +2485,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-08-25; no max term"
+    "note": "available 2026-08-26; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2672,6 +2800,70 @@
     "weight": 0.1,
     "points": 0.0,
     "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "10312837",
+  "source": "SpareRoom",
+  "title": "Double room in stunning house W12",
+  "url": "https://www.spareroom.co.uk/flatshare/london/london_w12/10312837",
+  "price_pcm": 925,
+  "price_raw": "\u00a3925 pcm",
+  "postcode": "W12",
+  "neighbourhood": "London W12",
+  "property_type": "house",
+  "rooms_in_property": "6",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/97/25/97254511.jpg",
+  "verified": true,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.5151773815259,
+  "lng": -0.244603479726847,
+  "bills_included": "yes",
+  "available": "16th Sep 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "W12 0BE. Walk to tube buses BBC & Hammersmith Hospital! Immaculate double room with great storage. (Large wardrobe, chest of drawers plus lift up bed). Own bathroom. Open plan living/eat in Kitchen. TV sofas. Great garden! 2 fridge freezers, dishwasher, induction job and oven. 2 ",
+  "commute_minutes": 39,
+  "commute_summary": "39 min \u00b7 Central \u2192 Circle \u2192 bus 360",
+  "suitability": 58,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.338,
+    "weight": 0.35,
+    "points": 11.8,
+    "note": "\u00a3925 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.62,
+    "weight": 0.4,
+    "points": 24.8,
+    "note": "39 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
    },
    "tenancy": {
     "score": 0.66,
