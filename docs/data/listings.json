@@ -128,6 +128,70 @@
   }
  },
  {
+  "id": "18395593",
+  "source": "SpareRoom",
+  "title": "Bright room in professional Southfields flatshare",
+  "url": "https://www.spareroom.co.uk/flatshare/london/southfields/18395593",
+  "price_pcm": 730,
+  "price_raw": "\u00a3730 pcm",
+  "postcode": "SW19",
+  "neighbourhood": "Southfields",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "former flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 3,
+  "risk_flags": [],
+  "lat": 51.4490933,
+  "lng": -0.2155447,
+  "bills_included": "yes",
+  "available": "20th Oct 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "New flatmate required for a room in a quiet, well-presented flat in Southfields from October 20th. The flat has been recently redecorated and refurbished and has an ensuite bathroom. There is a good amount of storage space available around the flatIt's very good value at \u00a3730 per",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 District \u2192 bus 360",
+  "suitability": 68,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.737,
+    "weight": 0.35,
+    "points": 25.8,
+    "note": "\u00a3730 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18106891",
   "source": "SpareRoom",
   "title": "Chiswick household for young adults",
@@ -694,6 +758,70 @@
     "weight": 0.1,
     "points": 9.6,
     "note": "available 2026-08-26; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "17711360",
+  "source": "SpareRoom",
+  "title": "Clapham Common houseshare \ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udf33",
+  "url": "https://www.spareroom.co.uk/flatshare/london/clapham_common/17711360",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "SW4",
+  "neighbourhood": "Clapham Common",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/12/101277014.jpg",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4630711,
+  "lng": -0.1438956,
+  "bills_included": "no",
+  "available": "1st Oct 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "We\u2019re looking for two fab people to join our flat as our two other mates are moving out of Clapham \ud83d\udc94The flat has 4 bedrooms, 2 bathrooms, a small balcony and shared kitchen and living room. We\u2019re right next to Clapham Common and a 5 minute walk from Clapham Common tube station. B",
+  "commute_minutes": 37,
+  "commute_summary": "37 min \u00b7 bus 137 \u2192 bus 360",
+  "suitability": 47,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.66,
+    "weight": 0.4,
+    "points": 26.4,
+    "note": "37 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
    },
    "freshness": {
     "score": 1.0,
