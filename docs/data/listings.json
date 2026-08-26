@@ -128,6 +128,70 @@
   }
  },
  {
+  "id": "10312837",
+  "source": "SpareRoom",
+  "title": "Double room in stunning house W12",
+  "url": "https://www.spareroom.co.uk/flatshare/london/london_w12/10312837",
+  "price_pcm": 925,
+  "price_raw": "\u00a3925 pcm",
+  "postcode": "W12",
+  "neighbourhood": "London W12",
+  "property_type": "house",
+  "rooms_in_property": "6",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/97/25/97254511.jpg",
+  "verified": true,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.5151773815259,
+  "lng": -0.244603479726847,
+  "bills_included": "yes",
+  "available": "16th Sep 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "W12 0BE. Walk to tube buses BBC & Hammersmith Hospital! Immaculate double room with great storage. (Large wardrobe, chest of drawers plus lift up bed). Own bathroom. Open plan living/eat in Kitchen. TV sofas. Great garden! 2 fridge freezers, dishwasher, induction job and oven. 2 ",
+  "commute_minutes": 39,
+  "commute_summary": "39 min \u00b7 Central \u2192 Circle \u2192 bus 360",
+  "suitability": 58,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.338,
+    "weight": 0.35,
+    "points": 11.8,
+    "note": "\u00a3925 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.62,
+    "weight": 0.4,
+    "points": 24.8,
+    "note": "39 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18399181",
   "source": "SpareRoom",
   "title": "\ud83d\udd253 Lovely Room in Prime Location+Couple Welcome",
@@ -176,6 +240,70 @@
     "weight": 0.1,
     "points": 10.0,
     "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18397976",
+  "source": "SpareRoom",
+  "title": "Clapham North / Stockwell, Fantastic ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/stockwell/18397976",
+  "price_pcm": 900,
+  "price_raw": "\u00a3900 pcm",
+  "postcode": "SW9",
+  "neighbourhood": "Stockwell",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/96/73/96730582.jpg",
+  "verified": false,
+  "num_photos": 6,
+  "risk_flags": [],
+  "lat": 51.4686855,
+  "lng": -0.1231793,
+  "bills_included": "no",
+  "available": "27th Sep 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Fantastic flat a few minutes walk from the Victoria and Northern Lines - Stockwell Tube / Clapham North Tube.Close to everything! eg a 5 minute walk to Stockwell and a 10 minute walk to Clapham and Brixton.Large living room, large kitchen, cute conservatory and all mod cons eg wa",
+  "commute_minutes": 36,
+  "commute_summary": "36 min \u00b7 Victoria \u2192 Circle",
+  "suitability": 54,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.425,
+    "weight": 0.35,
+    "points": 14.9,
+    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.68,
+    "weight": 0.4,
+    "points": 27.2,
+    "note": "36 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
    },
    "tenancy": {
     "score": 0.66,
