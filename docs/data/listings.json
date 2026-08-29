@@ -512,6 +512,70 @@
   }
  },
  {
+  "id": "18405862",
+  "source": "SpareRoom",
+  "title": "Amazing Rooms in Putney Bridge (6 Lc)",
+  "url": "https://www.spareroom.co.uk/flatshare/london/putney/18405862",
+  "price_pcm": 790,
+  "price_raw": "\u00a3790 pcm",
+  "postcode": "SW15",
+  "neighbourhood": "Putney",
+  "property_type": "flat",
+  "rooms_in_property": "6",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/93/84/93846051.jpg",
+  "verified": false,
+  "num_photos": 11,
+  "risk_flags": [],
+  "lat": 51.465861,
+  "lng": -0.2182599,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Lilburne CourtLocation: Putney Bridge- walking distance to Putney bridge StationRiver path at the back of the property\ud83d\ude8d Transport: Easy access to public transport\ud83d\uded2 Amenities: Shops, supermarkets & local services nearbyWe are pleased to offer one double room in a well-maintained a",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 bus 265 \u2192 District",
+  "suitability": 70,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.669,
+    "weight": 0.35,
+    "points": 23.4,
+    "note": "\u00a3790 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-08-29; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18405089",
   "source": "SpareRoom",
   "title": "Charming Double Room for Rent in Stockwell (Female",
@@ -2143,70 +2207,6 @@
   "description": "Bright Double Rooms available now in this 4 bedrooms flat.\ud83d\ude8a\ud83d\udccdLocation :- 10 min walk to Old street Station\u2764\ufe0f VERY SAFE AREA \u2764\ufe0fFully furnished and managed. All utensils are provided except for linen and bedding. The kitchen and the bathroom are shared with other tenants. The flat h",
   "commute_minutes": 45,
   "commute_summary": "45 min \u00b7 bus 56 \u2192 Northern \u2192 Victoria \u2192 District \u2192 bus 360",
-  "suitability": 46,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.425,
-    "weight": 0.35,
-    "points": 14.9,
-    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.5,
-    "weight": 0.4,
-    "points": 20.0,
-    "note": "45 min to Imperial"
-   },
-   "bills": {
-    "score": 0.0,
-    "weight": 0.1,
-    "points": 0.0,
-    "note": "bills not included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "17670371",
-  "source": "SpareRoom",
-  "title": "Amazing Double ! Zone 1 ! in the Heart of Brick Ln",
-  "url": "https://www.spareroom.co.uk/flatshare/london/liverpool_street/17670371",
-  "price_pcm": 900,
-  "price_raw": "\u00a3900 pcm",
-  "postcode": "E1",
-  "neighbourhood": "Liverpool Street",
-  "property_type": "flat",
-  "rooms_in_property": "3",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 12,
-  "risk_flags": [],
-  "lat": 51.52192,
-  "lng": -0.0747765,
-  "bills_included": "no",
-  "available": "13th Sep 2026",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "\ud83d\udcc6 Room available from the 13th of SEPTEMBER 2026\u2728 AMAZING LOCATION the \u2764\ufe0f of vibrant BRICK LANE! \u2728\ud83c\udfe0 3 bedroom flat on the third floor of the building \ud83d\udccd Brick Lane / Liverpool Street\ud83d\udeb6 5 mins walk from Shoreditch High Street Overground station\ud83d\udeb6 15 mins walk from Liverpool Street St",
-  "commute_minutes": 45,
-  "commute_summary": "45 min \u00b7 Overground \u2192 District \u2192 bus 360",
   "suitability": 46,
   "score_breakdown": {
    "budget": {
