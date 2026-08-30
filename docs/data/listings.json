@@ -256,6 +256,70 @@
   }
  },
  {
+  "id": "18401370",
+  "source": "SpareRoom",
+  "title": "Light, clean, comfortable double room in Angel ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/angel/18401370",
+  "price_pcm": 650,
+  "price_raw": "\u00a3650 pcm",
+  "postcode": "N1",
+  "neighbourhood": "Angel",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.5322713,
+  "lng": -0.0996151,
+  "bills_included": "yes",
+  "available": "1st Oct 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Weekday room in Angel \u2013 ideal for someone commuting into London 3\u20134 days a weekIf you\u2019re heading into the office a few days a week and looking for a comfortable, well-equipped London base in a fantastic location, this could be ideal.The flat is in a lovely part of Angel, close to",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 Northern \u2192 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 71,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.829,
+    "weight": 0.35,
+    "points": 29.0,
+    "note": "\u00a3650 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18401113",
   "source": "SpareRoom",
   "title": "Lovely room in friendly flat (bills incl) ",
@@ -310,6 +374,70 @@
     "weight": 0.1,
     "points": 6.6,
     "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "9048535",
+  "source": "SpareRoom",
+  "title": "1 single room  in 4 bed flat  in Kings Cross ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/bloomsbury/9048535",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "WC1",
+  "neighbourhood": "Bloomsbury",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 6,
+  "risk_flags": [],
+  "lat": 51.5278585708033,
+  "lng": -0.120519841607933,
+  "bills_included": "yes",
+  "available": "24th Sep 2026",
+  "min_term": "6 months",
+  "max_term": "12 months",
+  "room_type": "single",
+  "furnishings": "Furnished",
+  "description": "GREAT LOCATION! Few minutes walking distance from Kings Cross and St Pancras station. Secure intercom at the flat. * No admin or hidden fees* Fully furnished roomsPlease contact me by phone or email at anytime.",
+  "commute_minutes": 36,
+  "commute_summary": "36 min \u00b7 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 70,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.6,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.68,
+    "weight": 0.4,
+    "points": 27.2,
+    "note": "36 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.7,
+    "weight": 0.1,
+    "points": 7.0,
+    "note": "availability unknown; stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
@@ -426,70 +554,6 @@
     "weight": 0.4,
     "points": 22.4,
     "note": "42 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-08-30; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "18402475",
-  "source": "SpareRoom",
-  "title": "\u2b50All bills included | Denmark Hill ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/denmark_hill/18402475",
-  "price_pcm": 800,
-  "price_raw": "\u00a3800 pcm",
-  "postcode": "SE5",
-  "neighbourhood": "Denmark Hill",
-  "property_type": "house",
-  "rooms_in_property": "3",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/58/76/58763560.jpg",
-  "verified": false,
-  "num_photos": 5,
-  "risk_flags": [],
-  "lat": 51.4721927,
-  "lng": -0.0908818,
-  "bills_included": "yes",
-  "available": "Available now",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "Looking for a comfortable and well-connected place to call home in South East London? This fully furnished private room in Camberwell offers convenient city living in a shared house.\ud83d\udccd Location: Allendale Close, SE5 8SG\ud83d\udcb7 Rent: \u00a3800 pcm\ud83d\udcb0 Deposit: 1 month\ud83d\udcc5 Available: Immediately\u2728 Pr",
-  "commute_minutes": 44,
-  "commute_summary": "44 min \u00b7 bus 35 \u2192 Victoria \u2192 District \u2192 bus 360",
-  "suitability": 68,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.657,
-    "weight": 0.35,
-    "points": 23.0,
-    "note": "\u00a3800 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.52,
-    "weight": 0.4,
-    "points": 20.8,
-    "note": "44 min to Imperial"
    },
    "bills": {
     "score": 1.0,
@@ -1218,6 +1282,70 @@
   }
  },
  {
+  "id": "18406749",
+  "source": "SpareRoom",
+  "title": "\ud83c\udfe1 Double Room in Camberwell",
+  "url": "https://www.spareroom.co.uk/flatshare/london/camberwell/18406749",
+  "price_pcm": 900,
+  "price_raw": "\u00a3900 pcm",
+  "postcode": "SE5",
+  "neighbourhood": "Camberwell",
+  "property_type": "flat",
+  "rooms_in_property": "5",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 6,
+  "risk_flags": [],
+  "lat": 51.4668048680763,
+  "lng": -0.0992017938532699,
+  "bills_included": "yes",
+  "available": "1st Oct 2026",
+  "min_term": "12 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "A bright and comfortable **double room** is available in a well-located **5-bedroom flat in Camberwell, ideal for a professional looking for a convenient London location with excellent transport links.\ud83d\ude86 Excellent Transport Links: \ud83d\ude89 **Loughborough Junction Station \u2013 approx. 2\u20133 mi",
+  "commute_minutes": 40,
+  "commute_summary": "40 min \u00b7 bus 35 \u2192 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 60,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.425,
+    "weight": 0.35,
+    "points": 14.9,
+    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.6,
+    "weight": 0.4,
+    "points": 24.0,
+    "note": "40 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "17461554",
   "source": "SpareRoom",
   "title": "Extra Large room + Single study in shared flat",
@@ -1580,6 +1708,70 @@
     "weight": 0.4,
     "points": 22.4,
     "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "17687961",
+  "source": "SpareRoom",
+  "title": "Double Room in Clapham South with large garden",
+  "url": "https://www.spareroom.co.uk/flatshare/london/clapham/17687961",
+  "price_pcm": 800,
+  "price_raw": "\u00a3800 pcm",
+  "postcode": "SW4",
+  "neighbourhood": "Clapham",
+  "property_type": "house",
+  "rooms_in_property": "4",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4510102,
+  "lng": -0.1347271,
+  "bills_included": "no",
+  "available": "31st Oct 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "We are looking for a new male housemate to join our lively and friendly home in Clapham South. Available move in date is October 31st- Double bedroom with built in wardrobe - Large garden with BBQ- Sociable, fun housemates- 10 min walk to Clapham South tube- Separate kitchen and ",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 bus 137 \u2192 bus 360",
+  "suitability": 55,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.657,
+    "weight": 0.35,
+    "points": 23.0,
+    "note": "\u00a3800 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
    },
    "bills": {
     "score": 0.0,
