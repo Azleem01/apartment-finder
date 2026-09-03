@@ -384,70 +384,6 @@
   }
  },
  {
-  "id": "17565616",
-  "source": "SpareRoom",
-  "title": "Double Rooms in an Excellent Location",
-  "url": "https://www.spareroom.co.uk/flatshare/london/ravenscourt_park/17565616",
-  "price_pcm": 900,
-  "price_raw": "\u00a3900 pcm",
-  "postcode": "W6",
-  "neighbourhood": "Ravenscourt Park",
-  "property_type": "flat",
-  "rooms_in_property": "4",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/05/100596236.jpg",
-  "verified": false,
-  "num_photos": 8,
-  "risk_flags": [],
-  "lat": 51.4950772,
-  "lng": -0.2330545,
-  "bills_included": "yes",
-  "available": "Available now",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "\"Modern and Spacious Double Room in Ravens Court, just 2 minutes from Ravens Court Park (District Line), Zone 2.Situated in a secure and tranquil neighborhood, this double room offers convenience and comfort. Within a short stroll, you'll find supermarkets, grocery stores, coffee",
-  "commute_minutes": 32,
-  "commute_summary": "32 min \u00b7 District \u2192 bus 360",
-  "suitability": 70,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.425,
-    "weight": 0.35,
-    "points": 14.9,
-    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.76,
-    "weight": 0.4,
-    "points": 30.4,
-    "note": "32 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-09-03; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "15876367",
   "source": "SpareRoom",
   "title": "Medium Size  Bedsit to Let   White City W12 (Pat)",
@@ -554,6 +490,70 @@
     "weight": 0.4,
     "points": 20.8,
     "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18412654",
+  "source": "SpareRoom",
+  "title": "Double Room near Hammersmith Station",
+  "url": "https://www.spareroom.co.uk/flatshare/london/ravenscourt_park/18412654",
+  "price_pcm": 900,
+  "price_raw": "\u00a3900 pcm",
+  "postcode": "W6",
+  "neighbourhood": "Ravenscourt Park",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/71/63/71631217.jpg",
+  "verified": false,
+  "num_photos": 5,
+  "risk_flags": [],
+  "lat": 51.4950772,
+  "lng": -0.2330545,
+  "bills_included": "yes",
+  "available": "24th Sep 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "\"Modern and Spacious Double Room in Ravens Court, just 2 minutes from Ravens Court Park (District Line), Zone 2.Situated in a secure and tranquil neighborhood, this double room offers convenience and comfort. Within a short stroll, you'll find supermarkets, grocery stores, coffee",
+  "commute_minutes": 32,
+  "commute_summary": "32 min \u00b7 District \u2192 bus 360",
+  "suitability": 67,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.425,
+    "weight": 0.35,
+    "points": 14.9,
+    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.76,
+    "weight": 0.4,
+    "points": 30.4,
+    "note": "32 min to Imperial"
    },
    "bills": {
     "score": 1.0,
@@ -847,7 +847,7 @@
   "days_old_known": true,
   "available_now": false,
   "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
+  "verified": true,
   "num_photos": 4,
   "risk_flags": [],
   "lat": 51.5146919055,
@@ -1014,70 +1014,6 @@
     "weight": 0.1,
     "points": 6.6,
     "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "18411292",
-  "source": "SpareRoom",
-  "title": "Double bedroom in newly renovated flat in Fulham",
-  "url": "https://www.spareroom.co.uk/flatshare/london/fulham_broadway/18411292",
-  "price_pcm": 950,
-  "price_raw": "\u00a3950 pcm",
-  "postcode": "SW6",
-  "neighbourhood": "Fulham Broadway",
-  "property_type": "flat",
-  "rooms_in_property": "4",
-  "advertiser_role": "live in landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 9,
-  "risk_flags": [],
-  "lat": 51.478894,
-  "lng": -0.2013346,
-  "bills_included": "yes",
-  "available": "Available now",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "Beautiful Double Room Available in Newly Renovated Fulham Flat \u2013 Female fully furnished flat in the heart of Fulham. All bills are included features a british country style kitchen, bathroom, dishwasher, and dryer for added convenience. The flat is bright, airy, and thoughtfully ",
-  "commute_minutes": 32,
-  "commute_summary": "32 min \u00b7 District \u2192 bus 360",
-  "suitability": 64,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.25,
-    "weight": 0.35,
-    "points": 8.8,
-    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.76,
-    "weight": 0.4,
-    "points": 30.4,
-    "note": "32 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-09-03; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1794,70 +1730,6 @@
   }
  },
  {
-  "id": "18368728",
-  "source": "SpareRoom",
-  "title": "Double Room with Private Balcony \u2013 Bills inc- SW9",
-  "url": "https://www.spareroom.co.uk/flatshare/london/loughborough_junction/18368728",
-  "price_pcm": 910,
-  "price_raw": "\u00a3210 pw",
-  "postcode": "SW9",
-  "neighbourhood": "Loughborough Junction",
-  "property_type": "flat",
-  "rooms_in_property": "4",
-  "advertiser_role": "live out landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/94/79/94798026.jpg",
-  "verified": false,
-  "num_photos": 9,
-  "risk_flags": [],
-  "lat": 51.4682621,
-  "lng": -0.1069124,
-  "bills_included": "yes",
-  "available": "Available now",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "Bright Furnished Double Room with Private Balcony \u2013 Bills Included \u2013 Loughborough Junction (SW9)A bright, spacious, and fully furnished double room with its own private balcony is available in a clean, modern, and well-maintained flat in the heart of Loughborough Junction (SW9).T",
-  "commute_minutes": 45,
-  "commute_summary": "45 min \u00b7 bus 3 \u2192 Victoria \u2192 Circle \u2192 bus 70",
-  "suitability": 58,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.39,
-    "weight": 0.35,
-    "points": 13.6,
-    "note": "\u00a3910 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.5,
-    "weight": 0.4,
-    "points": 20.0,
-    "note": "45 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-09-03; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "18406429",
   "source": "SpareRoom",
   "title": "South London \u2013 SW9 \ud83c\udfe0 Stockwell / Brixton Zone 2",
@@ -2354,6 +2226,70 @@
     "weight": 0.1,
     "points": 10.0,
     "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "17538604",
+  "source": "SpareRoom",
+  "title": "Spacious double room available in SW London",
+  "url": "https://www.spareroom.co.uk/flatshare/london/putney/17538604",
+  "price_pcm": 800,
+  "price_raw": "\u00a3800 pcm",
+  "postcode": "SW15",
+  "neighbourhood": "Putney",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/93/88/93889926.jpg",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.4560937,
+  "lng": -0.2187696,
+  "bills_included": "no",
+  "available": "5th Oct 2026",
+  "min_term": "12 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "A spacious double room has now become available in a 2-bedroom flat in Putney, South West London (SW15)We are looking for a flatmate to join us from the start of October 2026. The Flat has 2 bedrooms, 1 Bathroom & 1 Toilet. The Flat is located on the 2nd floor (no lift) with entr",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 bus 37 \u2192 District",
+  "suitability": 55,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.657,
+    "weight": 0.35,
+    "points": 23.0,
+    "note": "\u00a3800 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
    },
    "tenancy": {
     "score": 0.66,
