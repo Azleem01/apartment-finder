@@ -256,6 +256,70 @@
   }
  },
  {
+  "id": "10716529",
+  "source": "SpareRoom",
+  "title": "Cute Single Room near East Acton tube Staton",
+  "url": "https://www.spareroom.co.uk/flatshare/london/east_acton/10716529",
+  "price_pcm": 725,
+  "price_raw": "\u00a3725 pcm",
+  "postcode": "W3",
+  "neighbourhood": "East Acton",
+  "property_type": "flat",
+  "rooms_in_property": "5",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/79/64/79646998.jpg",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.5152664424033,
+  "lng": -0.254184553364703,
+  "bills_included": "yes",
+  "available": "5th Sep 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "single",
+  "furnishings": "Furnished",
+  "description": "Very cute and well decorated single room becomes available in East Acton, quiet, safe and green residential area.All bills included.The flat is located only a few minutes walk from East Acton tube station (4 stops Notting Hill Gate)Must be seen.Please call Valentyna",
+  "commute_minutes": 43,
+  "commute_summary": "43 min \u00b7 Central \u2192 Circle \u2192 bus 360",
+  "suitability": 72,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.743,
+    "weight": 0.35,
+    "points": 26.0,
+    "note": "\u00a3725 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.54,
+    "weight": 0.4,
+    "points": 21.6,
+    "note": "43 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-09-05; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18414556",
   "source": "SpareRoom",
   "title": "Amazing Rooms in Putney Bridge (6 Lc)",
@@ -976,7 +1040,7 @@
   "available_now": false,
   "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
   "verified": false,
-  "num_photos": 5,
+  "num_photos": 7,
   "risk_flags": [],
   "lat": 51.5155610996344,
   "lng": -0.184746229377794,
