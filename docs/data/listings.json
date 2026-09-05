@@ -1,69 +1,5 @@
 [
  {
-  "id": "18410359",
-  "source": "SpareRoom",
-  "title": "Modern Single Room | King\u2019s Road | Chelsea",
-  "url": "https://www.spareroom.co.uk/flatshare/london/chelsea/18410359",
-  "price_pcm": 737,
-  "price_raw": "\u00a3737 pcm",
-  "postcode": "SW10",
-  "neighbourhood": "Chelsea",
-  "property_type": "flat",
-  "rooms_in_property": "4",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 14,
-  "risk_flags": [],
-  "lat": 51.4807362,
-  "lng": -0.179112,
-  "bills_included": "yes",
-  "available": "20th Sep 2026",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "single",
-  "furnishings": "Furnished",
-  "description": "A clean, modern single room in prime Chelsea location with excellent transport links. Situated close to the iconic King\u2019s Road, you\u2019re within easy reach of Fulham Broadway, Imperial Wharf and Sloane Square, providing convenient connections across Central and West London. Perfect ",
-  "commute_minutes": 28,
-  "commute_summary": "28 min \u00b7 bus 49 \u2192 bus 360",
-  "suitability": 80,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.729,
-    "weight": 0.35,
-    "points": 25.5,
-    "note": "\u00a3737 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.82,
-    "weight": 0.4,
-    "points": 32.8,
-    "note": "28 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "17219167",
   "source": "SpareRoom",
   "title": "Double room for rent ",
@@ -576,6 +512,70 @@
   }
  },
  {
+  "id": "18413319",
+  "source": "SpareRoom",
+  "title": "\u2728 \ud83d\udecf\ufe0f Single Room to Let in Portobello",
+  "url": "https://www.spareroom.co.uk/flatshare/london/london_w10/18413319",
+  "price_pcm": 845,
+  "price_raw": "\u00a3195 pw",
+  "postcode": "W10",
+  "neighbourhood": "London W10",
+  "property_type": "flat",
+  "rooms_in_property": "6",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/96/20/96206345.jpg",
+  "verified": false,
+  "num_photos": 11,
+  "risk_flags": [],
+  "lat": 51.5279005,
+  "lng": -0.2164295,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "3 months",
+  "max_term": "None",
+  "room_type": "single",
+  "furnishings": "Furnished",
+  "description": "\u2728 \ud83d\udecf\ufe0f SINGLE ROOM TO LET IN PORTOBELLO\u2705 AVAILABLE NOW\ud83c\udfe1 ADDRESS: Harrow Road, W10 4RA\ud83d\udcb0 PRICE:\ud83d\udecc Double R1:\u2022\u00a3195 Per week for single use\u2060We're currently looking for potential tenants to move in as soon as it's available or within a week afteravailability maximum.\ud83e\udee7 CLEANING SERVICE FO",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 bus 52",
+  "suitability": 68,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.606,
+    "weight": 0.35,
+    "points": 21.2,
+    "note": "\u00a3845 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-09-05; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18410296",
   "source": "SpareRoom",
   "title": "Single room / \u00a3735pcm/bills incl / near Brixton",
@@ -1040,7 +1040,7 @@
   "available_now": false,
   "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
   "verified": false,
-  "num_photos": 7,
+  "num_photos": 6,
   "risk_flags": [],
   "lat": 51.5155610996344,
   "lng": -0.184746229377794,
@@ -1142,6 +1142,134 @@
     "weight": 0.1,
     "points": 9.6,
     "note": "available 2026-09-05; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18413839",
+  "source": "SpareRoom",
+  "title": "\ud83d\udecf\ufe0f\u2728 Double Room Available in Vauxhall",
+  "url": "https://www.spareroom.co.uk/flatshare/london/vauxhall/18413839",
+  "price_pcm": 910,
+  "price_raw": "\u00a3210 pw",
+  "postcode": "SE11",
+  "neighbourhood": "Vauxhall",
+  "property_type": "flat",
+  "rooms_in_property": "5",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/94/27/94276051.jpg",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.4903774,
+  "lng": -0.1137468,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "3 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "\ud83d\udecf\ufe0f\u2728 DOUBLE ROOM AVAILABLE IN VAUXHALL\u2705AVAILABLE NOW!\ud83d\udccd Baltimore House, Hotspur Street, SE11 6TR\ud83d\udecc Double Room 4:\u2022\u00a3210 per week\ud83e\udee7 Cleaning service for communal areas\ud83d\udca1 All bills included\ud83d\ude8e Close to amenities & 24h transportWe're currently looking for potential tenants to move in as so",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 bus 360 \u2192 Victoria \u2192 District",
+  "suitability": 61,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.39,
+    "weight": 0.35,
+    "points": 13.6,
+    "note": "\u00a3910 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-09-05; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18415082",
+  "source": "SpareRoom",
+  "title": "\ud83d\udcab Your West London Base |White City\u2022 Notting Hill",
+  "url": "https://www.spareroom.co.uk/flatshare/london/east_acton/18415082",
+  "price_pcm": 888,
+  "price_raw": "\u00a3205 pw",
+  "postcode": "W3",
+  "neighbourhood": "East Acton",
+  "property_type": "house",
+  "rooms_in_property": "5",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/92/04/92040254.jpg",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.5125861,
+  "lng": -0.2474661,
+  "bills_included": "yes",
+  "available": "2nd Oct 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Convenient and comfortable rooms are available in a fantastic West London location just outside East Acton Underground Station.With the Central Line practically on your doorstep, this property is ideal for anyone looking for an easy commute while still enjoying a pleasant residen",
+  "commute_minutes": 43,
+  "commute_summary": "43 min \u00b7 Central \u2192 Circle \u2192 bus 360",
+  "suitability": 60,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.467,
+    "weight": 0.35,
+    "points": 16.3,
+    "note": "\u00a3888 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.54,
+    "weight": 0.4,
+    "points": 21.6,
+    "note": "43 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
    },
    "freshness": {
     "score": 1.0,
