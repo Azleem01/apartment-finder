@@ -706,6 +706,70 @@
   }
  },
  {
+  "id": "18423094",
+  "source": "SpareRoom",
+  "title": "Double room available in shepherds bush  \u00a3765 ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/shepherds_bush/18423094",
+  "price_pcm": 765,
+  "price_raw": "\u00a3765 pcm",
+  "postcode": "W12",
+  "neighbourhood": "Shepherds Bush",
+  "property_type": "house",
+  "rooms_in_property": "3",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 5,
+  "risk_flags": [],
+  "lat": 51.5071886,
+  "lng": -0.2407276,
+  "bills_included": "yes",
+  "available": "18th Sep 2026",
+  "min_term": "8 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Double room, in 3 bed house, share living room, kitchen, garden, cleaner every fortnight, bills included, good WiFi, call Tony for more information",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 bus 260 \u2192 Central \u2192 Circle \u2192 bus 360",
+  "suitability": 67,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.697,
+    "weight": 0.35,
+    "points": 24.4,
+    "note": "\u00a3765 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18422057",
   "source": "SpareRoom",
   "title": "Friendly DBL  single occupancy,Balcony, 4 bed flat",
@@ -888,6 +952,70 @@
     "weight": 0.1,
     "points": 9.6,
     "note": "available 2026-09-11; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "11551627",
+  "source": "SpareRoom",
+  "title": "154R4 |  Medium Double | Garden | Female House",
+  "url": "https://www.spareroom.co.uk/flatshare/london/turnham_green/11551627",
+  "price_pcm": 875,
+  "price_raw": "\u00a3875 pcm",
+  "postcode": "W4",
+  "neighbourhood": "Turnham Green",
+  "property_type": "flat",
+  "rooms_in_property": "5",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/80/90/8090134.jpg",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.5027460818142,
+  "lng": -0.258841703856498,
+  "bills_included": "yes",
+  "available": "1st Oct 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "We have medium double in our super friendly house. The large shared house is located in a beautiful leafy street only 8 mins walk from Turnham Green Station in Chiswick. Details of the room: - Price includes all bills (gas, electric, water, internet, tv licence). - Fully furnishe",
+  "commute_minutes": 38,
+  "commute_summary": "38 min \u00b7 bus E3 \u2192 District \u2192 bus 360",
+  "suitability": 65,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.512,
+    "weight": 0.35,
+    "points": 17.9,
+    "note": "\u00a3875 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.64,
+    "weight": 0.4,
+    "points": 25.6,
+    "note": "38 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1140,70 +1268,6 @@
     "weight": 0.1,
     "points": 10.0,
     "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "9858229",
-  "source": "SpareRoom",
-  "title": "W12-Zn2 4bd Hse Opp Prk ONLY \u00a33200 pcm! Sngl \u00a3625",
-  "url": "https://www.spareroom.co.uk/flatshare/london/shepherds_bush/9858229",
-  "price_pcm": 625,
-  "price_raw": "\u00a3625 pcm",
-  "postcode": "W12",
-  "neighbourhood": "Shepherds Bush",
-  "property_type": "house",
-  "rooms_in_property": "4",
-  "advertiser_role": "live out landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 9,
-  "risk_flags": [],
-  "lat": 51.5197163257212,
-  "lng": -0.247455918848011,
-  "bills_included": "no",
-  "available": "13th Sep 2026",
-  "min_term": "12 months",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "Please contact ONLY if part of a group of 2 or 4 or 'Buddy up' before contacting... We'd love to meet you! :)Still Looking? We have a rare opportunity to rent this WHOLE HOUSE located opposite the park! IMPORTANT: Please buddy up in 2 groups of 2 or a group of 4! before contactin",
-  "commute_minutes": 45,
-  "commute_summary": "45 min \u00b7 Central \u2192 Circle \u2192 bus 360",
-  "suitability": 62,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.857,
-    "weight": 0.35,
-    "points": 30.0,
-    "note": "\u00a3625 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.5,
-    "weight": 0.4,
-    "points": 20.0,
-    "note": "45 min to Imperial"
-   },
-   "bills": {
-    "score": 0.0,
-    "weight": 0.1,
-    "points": 0.0,
-    "note": "bills not included"
    },
    "tenancy": {
     "score": 0.66,
@@ -1988,70 +2052,6 @@
   }
  },
  {
-  "id": "18406429",
-  "source": "SpareRoom",
-  "title": "South London \u2013 SW9 \ud83c\udfe0 Stockwell / Brixton Zone 2",
-  "url": "https://www.spareroom.co.uk/flatshare/london/london_sw9/18406429",
-  "price_pcm": 850,
-  "price_raw": "\u00a3850 pcm",
-  "postcode": "SW9",
-  "neighbourhood": "London SW9",
-  "property_type": "flat",
-  "rooms_in_property": "4",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 8,
-  "risk_flags": [],
-  "lat": 51.462298,
-  "lng": -0.1134935,
-  "bills_included": "yes",
-  "available": "2nd Sep 2026",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "Let\u2019s get you moving! \ud83d\ude80Drop your contact number and expected move-in date so we can chat and get you booked in fast!Room rent per month - \u00a3900Available from:24 July 2026Security Deposit Options:Zero Deposit: Zero advance payment subject to eligibility and referencingTraditional D",
-  "commute_minutes": null,
-  "commute_summary": "",
-  "suitability": 55,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.6,
-    "weight": 0.35,
-    "points": 21.0,
-    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.3,
-    "weight": 0.4,
-    "points": 12.0,
-    "note": "commute unknown"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "18422139",
   "source": "SpareRoom",
   "title": "\ud83c\udfe1 Room in Maida Vale|7 Mins Westbourne Park| \u00a3930",
@@ -2106,6 +2106,70 @@
     "weight": 0.1,
     "points": 7.0,
     "note": "availability unknown; stay up to 12 months"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18423051",
+  "source": "SpareRoom",
+  "title": "Room in Battersea",
+  "url": "https://www.spareroom.co.uk/flatshare/london/battersea/18423051",
+  "price_pcm": 930,
+  "price_raw": "\u00a3930 pcm",
+  "postcode": "SW11",
+  "neighbourhood": "Battersea",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/15/101508568.jpg",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.474375,
+  "lng": -0.1494989,
+  "bills_included": "no",
+  "available": "Available now",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Room available in a 3 bed room 1 1/2 bath flat in Battersea. \ud83c\udfe0 the flat: - includes also includes a dishwasher, washer and dryer. - rent is \u00a3930 /month utilities are not included but typically come to \u00a380 /month excluding council tax. - the lease will be available 6 November. \ud83d\udecf\ufe0f ",
+  "commute_minutes": 36,
+  "commute_summary": "36 min \u00b7 bus 452 \u2192 District",
+  "suitability": 53,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.32,
+    "weight": 0.35,
+    "points": 11.2,
+    "note": "\u00a3930 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.68,
+    "weight": 0.4,
+    "points": 27.2,
+    "note": "36 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-09-11; no max term"
    },
    "freshness": {
     "score": 1.0,
