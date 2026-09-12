@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-09-12T03:50:10.977574+00:00",
- "generated_at_human": "Sat 12 Sep 2026, 03:50 UTC",
- "count": 0,
- "scanned": 0,
- "within_budget": 0,
+ "generated_at": "2026-09-12T08:28:29.171599+00:00",
+ "generated_at_human": "Sat 12 Sep 2026, 08:28 UTC",
+ "count": 5,
+ "scanned": 237,
+ "within_budget": 237,
  "posted_within_days": 0,
  "sources": [
   "SpareRoom"
  ],
  "scanned_by_source": {
-  "SpareRoom": 0
+  "SpareRoom": 237
  },
  "results_by_source": {
-  "SpareRoom": 0
+  "SpareRoom": 5
  },
  "budget": {
   "min": 500,
