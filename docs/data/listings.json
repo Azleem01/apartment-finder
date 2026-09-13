@@ -768,6 +768,70 @@
   }
  },
  {
+  "id": "18158863",
+  "source": "SpareRoom",
+  "title": "Bright Single in Tulse Hill - Bills Incl.",
+  "url": "https://www.spareroom.co.uk/flatshare/london/tulse_hill/18158863",
+  "price_pcm": 780,
+  "price_raw": "\u00a3780 pcm",
+  "postcode": "SW2",
+  "neighbourhood": "Tulse Hill",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/97/25/97250844.jpg",
+  "verified": true,
+  "num_photos": 3,
+  "risk_flags": [],
+  "lat": 51.4506149,
+  "lng": -0.114522,
+  "bills_included": "yes",
+  "available": "20th Sep 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "single",
+  "furnishings": "Furnished",
+  "description": "Bright Double Room in Tulse Hill \u2013 Bills IncludedA cozy and bright double room available in a quiet and well-connected area of SW2. The room comes fully furnished with a comfortable double bed, a private mini fridge, and a chest of drawers. Ideal for single professionals or stude",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 bus 432 \u2192 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 66,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.68,
+    "weight": 0.35,
+    "points": 23.8,
+    "note": "\u00a3780 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "17506089",
   "source": "SpareRoom",
   "title": "Room for rent in Parsons Green,Fulham",
@@ -822,6 +886,70 @@
     "weight": 0.1,
     "points": 10.0,
     "note": "available 2026-09-13; stay up to 36 months"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "17556716",
+  "source": "SpareRoom",
+  "title": "Room for a woman at Victoria/Westminster",
+  "url": "https://www.spareroom.co.uk/flatshare/london/victoria/17556716",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "SW1",
+  "neighbourhood": "Victoria",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/95/53/95530407.jpg",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.4909531,
+  "lng": -0.1447664,
+  "bills_included": "yes",
+  "available": "20th Sep 2026",
+  "min_term": "1 month",
+  "max_term": "12 months",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "A 7-minute walk from Victoria Station, this apartment is very centrally located. The room for rent has a private entrance and a private bathroom. I am looking for a clean, respectful person who enjoys animals, as I have an elderly dog (14 years old), very gentle and calm, and som",
+  "commute_minutes": 28,
+  "commute_summary": "28 min \u00b7 District \u2192 bus 360",
+  "suitability": 64,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.82,
+    "weight": 0.4,
+    "points": 32.8,
+    "note": "28 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.7,
+    "weight": 0.1,
+    "points": 7.0,
+    "note": "availability unknown; stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
@@ -2282,70 +2410,6 @@
     "weight": 0.4,
     "points": 30.4,
     "note": "32 min to Imperial"
-   },
-   "bills": {
-    "score": 0.0,
-    "weight": 0.1,
-    "points": 0.0,
-    "note": "bills not included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "15570144",
-  "source": "SpareRoom",
-  "title": "Charming Flat 2mins to Battersea Park!",
-  "url": "https://www.spareroom.co.uk/flatshare/london/battersea_park/15570144",
-  "price_pcm": 910,
-  "price_raw": "\u00a3210 pw",
-  "postcode": "SW11",
-  "neighbourhood": "Battersea park",
-  "property_type": "flat",
-  "rooms_in_property": "5",
-  "advertiser_role": "live out landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/15/80/15805582.jpg",
-  "verified": true,
-  "num_photos": 5,
-  "risk_flags": [],
-  "lat": 51.4724000928108,
-  "lng": -0.156178308358887,
-  "bills_included": "no",
-  "available": "1st Nov 2026",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "WELCOME, YOUNG PROFESSIONALS! Discover your new home among like-minded individuals in the heart of the city.APARTMENT DESCRIPTIONStep into our freshly renovated 5-bedroom haven, where modern comforts meet urban style. Enjoy the luxury of new mirrors, spacious wardrobes, plush mat",
-  "commute_minutes": 42,
-  "commute_summary": "42 min \u00b7 bus 137 \u2192 District \u2192 bus 360",
-  "suitability": 48,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.39,
-    "weight": 0.35,
-    "points": 13.6,
-    "note": "\u00a3910 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.56,
-    "weight": 0.4,
-    "points": 22.4,
-    "note": "42 min to Imperial"
    },
    "bills": {
     "score": 0.0,
