@@ -192,6 +192,70 @@
   }
  },
  {
+  "id": "15755195",
+  "source": "SpareRoom",
+  "title": "\u00a3850:Dble rm with mini kitchen for singl occupancy",
+  "url": "https://www.spareroom.co.uk/flatshare/london/west_kensington/15755195",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "W14",
+  "neighbourhood": "West Kensington",
+  "property_type": "house",
+  "rooms_in_property": "2",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 2,
+  "risk_flags": [],
+  "lat": 51.4903551500162,
+  "lng": -0.20816191896854,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Fairly good size double room to rent for single occupancy immediately, Room has 1) Double bed 2) single wardrobe 3) kitchen work top4) fridge freezer 5)microwave oven 6) hand bastion 7) drawer 8) large window with curtains 9) internet free10) laundry pas as yiu go very cheap 11) ",
+  "commute_minutes": 21,
+  "commute_summary": "21 min \u00b7 District \u2192 bus 360",
+  "suitability": 81,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.6,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.89,
+    "weight": 0.4,
+    "points": 35.6,
+    "note": "21 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-09-19; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18428760",
   "source": "SpareRoom",
   "title": "Room at flat based in West Kensington (18)",
