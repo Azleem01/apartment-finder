@@ -53,7 +53,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -117,7 +117,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -181,7 +181,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -309,7 +309,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -437,7 +437,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -565,7 +565,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -629,7 +629,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -949,7 +949,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1013,7 +1013,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1077,7 +1077,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1205,7 +1205,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1269,7 +1269,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1322,6 +1322,70 @@
     "weight": 0.4,
     "points": 20.0,
     "note": "45 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "11551627",
+  "source": "SpareRoom",
+  "title": "154R4 |  Medium Double | Garden | Female House",
+  "url": "https://www.spareroom.co.uk/flatshare/london/turnham_green/11551627",
+  "price_pcm": 875,
+  "price_raw": "\u00a3875 pcm",
+  "postcode": "W4",
+  "neighbourhood": "Turnham Green",
+  "property_type": "flat",
+  "rooms_in_property": "5",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/80/90/8090134.jpg",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.5027460818142,
+  "lng": -0.258841703856498,
+  "bills_included": "yes",
+  "available": "1st Oct 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "We have medium double in our super friendly house. The large shared house is located in a beautiful leafy street only 8 mins walk from Turnham Green Station in Chiswick. Details of the room: - Price includes all bills (gas, electric, water, internet, tv licence). - Fully furnishe",
+  "commute_minutes": 38,
+  "commute_summary": "38 min \u00b7 bus E3 \u2192 District \u2192 bus 360",
+  "suitability": 65,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.512,
+    "weight": 0.35,
+    "points": 17.9,
+    "note": "\u00a3875 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.64,
+    "weight": 0.4,
+    "points": 25.6,
+    "note": "38 min to Imperial"
    },
    "bills": {
     "score": 1.0,
@@ -1397,7 +1461,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1461,7 +1525,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1525,7 +1589,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1589,7 +1653,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-23; no max term"
+    "note": "available 2026-09-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2176,70 +2240,6 @@
   }
  },
  {
-  "id": "18434296",
-  "source": "SpareRoom",
-  "title": "\ud83c\udf1f Double Room in East Acton \u2013 Zone 2 \ud83c\udf1f ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/east_acton/18434296",
-  "price_pcm": 950,
-  "price_raw": "\u00a3950 pcm",
-  "postcode": "W3",
-  "neighbourhood": "East Acton",
-  "property_type": "house",
-  "rooms_in_property": "5",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/89/81/89810592.jpg",
-  "verified": false,
-  "num_photos": 11,
-  "risk_flags": [],
-  "lat": 51.5179747,
-  "lng": -0.2512229,
-  "bills_included": "yes",
-  "available": "2nd Oct 2026",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "\ud83c\udf1f Double Room in East Acton \u2013 Zone 2 \ud83c\udf1f \ud83d\udccd Postcode: W3 7PQ \ud83d\udecf\ufe0f Double Room \ud83d\udcb7 \u00a3900/Month \u2013 All Bills Included \ud83d\udcc5 Available from 02/10/2026 \ud83d\udccd Why You\u2019ll Love the Area: \ud83d\ude87 5\u201310 min walk to East Acton Station (Central Line), Central London in under 15 mins! \ud83c\udf33 Steps from Green Park and ju",
-  "commute_minutes": 41,
-  "commute_summary": "41 min \u00b7 Central \u2192 Circle \u2192 bus 360",
-  "suitability": 54,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.25,
-    "weight": 0.35,
-    "points": 8.8,
-    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.58,
-    "weight": 0.4,
-    "points": 23.2,
-    "note": "41 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "18438051",
   "source": "SpareRoom",
   "title": "Wonderful Large Double Room - Maida Vale",
@@ -2468,6 +2468,70 @@
     "weight": 0.35,
     "points": 14.9,
     "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.5,
+    "weight": 0.4,
+    "points": 20.0,
+    "note": "45 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18438103",
+  "source": "SpareRoom",
+  "title": "Cozy room in Elephant & Castle",
+  "url": "https://www.spareroom.co.uk/flatshare/london/elephant_and_castle/18438103",
+  "price_pcm": 944,
+  "price_raw": "\u00a3944 pcm",
+  "postcode": "SE17",
+  "neighbourhood": "Elephant and Castle",
+  "property_type": "house",
+  "rooms_in_property": "3",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/92/73/92733242.jpg",
+  "verified": true,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.4914741,
+  "lng": -0.0957125,
+  "bills_included": "no",
+  "available": "1st Nov 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "My room is up for rent! I'll be moving out in November and we're looking for a new person to join our warm household.The room is furnished with a bed (with big drawers underneath), a chest of drawers, a wardrobe, a desk and two book shelves. It is facing the garden, so it's very ",
+  "commute_minutes": 45,
+  "commute_summary": "45 min \u00b7 Bakerloo \u2192 District \u2192 bus 360",
+  "suitability": 41,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.271,
+    "weight": 0.35,
+    "points": 9.5,
+    "note": "\u00a3944 pcm \u2014 above your preferred \u00a3850"
    },
    "commute": {
     "score": 0.5,
