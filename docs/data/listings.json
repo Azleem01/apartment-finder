@@ -640,6 +640,70 @@
   }
  },
  {
+  "id": "18439292",
+  "source": "SpareRoom",
+  "title": "\ud83d\udd25 New SW8 Rooms | \u00a3925\u2013\u00a31,150 | Available Now ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/vauxhall/18439292",
+  "price_pcm": 925,
+  "price_raw": "\u00a3925 pcm",
+  "postcode": "SW8",
+  "neighbourhood": "Vauxhall",
+  "property_type": "house",
+  "rooms_in_property": "5",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/10/101031918.jpg",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4815297,
+  "lng": -0.1166178,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "\ud83d\udccd 59 Claylands Road, London, SW8 1PH\ud83c\udfe1 5-Bedroom House \ud83d\udcc5 Available NowLife Stay is pleased to offer three furnished rooms in this spacious 5-bedroom house in SW8.\ud83d\udecf\ufe0f Rooms AvailableRoom 3 \u2013 \u00a31,150 PCMRoom 4 \u2013 \u00a3925 PCMRoom 5 \u2013 \u00a31,025 PCM\u2728 Property Features:* 5-bedroom house* Furnish",
+  "commute_minutes": 38,
+  "commute_summary": "38 min \u00b7 bus 36 \u2192 Victoria \u2192 District",
+  "suitability": 62,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.338,
+    "weight": 0.35,
+    "points": 11.8,
+    "note": "\u00a3925 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.64,
+    "weight": 0.4,
+    "points": 25.6,
+    "note": "38 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-09-26; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "17043276",
   "source": "SpareRoom",
   "title": "\ud83d\udea8 Modern flat - Double Room - Single use",
@@ -1078,6 +1142,70 @@
     "weight": 0.1,
     "points": 6.6,
     "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "17975018",
+  "source": "SpareRoom",
+  "title": "Lovely double room in Acton",
+  "url": "https://www.spareroom.co.uk/flatshare/london/acton/17975018",
+  "price_pcm": 815,
+  "price_raw": "\u00a3815 pcm",
+  "postcode": "W3",
+  "neighbourhood": "Acton",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 3,
+  "risk_flags": [],
+  "lat": 51.5085583,
+  "lng": -0.2699427,
+  "bills_included": "no",
+  "available": "Available now",
+  "min_term": "12 months",
+  "max_term": "12 months",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "A lovely double room in Acton. 10-minute walk to Acton Town, Acton Central and Acton Main Line Stations. There are many supermarkets, local shops and restaurants within a 2-minute walk too. ^^",
+  "commute_minutes": 45,
+  "commute_summary": "45 min \u00b7 Piccadilly \u2192 bus 360",
+  "suitability": 57,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.64,
+    "weight": 0.35,
+    "points": 22.4,
+    "note": "\u00a3815 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.5,
+    "weight": 0.4,
+    "points": 20.0,
+    "note": "45 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "available 2026-09-26; stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
