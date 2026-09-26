@@ -64,6 +64,70 @@
   }
  },
  {
+  "id": "8228695",
+  "source": "SpareRoom",
+  "title": "Female houseshare - Brixton",
+  "url": "https://www.spareroom.co.uk/flatshare/london/brixton/8228695",
+  "price_pcm": 595,
+  "price_raw": "\u00a3595 pcm",
+  "postcode": "SW9",
+  "neighbourhood": "Brixton",
+  "property_type": "house",
+  "rooms_in_property": "6",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4652334776029,
+  "lng": -0.117738777496987,
+  "bills_included": "yes",
+  "available": "1st Oct 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "I have a double room available on the top floor of a 3-storey Victorian house on Chantrey Road SW9 which is a 2-3 minute walk from Brixton tube station, to share with Imogen, Josie, Flora, Lauren, Hannah and Becca.The house has a separate kitchen, living room and garden, and come",
+  "commute_minutes": 39,
+  "commute_summary": "39 min \u00b7 bus 196 \u2192 Victoria \u2192 District",
+  "suitability": 78,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.891,
+    "weight": 0.35,
+    "points": 31.2,
+    "note": "\u00a3595 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.62,
+    "weight": 0.4,
+    "points": 24.8,
+    "note": "39 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "16357713",
   "source": "SpareRoom",
   "title": "Single room",
@@ -234,6 +298,70 @@
     "weight": 0.4,
     "points": 24.8,
     "note": "39 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-09-26; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "15584398",
+  "source": "SpareRoom",
+  "title": "Putney Heath, Free cleaning service twice a week.",
+  "url": "https://www.spareroom.co.uk/flatshare/london/putney_heath/15584398",
+  "price_pcm": 825,
+  "price_raw": "\u00a3825 pcm",
+  "postcode": "SW15",
+  "neighbourhood": "Putney Heath",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/51/95/51950119.jpg",
+  "verified": true,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4501505574421,
+  "lng": -0.218300046248569,
+  "bills_included": "yes",
+  "available": "22nd Sep 2026",
+  "min_term": "4 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Putney Heath, Double room for single occupancy. Rent is \u00a3825 pm. All bills including.Available on 22nd September. *FREE coffee, tea and herbal tea.*FREE toilet paper, kitchen towels, air freshener, rubbish bags.*FREE all house cleaning products, hand soap, washing up liquids.*FRE",
+  "commute_minutes": 45,
+  "commute_summary": "45 min \u00b7 bus 493 \u2192 District",
+  "suitability": 67,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.629,
+    "weight": 0.35,
+    "points": 22.0,
+    "note": "\u00a3825 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.5,
+    "weight": 0.4,
+    "points": 20.0,
+    "note": "45 min to Imperial"
    },
    "bills": {
     "score": 1.0,
@@ -448,6 +576,70 @@
   }
  },
  {
+  "id": "15871002",
+  "source": "SpareRoom",
+  "title": " Room  available zone  1  Tower  Bridge  SE1\u00a0\u00a0",
+  "url": "https://www.spareroom.co.uk/flatshare/london/tower_bridge/15871002",
+  "price_pcm": 860,
+  "price_raw": "\u00a3860 pcm",
+  "postcode": "SE1",
+  "neighbourhood": "Tower Bridge",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4984405282757,
+  "lng": -0.0759858981141825,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Hi everyone! I am renting a lovely room in Tower Bridge (SE1 ).The Location: 10 min walk to Bermondsey tube station. 8 min walk to Tower Bridge.5 min walk to Bermondsey Street (amazing restaurants, cafes, and pubs).5 min walk to Tesco and Sainsbury\u2019s. 3 min walk to the nearest Sa",
+  "commute_minutes": 45,
+  "commute_summary": "45 min \u00b7 bus C10 \u2192 Jubilee \u2192 District \u2192 bus 360",
+  "suitability": 64,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.565,
+    "weight": 0.35,
+    "points": 19.8,
+    "note": "\u00a3860 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.5,
+    "weight": 0.4,
+    "points": 20.0,
+    "note": "45 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-09-26; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "17043276",
   "source": "SpareRoom",
   "title": "\ud83d\udea8 Modern flat - Double Room - Single use",
@@ -640,6 +832,70 @@
   }
  },
  {
+  "id": "18441227",
+  "source": "SpareRoom",
+  "title": "Double Room in Cute Battersea Flat \u2600\ufe0f",
+  "url": "https://www.spareroom.co.uk/flatshare/london/battersea/18441227",
+  "price_pcm": 798,
+  "price_raw": "\u00a3798 pcm",
+  "postcode": "SW8",
+  "neighbourhood": "Battersea",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/94/62/94626255.jpg",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.4688811,
+  "lng": -0.1507728,
+  "bills_included": "no",
+  "available": "21st Oct 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "We're Kate and Clara, two professionals in our late 20s/early 30s looking for a third housemate from the 21st/end October!\ud83d\ude0aAfter 6 amazing years our housemate is moving out of our cute little home in Battersea and so we\u2019re looking for a new housemate to join \ud83d\ude0aWe\u2019d ideally love to",
+  "commute_minutes": 38,
+  "commute_summary": "38 min \u00b7 bus 137 \u2192 District \u2192 bus 360",
+  "suitability": 60,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.659,
+    "weight": 0.35,
+    "points": 23.1,
+    "note": "\u00a3798 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.64,
+    "weight": 0.4,
+    "points": 25.6,
+    "note": "38 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18438419",
   "source": "SpareRoom",
   "title": "\ud83d\ude0d Beautiful Double Room \ud83d\ude0d Camberwell \ud83d\ude0d",
@@ -746,70 +1002,6 @@
     "weight": 0.4,
     "points": 25.6,
     "note": "38 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-09-26; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "15871002",
-  "source": "SpareRoom",
-  "title": " Room  available zone  1  Tower  Bridge  SE1\u00a0\u00a0",
-  "url": "https://www.spareroom.co.uk/flatshare/london/tower_bridge/15871002",
-  "price_pcm": 900,
-  "price_raw": "\u00a3900 pcm",
-  "postcode": "SE1",
-  "neighbourhood": "Tower Bridge",
-  "property_type": "flat",
-  "rooms_in_property": "3",
-  "advertiser_role": "current flatmate",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 8,
-  "risk_flags": [],
-  "lat": 51.4984405282757,
-  "lng": -0.0759858981141825,
-  "bills_included": "yes",
-  "available": "Available now",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "Hi everyone! I am renting a lovely room in Tower Bridge (SE1 ).The Location: 10 min walk to Bermondsey tube station. 8 min walk to Tower Bridge.5 min walk to Bermondsey Street (amazing restaurants, cafes, and pubs).5 min walk to Tesco and Sainsbury\u2019s. 3 min walk to the nearest Sa",
-  "commute_minutes": 45,
-  "commute_summary": "45 min \u00b7 bus C10 \u2192 Jubilee \u2192 District \u2192 bus 360",
-  "suitability": 59,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.425,
-    "weight": 0.35,
-    "points": 14.9,
-    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.5,
-    "weight": 0.4,
-    "points": 20.0,
-    "note": "45 min to Imperial"
    },
    "bills": {
     "score": 1.0,
