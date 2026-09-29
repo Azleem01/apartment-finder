@@ -53,7 +53,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -117,7 +117,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -181,7 +181,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -245,7 +245,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -309,7 +309,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -397,7 +397,7 @@
   "advertiser_role": "live in landlord",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": false,
+  "available_now": true,
   "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/00/100055667.jpg",
   "verified": false,
   "num_photos": 6,
@@ -437,7 +437,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -565,7 +565,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -589,7 +589,7 @@
   "advertiser_role": "agent",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": false,
+  "available_now": true,
   "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
   "verified": false,
   "num_photos": 8,
@@ -629,7 +629,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -693,7 +693,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -757,7 +757,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -821,7 +821,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -886,6 +886,70 @@
     "weight": 0.1,
     "points": 6.6,
     "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "11902489",
+  "source": "SpareRoom",
+  "title": "Bright DBL room@Clapham Common ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/clapham_common/11902489",
+  "price_pcm": 875,
+  "price_raw": "\u00a3875 pcm",
+  "postcode": "SW4",
+  "neighbourhood": "Clapham Common",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/16/101686635.jpg",
+  "verified": true,
+  "num_photos": 6,
+  "risk_flags": [],
+  "lat": 51.4608797789468,
+  "lng": -0.132846430659347,
+  "bills_included": "yes",
+  "available": "1st Oct 2026",
+  "min_term": "1 month",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "DOUBLE ROOM AVAILABLE \u2013 5 MINUTES FROM CLAPHAM COMMON STATIONDouble room available in a clean and well-kept home, just a 5-minute walk from Clapham Common Station.\ud83d\udcb7 Rent- \u00a3860 per month \u2013 standard rent- \u00a3830 per month \u2013 if you\u2019re happy to take a little more responsibility for the",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 Northern \u2192 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 66,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.512,
+    "weight": 0.35,
+    "points": 17.9,
+    "note": "\u00a3875 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.58,
+    "weight": 0.4,
+    "points": 23.2,
+    "note": "41 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1013,7 +1077,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1077,71 +1141,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "11902489",
-  "source": "SpareRoom",
-  "title": "Bright DBL room@Clapham Common ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/clapham_common/11902489",
-  "price_pcm": 875,
-  "price_raw": "\u00a3875 pcm",
-  "postcode": "SW4",
-  "neighbourhood": "Clapham Common",
-  "property_type": "flat",
-  "rooms_in_property": "3",
-  "advertiser_role": "live in landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/16/101686635.jpg",
-  "verified": true,
-  "num_photos": 6,
-  "risk_flags": [],
-  "lat": 51.4608797789468,
-  "lng": -0.132846430659347,
-  "bills_included": "yes",
-  "available": "1st Oct 2026",
-  "min_term": "1 month",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "DOUBLE ROOM AVAILABLE \u2013 5 MINUTES FROM CLAPHAM COMMON STATIONDouble room available in a clean and well-kept home, just a 5-minute walk from Clapham Common Station.\ud83d\udcb7 Rent- \u00a3860 per month \u2013 standard rent- \u00a3830 per month \u2013 if you\u2019re happy to take a little more responsibility for the",
-  "commute_minutes": 41,
-  "commute_summary": "41 min \u00b7 Northern \u2192 Victoria \u2192 District \u2192 bus 360",
-  "suitability": 63,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.512,
-    "weight": 0.35,
-    "points": 17.9,
-    "note": "\u00a3875 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.58,
-    "weight": 0.4,
-    "points": 23.2,
-    "note": "41 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1205,7 +1205,71 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18376230",
+  "source": "SpareRoom",
+  "title": "Dbl bed all bills included 3 minutes from tube  ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/north_acton/18376230",
+  "price_pcm": 900,
+  "price_raw": "\u00a3900 pcm",
+  "postcode": "W3",
+  "neighbourhood": "North Acton",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": true,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.5216158,
+  "lng": -0.2590259,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "3 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "A BRIGHT AND FULLY FURNISHED( new bed and bedding) is available from 10th of AUGEST, IN A LOVELY GROUND FLOOR FLAT, just 3 minutes from north Acton station (CENTRAL LINE ZONE 2) ALSO 10 minutes walk to Acton main line ELIZABETH LINE, the location is ideal for quick access to cent",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 Central \u2192 Circle \u2192 bus 360",
+  "suitability": 63,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.425,
+    "weight": 0.35,
+    "points": 14.9,
+    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.58,
+    "weight": 0.4,
+    "points": 23.2,
+    "note": "41 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1472,70 +1536,6 @@
   }
  },
  {
-  "id": "3888301",
-  "source": "SpareRoom",
-  "title": "Bright Double Room in Spacious Flat - Kensal Rise ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/kensal_rise/3888301",
-  "price_pcm": 880,
-  "price_raw": "\u00a3880 pcm",
-  "postcode": "NW10",
-  "neighbourhood": "Kensal Rise",
-  "property_type": "flat",
-  "rooms_in_property": "4",
-  "advertiser_role": "current flatmate",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": true,
-  "num_photos": 8,
-  "risk_flags": [],
-  "lat": 51.5310873650403,
-  "lng": -0.217318525604972,
-  "bills_included": "yes",
-  "available": "Available now",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "A spacious, bright and well-presented flat located on Chamberlayne Road, in the heart of vibrant Kensal Rise. The property is clean, airy and thoughtfully laid out, perfect for someone looking for a comfortable home rather than just a place to sleep.Surrounded by independent caf\u00e9",
-  "commute_minutes": 45,
-  "commute_summary": "45 min \u00b7 bus 52",
-  "suitability": 62,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.495,
-    "weight": 0.35,
-    "points": 17.3,
-    "note": "\u00a3880 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.5,
-    "weight": 0.4,
-    "points": 20.0,
-    "note": "45 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-09-28; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "15966784",
   "source": "SpareRoom",
   "title": "Cosy Fulham Double Room ",
@@ -1589,7 +1589,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1653,7 +1653,7 @@
     "score": 1.0,
     "weight": 0.1,
     "points": 10.0,
-    "note": "available 2026-09-28; stay up to 24 months"
+    "note": "available 2026-09-29; stay up to 24 months"
    },
    "freshness": {
     "score": 1.0,
@@ -1717,7 +1717,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2037,7 +2037,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2165,7 +2165,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2421,7 +2421,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2485,7 +2485,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2613,7 +2613,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2677,7 +2677,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-28; no max term"
+    "note": "available 2026-09-29; no max term"
    },
    "freshness": {
     "score": 1.0,
