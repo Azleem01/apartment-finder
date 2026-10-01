@@ -53,7 +53,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -117,7 +117,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -181,7 +181,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -245,7 +245,71 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18445404",
+  "source": "SpareRoom",
+  "title": "\ud83c\udfe1 Room in Stockwell | 5 Mins from Station | \u00a3820",
+  "url": "https://www.spareroom.co.uk/flatshare/london/stockwell/18445404",
+  "price_pcm": 820,
+  "price_raw": "\u00a3820 pcm",
+  "postcode": "SW8",
+  "neighbourhood": "Stockwell",
+  "property_type": "flat",
+  "rooms_in_property": "6",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/99/12/99121121.jpg",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.4762984,
+  "lng": -0.1246239,
+  "bills_included": "yes",
+  "available": "1st Oct 2026",
+  "min_term": "12 months",
+  "max_term": "12 months",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "\ud83d\uddd3\ufe0f Move-In Date: Available Now\ud83d\udccc Key Details\u00a3820 pcm \u2013 all bills included\ud83d\udcc5 Available immediately\u23f3 Minimum stay: 12 months\ud83c\udfe0 6-bedroom property\u2728 Bills IncludedElectricity, gas, water, council tax, and high-speed WiFi are all included \u2014 no hidden costs.\ud83e\uddfc Regular CleaningCommunal area",
+  "commute_minutes": 39,
+  "commute_summary": "39 min \u00b7 Victoria \u2192 District",
+  "suitability": 72,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.634,
+    "weight": 0.35,
+    "points": 22.2,
+    "note": "\u00a3820 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.62,
+    "weight": 0.4,
+    "points": 24.8,
+    "note": "39 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "available 2026-10-01; stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
@@ -309,7 +373,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -373,7 +437,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -437,71 +501,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "18445404",
-  "source": "SpareRoom",
-  "title": "\ud83c\udfe1 Room in Stockwell | 5 Mins from Station | \u00a3820",
-  "url": "https://www.spareroom.co.uk/flatshare/london/stockwell/18445404",
-  "price_pcm": 820,
-  "price_raw": "\u00a3820 pcm",
-  "postcode": "SW8",
-  "neighbourhood": "Stockwell",
-  "property_type": "flat",
-  "rooms_in_property": "6",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/99/12/99121121.jpg",
-  "verified": false,
-  "num_photos": 7,
-  "risk_flags": [],
-  "lat": 51.4762984,
-  "lng": -0.1246239,
-  "bills_included": "yes",
-  "available": "1st Oct 2026",
-  "min_term": "12 months",
-  "max_term": "12 months",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "\ud83d\uddd3\ufe0f Move-In Date: Available Now\ud83d\udccc Key Details\u00a3820 pcm \u2013 all bills included\ud83d\udcc5 Available immediately\u23f3 Minimum stay: 12 months\ud83c\udfe0 6-bedroom property\u2728 Bills IncludedElectricity, gas, water, council tax, and high-speed WiFi are all included \u2014 no hidden costs.\ud83e\uddfc Regular CleaningCommunal area",
-  "commute_minutes": 39,
-  "commute_summary": "39 min \u00b7 Victoria \u2192 District",
-  "suitability": 69,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.634,
-    "weight": 0.35,
-    "points": 22.2,
-    "note": "\u00a3820 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.62,
-    "weight": 0.4,
-    "points": 24.8,
-    "note": "39 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.7,
-    "weight": 0.1,
-    "points": 7.0,
-    "note": "availability unknown; stay up to 12 months"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -565,7 +565,7 @@
     "score": 1.0,
     "weight": 0.1,
     "points": 10.0,
-    "note": "available 2026-09-30; stay up to 12 months"
+    "note": "available 2026-10-01; stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
@@ -629,7 +629,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -693,7 +693,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -781,7 +781,7 @@
   "advertiser_role": "agent",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": false,
+  "available_now": true,
   "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/10/101097845.jpg",
   "verified": false,
   "num_photos": 6,
@@ -821,7 +821,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -885,7 +885,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1013,7 +1013,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1077,7 +1077,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1280,70 +1280,6 @@
   }
  },
  {
-  "id": "15966784",
-  "source": "SpareRoom",
-  "title": "Cosy Fulham Double Room ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/parsons_green/15966784",
-  "price_pcm": 900,
-  "price_raw": "\u00a3900 pcm",
-  "postcode": "SW6",
-  "neighbourhood": "Parsons Green",
-  "property_type": "flat",
-  "rooms_in_property": "2",
-  "advertiser_role": "live in landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/82/58/82581058.jpg",
-  "verified": false,
-  "num_photos": 9,
-  "risk_flags": [],
-  "lat": 51.4773251941532,
-  "lng": -0.199384093605022,
-  "bills_included": "no",
-  "available": "Available now",
-  "min_term": "12 months",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "We are a 3 minute walk away from Parsons Green tube station and a 10 minute walk away from Fulham Broadway tube stationThe room is very comfortable and filled with character, the room overlooks West London. Pricing : \u2022 Monthly rent is \u00a3900 plus some bills (only gas usage contribu",
-  "commute_minutes": 31,
-  "commute_summary": "31 min \u00b7 District \u2192 bus 360",
-  "suitability": 61,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.425,
-    "weight": 0.35,
-    "points": 14.9,
-    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.78,
-    "weight": 0.4,
-    "points": 31.2,
-    "note": "31 min to Imperial"
-   },
-   "bills": {
-    "score": 0.0,
-    "weight": 0.1,
-    "points": 0.0,
-    "note": "bills not included"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-09-30; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "16248868",
   "source": "SpareRoom",
   "title": "Self-contained room (Available now)",
@@ -1397,7 +1333,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1525,7 +1461,71 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18444143",
+  "source": "SpareRoom",
+  "title": "Modern Excellent Spacious En-suite -Shepherds Bush",
+  "url": "https://www.spareroom.co.uk/flatshare/london/shepherds_bush/18444143",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "W12",
+  "neighbourhood": "Shepherds Bush",
+  "property_type": "flat",
+  "rooms_in_property": "7",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/35/64/35642557.jpg",
+  "verified": false,
+  "num_photos": 2,
+  "risk_flags": [],
+  "lat": 51.5068553,
+  "lng": -0.2370947,
+  "bills_included": "yes",
+  "available": "1st Oct 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Adelaide Grove is a well-presented and spacious property arranged over multiple levels, offered to the market on a room-by-room basis\u2014ideal for professional sharers seeking comfortable accommodation in a well-connected West London location.All bills included for \u00a3110pcm (Council ",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 bus 207 \u2192 bus 49",
+  "suitability": 57,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.58,
+    "weight": 0.4,
+    "points": 23.2,
+    "note": "41 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1549,7 +1549,7 @@
   "advertiser_role": "live out landlord",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": false,
+  "available_now": true,
   "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
   "verified": false,
   "num_photos": 4,
@@ -1589,7 +1589,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1856,70 +1856,6 @@
   }
  },
  {
-  "id": "18444143",
-  "source": "SpareRoom",
-  "title": "Modern Excellent Spacious En-suite -Shepherds Bush",
-  "url": "https://www.spareroom.co.uk/flatshare/london/shepherds_bush/18444143",
-  "price_pcm": 950,
-  "price_raw": "\u00a3950 pcm",
-  "postcode": "W12",
-  "neighbourhood": "Shepherds Bush",
-  "property_type": "flat",
-  "rooms_in_property": "7",
-  "advertiser_role": "live out landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/35/64/35642557.jpg",
-  "verified": false,
-  "num_photos": 2,
-  "risk_flags": [],
-  "lat": 51.5068553,
-  "lng": -0.2370947,
-  "bills_included": "yes",
-  "available": "1st Oct 2026",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "Adelaide Grove is a well-presented and spacious property arranged over multiple levels, offered to the market on a room-by-room basis\u2014ideal for professional sharers seeking comfortable accommodation in a well-connected West London location.All bills included for \u00a3110pcm (Council ",
-  "commute_minutes": 41,
-  "commute_summary": "41 min \u00b7 bus 207 \u2192 bus 49",
-  "suitability": 54,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.25,
-    "weight": 0.35,
-    "points": 8.8,
-    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.58,
-    "weight": 0.4,
-    "points": 23.2,
-    "note": "41 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "18444613",
   "source": "SpareRoom",
   "title": "11th OCTOBER - Furnished double room available!",
@@ -2112,70 +2048,6 @@
   }
  },
  {
-  "id": "18406429",
-  "source": "SpareRoom",
-  "title": "South London \u2013 SW9 \ud83c\udfe0 Stockwell / Brixton Zone 2",
-  "url": "https://www.spareroom.co.uk/flatshare/london/london_sw9/18406429",
-  "price_pcm": 900,
-  "price_raw": "\u00a3900 pcm",
-  "postcode": "SW9",
-  "neighbourhood": "London SW9",
-  "property_type": "flat",
-  "rooms_in_property": "4",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 7,
-  "risk_flags": [],
-  "lat": 51.462298,
-  "lng": -0.1134935,
-  "bills_included": "yes",
-  "available": "18th Oct 2026",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "Let\u2019s get you moving! \ud83d\ude80Drop your contact number and expected move-in date so we can chat and get you booked in fast!Room rent per month - \u00a3850Available from: 18 October 2026Room rent per month - \u00a3900Available from: 01 November 2026Security Deposit Options:Zero Deposit: Zero advan",
-  "commute_minutes": null,
-  "commute_summary": "",
-  "suitability": 48,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.425,
-    "weight": 0.35,
-    "points": 14.9,
-    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.3,
-    "weight": 0.4,
-    "points": 12.0,
-    "note": "commute unknown"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "18446028",
   "source": "SpareRoom",
   "title": "1 Bed available in very nice 3 Bed in Clapham",
@@ -2293,7 +2165,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2421,7 +2293,71 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-09-30; no max term"
+    "note": "available 2026-10-01; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18301881",
+  "source": "SpareRoom",
+  "title": "253HLAHF12A - \ud83c\udfe1 Spacious Two-Bedroom Flat to Rent",
+  "url": "https://www.spareroom.co.uk/flatshare/london/acton/18301881",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "W3",
+  "neighbourhood": "Acton",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/90/04/90041021.jpg",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.516537,
+  "lng": -0.2676657,
+  "bills_included": "unknown",
+  "available": "24th Oct 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Unfurnished",
+  "description": "A well-maintained and generously sized two-bedroom apartment situated on the second floor of a modern residential block in the heart of Acton. Offering bright and spacious accommodation, this property is ideal for a professional couple, small family, or two professional sharers s",
+  "commute_minutes": 45,
+  "commute_summary": "45 min \u00b7 bus 266 \u2192 Central \u2192 Circle \u2192 bus 360",
+  "suitability": 44,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.5,
+    "weight": 0.4,
+    "points": 20.0,
+    "note": "45 min to Imperial"
+   },
+   "bills": {
+    "score": 0.4,
+    "weight": 0.1,
+    "points": 4.0,
+    "note": "bills not stated"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
    },
    "freshness": {
     "score": 1.0,
