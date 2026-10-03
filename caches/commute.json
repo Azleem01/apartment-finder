@@ -3725,7 +3725,7 @@
 "summary": "44 min \u00b7 bus 295 \u2192 District"
 },
 "18095250": {
-"_fetched": "2026-09-25",
+"_fetched": "2026-10-03",
 "minutes": 46,
 "summary": "46 min \u00b7 Overground \u2192 District"
 },
@@ -4445,7 +4445,7 @@
 "summary": "40 min \u00b7 bus 328 \u2192 Circle \u2192 bus 360"
 },
 "18287410": {
-"_fetched": "2026-09-10",
+"_fetched": "2026-10-03",
 "minutes": 42,
 "summary": "42 min \u00b7 bus 95 \u2192 Central \u2192 Circle \u2192 bus 360"
 },
@@ -5753,6 +5753,11 @@
 "_fetched": "2026-08-25",
 "minutes": 29,
 "summary": "29 min \u00b7 District \u2192 bus 360"
+},
+"18400425": {
+"_fetched": "2026-10-03",
+"minutes": 45,
+"summary": "45 min \u00b7 National Rail \u2192 Victoria \u2192 District \u2192 bus 360"
 },
 "18400426": {
 "_fetched": "2026-08-25",
@@ -12583,6 +12588,16 @@
 "_fetched": "2026-10-02",
 "minutes": 48,
 "summary": "48 min \u00b7 bus 436 \u2192 Victoria \u2192 District"
+},
+"18448806": {
+"_fetched": "2026-10-03",
+"minutes": 52,
+"summary": "52 min \u00b7 Elizabeth Line \u2192 District \u2192 bus 360"
+},
+"18448837": {
+"_fetched": "2026-10-03",
+"minutes": 42,
+"summary": "42 min \u00b7 Victoria \u2192 District \u2192 bus 360"
 },
 "1880224": {
 "_fetched": "2026-08-21",
