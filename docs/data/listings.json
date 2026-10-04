@@ -192,6 +192,70 @@
   }
  },
  {
+  "id": "14900137",
+  "source": "SpareRoom",
+  "title": "Spacious double bedroom in Hammersmith area",
+  "url": "https://www.spareroom.co.uk/flatshare/london/west_kensington/14900137",
+  "price_pcm": 900,
+  "price_raw": "\u00a3900 pcm",
+  "postcode": "W14",
+  "neighbourhood": "West Kensington",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/73/68/73688887.jpg",
+  "verified": true,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4902296749377,
+  "lng": -0.211134258187531,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "One double bedroom for single occupancy in a flatshare in Hammersmith area.The flat is on the second floor of a converted building. The bedroom is at the bottom level. It is large, bright and comprises a double bed, built-in wardrobe and shelves. It also has a large desk with cha",
+  "commute_minutes": 28,
+  "commute_summary": "28 min \u00b7 District",
+  "suitability": 72,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.425,
+    "weight": 0.35,
+    "points": 14.9,
+    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.82,
+    "weight": 0.4,
+    "points": 32.8,
+    "note": "28 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-04; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "16310253",
   "source": "SpareRoom",
   "title": " Lovely  double  room  (female preferably)\n",
@@ -896,48 +960,48 @@
   }
  },
  {
-  "id": "15966784",
+  "id": "18450662",
   "source": "SpareRoom",
-  "title": "Cosy Fulham Double Room ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/parsons_green/15966784",
-  "price_pcm": 900,
-  "price_raw": "\u00a3900 pcm",
-  "postcode": "SW6",
-  "neighbourhood": "Parsons Green",
-  "property_type": "flat",
-  "rooms_in_property": "2",
-  "advertiser_role": "live in landlord",
+  "title": "Double Room in Friendly Female House Share\ud83e\ude77",
+  "url": "https://www.spareroom.co.uk/flatshare/london/ladbroke_grove/18450662",
+  "price_pcm": 795,
+  "price_raw": "\u00a3795 pcm",
+  "postcode": "W10",
+  "neighbourhood": "Ladbroke Grove",
+  "property_type": "house",
+  "rooms_in_property": "5",
+  "advertiser_role": "former flatmate",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": true,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/82/58/82581058.jpg",
-  "verified": false,
-  "num_photos": 9,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/97/94/97944564.jpg",
+  "verified": true,
+  "num_photos": 8,
   "risk_flags": [],
-  "lat": 51.4773251941532,
-  "lng": -0.199384093605022,
+  "lat": 51.5218525,
+  "lng": -0.2155127,
   "bills_included": "no",
-  "available": "Available now",
-  "min_term": "12 months",
+  "available": "1st Nov 2026",
+  "min_term": "None",
   "max_term": "None",
   "room_type": "double",
   "furnishings": "Furnished",
-  "description": "We are a 3 minute walk away from Parsons Green tube station and a 10 minute walk away from Fulham Broadway tube stationThe room is very comfortable and filled with character, the room overlooks West London. Pricing : \u2022 Monthly rent is \u00a3900 plus some bills (only gas usage contribu",
-  "commute_minutes": 31,
-  "commute_summary": "31 min \u00b7 District \u2192 bus 360",
+  "description": "Heya\ud83e\udd70I\u2019m moving out of my room in a lovely shared house in a great location, just a 10-minute walk from Ladbroke Grove Station, around 5 minutes from Portobello Market and a 15-minute bus ride to Westfield Shepherd\u2019s Bush.The area has plenty of local gyms, shops, caf\u00e9s and restau",
+  "commute_minutes": 37,
+  "commute_summary": "37 min \u00b7 bus 52",
   "suitability": 61,
   "score_breakdown": {
    "budget": {
-    "score": 0.425,
+    "score": 0.663,
     "weight": 0.35,
-    "points": 14.9,
-    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+    "points": 23.2,
+    "note": "\u00a3795 pcm (best value \u2264 \u00a3850)"
    },
    "commute": {
-    "score": 0.78,
+    "score": 0.66,
     "weight": 0.4,
-    "points": 31.2,
-    "note": "31 min to Imperial"
+    "points": 26.4,
+    "note": "37 min to Imperial"
    },
    "bills": {
     "score": 0.0,
@@ -946,10 +1010,10 @@
     "note": "bills not included"
    },
    "tenancy": {
-    "score": 0.96,
+    "score": 0.66,
     "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-10-04; no max term"
+    "points": 6.6,
+    "note": "availability unknown; no max term"
    },
    "freshness": {
     "score": 1.0,
