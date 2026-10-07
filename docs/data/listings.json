@@ -192,6 +192,70 @@
   }
  },
  {
+  "id": "18454222",
+  "source": "SpareRoom",
+  "title": "Double room available in W12 0QD",
+  "url": "https://www.spareroom.co.uk/flatshare/london/london_w12/18454222",
+  "price_pcm": 780,
+  "price_raw": "\u00a3180 pw",
+  "postcode": "W12",
+  "neighbourhood": "London W12",
+  "property_type": "house",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 3,
+  "risk_flags": [],
+  "lat": 51.5131125,
+  "lng": -0.2471865,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Double room available for rentAll bills includedNear to shops and stationshared bathroomShared KitchenOnly Single occupancy",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 Central \u2192 Circle \u2192 bus 360",
+  "suitability": 71,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.68,
+    "weight": 0.35,
+    "points": 23.8,
+    "note": "\u00a3780 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-07; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18453831",
   "source": "SpareRoom",
   "title": "Single room for one person in W12",
@@ -256,70 +320,6 @@
   }
  },
  {
-  "id": "18454177",
-  "source": "SpareRoom",
-  "title": "\ud83c\udf83 King Cross Rooms \ud83c\udf83",
-  "url": "https://www.spareroom.co.uk/flatshare/london/king's_cross/18454177",
-  "price_pcm": 750,
-  "price_raw": "\u00a3750 pcm",
-  "postcode": "N1",
-  "neighbourhood": "King's Cross",
-  "property_type": "property",
-  "rooms_in_property": "6",
-  "advertiser_role": "live out landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/78/03/78039022.jpg",
-  "verified": false,
-  "num_photos": 8,
-  "risk_flags": [],
-  "lat": 51.534875,
-  "lng": -0.1171989,
-  "bills_included": "yes",
-  "available": "Available now",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "\ud83c\udf83 Rooms Available in King\u2019s Cross \u2013 Steps from Regent\u2019s CanalLooking for a comfortable, peaceful place to call home in the heart of London this autumn? \ud83c\udf42We currently have one single room, two double en-suite rooms, and one studio available in a lovely flat in King\u2019s Cross, just m",
-  "commute_minutes": 43,
-  "commute_summary": "43 min \u00b7 bus 91 \u2192 Victoria \u2192 District",
-  "suitability": 71,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.714,
-    "weight": 0.35,
-    "points": 25.0,
-    "note": "\u00a3750 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.54,
-    "weight": 0.4,
-    "points": 21.6,
-    "note": "43 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-10-07; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "18454162",
   "source": "SpareRoom",
   "title": "2 rooms to rent in  Balham Maisonette. ",
@@ -368,6 +368,70 @@
     "weight": 0.1,
     "points": 0.0,
     "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-07; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18454404",
+  "source": "SpareRoom",
+  "title": "Bright & Modern Room \u2013 All Bills Included!",
+  "url": "https://www.spareroom.co.uk/flatshare/london/london_w12/18454404",
+  "price_pcm": 867,
+  "price_raw": "\u00a3867 pcm",
+  "postcode": "W12",
+  "neighbourhood": "London W12",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/99/55/99555780.jpg",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.5150553,
+  "lng": -0.2304363,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Bright Double Room in Friendly Zone 2 House Share \u2013 All Bills IncludedLooking for more than just a room? We have a bright, fully furnished double room available in a welcoming, sociable home \u2014 perfect for working professionals.Located in Zone 2, the house offers excellent transpo",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 Circle \u2192 bus 360",
+  "suitability": 67,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.54,
+    "weight": 0.35,
+    "points": 18.9,
+    "note": "\u00a3867 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.58,
+    "weight": 0.4,
+    "points": 23.2,
+    "note": "41 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
    },
    "tenancy": {
     "score": 0.96,
@@ -576,54 +640,118 @@
   }
  },
  {
-  "id": "18380077",
+  "id": "18451528",
   "source": "SpareRoom",
-  "title": "W11 nice single room in Nottinghill ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/notting_hill/18380077",
-  "price_pcm": 925,
-  "price_raw": "\u00a3925 pcm",
-  "postcode": "W11",
-  "neighbourhood": "Notting Hill",
-  "property_type": "house",
-  "rooms_in_property": "3",
-  "advertiser_role": "live out landlord",
+  "title": "Cosy Room in Clean, Quiet Home!",
+  "url": "https://www.spareroom.co.uk/flatshare/london/east_acton/18451528",
+  "price_pcm": 824,
+  "price_raw": "\u00a3824 pcm",
+  "postcode": "W3",
+  "neighbourhood": "East Acton",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
   "days_old": 0,
   "days_old_known": true,
   "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/97/14/97144437.jpg",
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/99/55/99555780.jpg",
   "verified": false,
   "num_photos": 4,
   "risk_flags": [],
-  "lat": 51.5186673,
-  "lng": -0.1989173,
+  "lat": 51.5027517,
+  "lng": -0.2676844,
   "bills_included": "yes",
-  "available": "18th Oct 2026",
-  "min_term": "6 months",
+  "available": "31st Oct 2026",
+  "min_term": "None",
   "max_term": "None",
-  "room_type": "single",
+  "room_type": "",
   "furnishings": "Furnished",
-  "description": "Bright Single Room in a Prime Notting Hill Location A bright and well-maintained single room is available in a clean, safe, and friendly house in the heart of Notting Hill. The property is in excellent condition and offers a comfortable, peaceful living environment with respectfu",
-  "commute_minutes": 32,
-  "commute_summary": "32 min \u00b7 bus 70",
+  "description": "This double room is perfect if you want comfort, convenience, and a friendly house to call home. Spacious, fully furnished, and with all bills included. Housemates are professional, fun, and respectful \u2013 you\u2019ll feel right at home from day one.",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 Piccadilly \u2192 bus 360",
   "suitability": 64,
   "score_breakdown": {
    "budget": {
-    "score": 0.338,
+    "score": 0.63,
     "weight": 0.35,
-    "points": 11.8,
-    "note": "\u00a3925 pcm \u2014 above your preferred \u00a3850"
+    "points": 22.0,
+    "note": "\u00a3824 pcm (best value \u2264 \u00a3850)"
    },
    "commute": {
-    "score": 0.76,
+    "score": 0.52,
     "weight": 0.4,
-    "points": 30.4,
-    "note": "32 min to Imperial"
+    "points": 20.8,
+    "note": "44 min to Imperial"
    },
    "bills": {
     "score": 1.0,
     "weight": 0.1,
     "points": 10.0,
     "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "1288273",
+  "source": "SpareRoom",
+  "title": "++ Renovated Double Bedsit in Clondon ++",
+  "url": "https://www.spareroom.co.uk/flatshare/london/shepherds_bush/1288273",
+  "price_pcm": 750,
+  "price_raw": "\u00a3750 pcm",
+  "postcode": "W12",
+  "neighbourhood": "Shepherds Bush",
+  "property_type": "flat",
+  "rooms_in_property": "1",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": true,
+  "num_photos": 6,
+  "risk_flags": [],
+  "lat": 51.5075571086443,
+  "lng": -0.237172454652563,
+  "bills_included": "unknown",
+  "available": "12th Oct 2026",
+  "min_term": "12 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Large double bedsit for rent in a large terraced building, Renovated, comes Fully Furnished and features oak hardwood flooring. The flat consists of a gallery double bed with large storage space beneath and wardrobe, kitchenette facility with hob and extractor and shared use of t",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 bus 207 \u2192 bus 49",
+  "suitability": 63,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.714,
+    "weight": 0.35,
+    "points": 25.0,
+    "note": "\u00a3750 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 0.4,
+    "weight": 0.1,
+    "points": 4.0,
+    "note": "bills not stated"
    },
    "tenancy": {
     "score": 0.66,
@@ -704,42 +832,42 @@
   }
  },
  {
-  "id": "18451257",
+  "id": "18106357",
   "source": "SpareRoom",
-  "title": "Single Room Quiet Flat Jubilee Line 2 mins away",
-  "url": "https://www.spareroom.co.uk/flatshare/london/kilburn/18451257",
-  "price_pcm": 850,
-  "price_raw": "\u00a3850 pcm",
-  "postcode": "NW2",
-  "neighbourhood": "Kilburn",
-  "property_type": "flat",
-  "rooms_in_property": "4",
+  "title": "2 Rooms Available in Acton Towm \ud83c\udfe0 ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/acton/18106357",
+  "price_pcm": 880,
+  "price_raw": "\u00a3880 pcm",
+  "postcode": "W3",
+  "neighbourhood": "Acton",
+  "property_type": "house",
+  "rooms_in_property": "5",
   "advertiser_role": "agent",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/98/66/98665149.jpg",
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/92/04/92049219.jpg",
   "verified": false,
   "num_photos": 8,
   "risk_flags": [],
-  "lat": 51.5480038,
-  "lng": -0.2055468,
+  "lat": 51.4962163,
+  "lng": -0.2825118,
   "bills_included": "yes",
-  "available": "3rd Nov 2026",
-  "min_term": "2 months",
+  "available": "Available now",
+  "min_term": "6 months",
   "max_term": "None",
-  "room_type": "single",
+  "room_type": "",
   "furnishings": "Furnished",
-  "description": "*Available: 3rd November* *Only Single Use*\u2022\u2060 \u2060\u2705 Lower upfront costs.\u2022\u2060 \u2060\u2705 Maximum flexibility.\u2022\u2060 \u2060\u2705 Limited rooms remaining.\u2022\u2060 \u2060\u2705 Loyalty Rewards Scheme.Location: Kilburn (Jubilee Line 2 min walk) \ud83d\udeb6\u200d\u2642\ufe0f\ud83c\udfe0 The Property:4 rooms, 1 bathroom, kitchen with dining area.\ud83d\udecc Room fully furn",
+  "description": "Hello everyone! \ud83d\udea8 \ud83c\udf1f Don\u2019t miss the opportunity to rent these two rooms in Acton Town, just 10 minutes from the stations \ud83d\ude89 The house has just been renovated and comes with all new furnishings, from beds to mattresses. \ud83d\udecc In one room, you'll find two large built-in wardrobes and a d",
   "commute_minutes": 45,
-  "commute_summary": "45 min \u00b7 Jubilee \u2192 Piccadilly \u2192 bus 70",
-  "suitability": 63,
+  "commute_summary": "45 min \u00b7 Piccadilly \u2192 bus 360",
+  "suitability": 62,
   "score_breakdown": {
    "budget": {
-    "score": 0.6,
+    "score": 0.495,
     "weight": 0.35,
-    "points": 21.0,
-    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+    "points": 17.3,
+    "note": "\u00a3880 pcm \u2014 above your preferred \u00a3850"
    },
    "commute": {
     "score": 0.5,
@@ -754,10 +882,10 @@
     "note": "bills included"
    },
    "tenancy": {
-    "score": 0.66,
+    "score": 0.96,
     "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
+    "points": 9.6,
+    "note": "available 2026-10-07; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -816,70 +944,6 @@
     "weight": 0.1,
     "points": 0.0,
     "note": "bills not included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "16776763",
-  "source": "SpareRoom",
-  "title": "Spacious 4-Bed Split Level Flat With Garden",
-  "url": "https://www.spareroom.co.uk/flatshare/london/southfields/16776763",
-  "price_pcm": 750,
-  "price_raw": "\u00a3750 pcm",
-  "postcode": "SW19",
-  "neighbourhood": "Southfields",
-  "property_type": "flat",
-  "rooms_in_property": "4",
-  "advertiser_role": "live out landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 9,
-  "risk_flags": [],
-  "lat": 51.4450571631646,
-  "lng": -0.217476585457692,
-  "bills_included": "unknown",
-  "available": "1st Dec 2026",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "WHOLE FLAT TO RENT, not a room let. This is a lovely light and spacious 4-bedroom ground floor and first floor property of 90 sqm. It has a very large living room, kitchen/diner, two WCs, family bathroom and four bedrooms (three doubles and a single). It benefits from its own, so",
-  "commute_minutes": 44,
-  "commute_summary": "44 min \u00b7 bus 493 \u2192 District",
-  "suitability": 61,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.714,
-    "weight": 0.35,
-    "points": 25.0,
-    "note": "\u00a3750 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.52,
-    "weight": 0.4,
-    "points": 20.8,
-    "note": "44 min to Imperial"
-   },
-   "bills": {
-    "score": 0.4,
-    "weight": 0.1,
-    "points": 4.0,
-    "note": "bills not stated"
    },
    "tenancy": {
     "score": 0.66,
@@ -1024,50 +1088,48 @@
   }
  },
  {
-  "id": "18426777",
+  "id": "18454618",
   "source": "SpareRoom",
-  "title": "East London \u2013 E1 \ud83c\udfe0 Aldgate / Spitalfields Zone 1",
-  "url": "https://www.spareroom.co.uk/flatshare/london/london_e1/18426777",
-  "price_pcm": 900,
-  "price_raw": "\u00a3900 pcm",
-  "postcode": "E1",
-  "neighbourhood": "London E1",
-  "property_type": "flat",
-  "rooms_in_property": "4",
-  "advertiser_role": "agent",
+  "title": "Bright Double Room in a sociable, outgoing 9 bed  ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/battersea/18454618",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "SW11",
+  "neighbourhood": "Battersea",
+  "property_type": "house",
+  "rooms_in_property": "8",
+  "advertiser_role": "current flatmate",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/98/00/98009450.jpg",
-  "verified": false,
-  "num_photos": 0,
-  "risk_flags": [
-   "No photos in the ad"
-  ],
-  "lat": 51.5162252,
-  "lng": -0.0740799,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/95/85/95854752.jpg",
+  "verified": true,
+  "num_photos": 5,
+  "risk_flags": [],
+  "lat": 51.4698526,
+  "lng": -0.1639514,
   "bills_included": "yes",
-  "available": "13th Oct 2026",
+  "available": "Available now",
   "min_term": "None",
   "max_term": "None",
-  "room_type": "",
+  "room_type": "double",
   "furnishings": "Furnished",
-  "description": "Let\u2019s get you moving! \ud83d\ude80Drop your contact number and expected move-in date so we can chat and get you booked in fast!Rent per month: \u00a3901Available from: 13 October 2026Security Deposit Options:Zero Deposit: Zero advance payment subject to eligibility and referencingTraditional Dep",
-  "commute_minutes": 41,
-  "commute_summary": "41 min \u00b7 District",
-  "suitability": 60,
+  "description": "We\u2019re in a great spot \u2014 just a 10-minute walk from Clapham Junction and within running distance of Battersea Park.The room is a cozy double that gets plenty of natural light throughout the day \u2014 perfect for anyone who wants a comfortable space to call home.You\u2019ll be living with a",
+  "commute_minutes": 38,
+  "commute_summary": "38 min \u00b7 bus 49 \u2192 bus 360",
+  "suitability": 59,
   "score_breakdown": {
    "budget": {
-    "score": 0.425,
+    "score": 0.25,
     "weight": 0.35,
-    "points": 14.9,
-    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
    },
    "commute": {
-    "score": 0.58,
+    "score": 0.64,
     "weight": 0.4,
-    "points": 23.2,
-    "note": "41 min to Imperial"
+    "points": 25.6,
+    "note": "38 min to Imperial"
    },
    "bills": {
     "score": 1.0,
@@ -1076,10 +1138,10 @@
     "note": "bills included"
    },
    "tenancy": {
-    "score": 0.66,
+    "score": 0.96,
     "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
+    "points": 9.6,
+    "note": "available 2026-10-07; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1410,70 +1472,6 @@
   }
  },
  {
-  "id": "18432011",
-  "source": "SpareRoom",
-  "title": "Elegant Spacious Single rooms available in SW19 ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/wimbledon_park/18432011",
-  "price_pcm": 950,
-  "price_raw": "\u00a3950 pcm",
-  "postcode": "SW19",
-  "neighbourhood": "Wimbledon Park",
-  "property_type": "flat",
-  "rooms_in_property": "5",
-  "advertiser_role": "current flatmate",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/97/98/97981270.jpg",
-  "verified": true,
-  "num_photos": 6,
-  "risk_flags": [],
-  "lat": 51.4393134,
-  "lng": -0.1974557,
-  "bills_included": "yes",
-  "available": "Available now",
-  "min_term": "6 months",
-  "max_term": "12 months",
-  "room_type": "single",
-  "furnishings": "Furnished",
-  "description": "Rooms Available in Wimbledon Park, SW19 \u2013 Bills IncludedTwo rooms are available in a well-located property in Wimbledon Park, SW19.The room comes with a private en-suite bathroom, with access to a shared kitchen and garden. The property also has a washing machine and Wi-Fi.Great ",
-  "commute_minutes": 44,
-  "commute_summary": "44 min \u00b7 bus 156 \u2192 District \u2192 bus 360",
-  "suitability": 55,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.25,
-    "weight": 0.35,
-    "points": 8.8,
-    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.52,
-    "weight": 0.4,
-    "points": 20.8,
-    "note": "44 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "available 2026-10-07; stay up to 12 months"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "17986291",
   "source": "SpareRoom",
   "title": "Spacious Double In A New Flat Next To Westfied ",
@@ -1794,6 +1792,70 @@
   }
  },
  {
+  "id": "17278867",
+  "source": "SpareRoom",
+  "title": "Double room in Brixton",
+  "url": "https://www.spareroom.co.uk/flatshare/london/brixton/17278867",
+  "price_pcm": 900,
+  "price_raw": "\u00a3900 pcm",
+  "postcode": "SW9",
+  "neighbourhood": "Brixton",
+  "property_type": "house",
+  "rooms_in_property": "4",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/66/95/66950410.jpg",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.468262,
+  "lng": -0.1096912,
+  "bills_included": "no",
+  "available": "7th Nov 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "\ud83c\udfe1 Double room available in Brixton \u2013 \u00a3900pcm + billsWe\u2019ve got a room becoming available in our lovely 4-bed, 3-bathroom flat in Brixton, as our current housemate Matt is moving out.We\u2019re a relaxed, friendly household and all get on really well. We\u2019re looking for someone who wants",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 bus 3 \u2192 Victoria \u2192 Circle \u2192 bus 70",
+  "suitability": 50,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.425,
+    "weight": 0.35,
+    "points": 14.9,
+    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.58,
+    "weight": 0.4,
+    "points": 23.2,
+    "note": "41 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18406429",
   "source": "SpareRoom",
   "title": "South London \u2013 SW9 \ud83c\udfe0 Stockwell / Brixton Zone 2",
@@ -1906,6 +1968,70 @@
     "weight": 0.1,
     "points": 10.0,
     "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18454657",
+  "source": "SpareRoom",
+  "title": "Room in beautiful flat in Acton ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/acton/18454657",
+  "price_pcm": 900,
+  "price_raw": "\u00a3900 pcm",
+  "postcode": "W3",
+  "neighbourhood": "Acton",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/66/41/66413476.jpg",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.5066915,
+  "lng": -0.270806,
+  "bills_included": "no",
+  "available": "1st Nov 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "My flatmate of 5 years recently left so I\u2019m looking for someone to take over her room from November 1st. We\u2019re having some work done in the bathroom so it\u2019ll be all nice and shiny when you move in.Rent is 900\u00a3, bills not included. The bills are usually about 150-160\u00a3 per month. T",
+  "commute_minutes": 43,
+  "commute_summary": "43 min \u00b7 Piccadilly \u2192 bus 360",
+  "suitability": 48,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.425,
+    "weight": 0.35,
+    "points": 14.9,
+    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.54,
+    "weight": 0.4,
+    "points": 21.6,
+    "note": "43 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
    },
    "tenancy": {
     "score": 0.66,
