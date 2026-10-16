@@ -450,6 +450,134 @@
   }
  },
  {
+  "id": "18464704",
+  "source": "SpareRoom",
+  "title": "Modern Furnished Room to Let \u2013 Goldhawk Road, W12 ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/shepherds_bush/18464704",
+  "price_pcm": 890,
+  "price_raw": "\u00a3890 pcm",
+  "postcode": "W12",
+  "neighbourhood": "Shepherds Bush",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 5,
+  "risk_flags": [],
+  "lat": 51.5022822862962,
+  "lng": -0.227880699522323,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "3 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Furnished room in a modern flat, conveniently located close to Tube stations, bus routes and local amenities. Excellent transport connections across London.",
+  "commute_minutes": 35,
+  "commute_summary": "35 min \u00b7 Hammersmith & City \u2192 Piccadilly \u2192 bus 360",
+  "suitability": 69,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.46,
+    "weight": 0.35,
+    "points": 16.1,
+    "note": "\u00a3890 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.7,
+    "weight": 0.4,
+    "points": 28.0,
+    "note": "35 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-16; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18145818",
+  "source": "SpareRoom",
+  "title": "Double room in West London/Bayswater/Notting Hill",
+  "url": "https://www.spareroom.co.uk/flatshare/london/paddington/18145818",
+  "price_pcm": 770,
+  "price_raw": "\u00a3770 pcm",
+  "postcode": "W2",
+  "neighbourhood": "Paddington",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.5163628,
+  "lng": -0.19,
+  "bills_included": "no",
+  "available": "1st Dec 2026",
+  "min_term": "3 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Full time female professionals preferred. No students. Hi, A double room is available from *December 1st* in this 3 bedroom, *no living room* flat-share. If you\u2019re a professional, that knows how to recycle, doesn't smoke or get cold easily, is tidy & clean and doesn't always work",
+  "commute_minutes": 29,
+  "commute_summary": "29 min \u00b7 Circle \u2192 bus 360",
+  "suitability": 68,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.691,
+    "weight": 0.35,
+    "points": 24.2,
+    "note": "\u00a3770 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.81,
+    "weight": 0.4,
+    "points": 32.4,
+    "note": "29 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18461176",
   "source": "SpareRoom",
   "title": "\u2728\ud83d\udecf\ufe0f Single Room to Let in - Vauxwall",
@@ -486,6 +614,70 @@
     "weight": 0.35,
     "points": 22.1,
     "note": "\u00a3823 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.54,
+    "weight": 0.4,
+    "points": 21.6,
+    "note": "43 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-16; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "16845268",
+  "source": "SpareRoom",
+  "title": "Standart Double Room",
+  "url": "https://www.spareroom.co.uk/flatshare/london/barnes/16845268",
+  "price_pcm": 830,
+  "price_raw": "\u00a3830 pcm",
+  "postcode": "SW13",
+  "neighbourhood": "Barnes",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4836577,
+  "lng": -0.2439092,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Hello, we have a double room in a cosy and warm maisonette, located between Hammersmith, Barnes and Barnes Bridge stations. The apartment is situated over 2 floors with a separate entrance. The kitchen is large and fully equipped (washing machine, dishwasher, microvawe, oven). Bu",
+  "commute_minutes": 43,
+  "commute_summary": "43 min \u00b7 bus 209 \u2192 Piccadilly \u2192 bus 360",
+  "suitability": 68,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.623,
+    "weight": 0.35,
+    "points": 21.8,
+    "note": "\u00a3830 pcm (best value \u2264 \u00a3850)"
    },
    "commute": {
     "score": 0.54,
@@ -770,6 +962,70 @@
   }
  },
  {
+  "id": "18460634",
+  "source": "SpareRoom",
+  "title": "Join a Clean, Friendly Household \u2013 Everything Cove",
+  "url": "https://www.spareroom.co.uk/flatshare/london/east_acton/18460634",
+  "price_pcm": 824,
+  "price_raw": "\u00a3824 pcm",
+  "postcode": "W3",
+  "neighbourhood": "East Acton",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 5,
+  "risk_flags": [],
+  "lat": 51.5036873,
+  "lng": -0.2671014,
+  "bills_included": "yes",
+  "available": "31st Oct 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "A fully furnished double room in a clean, bright house with young professionals. Enjoy a sociable atmosphere with occasional dinners or movie nights, or take advantage of your quiet time. All bills, Wi-Fi, and council tax included \u2013 perfect for stress-free living.",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 bus E3 \u2192 District \u2192 bus 74",
+  "suitability": 64,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.63,
+    "weight": 0.35,
+    "points": 22.0,
+    "note": "\u00a3824 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18175817",
   "source": "SpareRoom",
   "title": "Spacious Double Room To Rent In Acton Town W3 ",
@@ -818,6 +1074,70 @@
     "weight": 0.1,
     "points": 10.0,
     "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-16; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18461991",
+  "source": "SpareRoom",
+  "title": "Modern 4 bed Property - Fully furnished ! ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/acton/18461991",
+  "price_pcm": 800,
+  "price_raw": "\u00a3800 pcm",
+  "postcode": "W3",
+  "neighbourhood": "Acton",
+  "property_type": "house",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 13,
+  "risk_flags": [],
+  "lat": 51.5199832,
+  "lng": -0.2665836,
+  "bills_included": "unknown",
+  "available": "Available now",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "4-bedroom house offering a practical and spacious layout, ideal for 4 students, 4 professionals or families.The property features four bedrooms, including three large bedrooms and a top-floor bedroom with an en-suite. It also benefits from generous communal areas with a comfortab",
+  "commute_minutes": 43,
+  "commute_summary": "43 min \u00b7 bus 266 \u2192 Central \u2192 Circle \u2192 bus 360",
+  "suitability": 63,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.657,
+    "weight": 0.35,
+    "points": 23.0,
+    "note": "\u00a3800 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.54,
+    "weight": 0.4,
+    "points": 21.6,
+    "note": "43 min to Imperial"
+   },
+   "bills": {
+    "score": 0.4,
+    "weight": 0.1,
+    "points": 4.0,
+    "note": "bills not stated"
    },
    "tenancy": {
     "score": 0.96,
@@ -1144,6 +1464,70 @@
     "weight": 0.1,
     "points": 7.0,
     "note": "availability unknown; stay up to 12 months"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18114596",
+  "source": "SpareRoom",
+  "title": "Selection of  Bedsits  Kensal Green NW10 (Harrow)",
+  "url": "https://www.spareroom.co.uk/flatshare/london/kensal_green/18114596",
+  "price_pcm": 910,
+  "price_raw": "\u00a3910 pcm",
+  "postcode": "NW10",
+  "neighbourhood": "Kensal Green",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 15,
+  "risk_flags": [],
+  "lat": 51.5289247,
+  "lng": -0.2187394,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Selection of double bedsits available to let in big house conversion, fully furnished, central heated and double glazed property in good condition. Share fitted kitchen, share bathroom and shower room depending on what room you choose, wooden floors, access to Kensal Green tube (",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 bus 52",
+  "suitability": 61,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.39,
+    "weight": 0.35,
+    "points": 13.6,
+    "note": "\u00a3910 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-16; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1538,6 +1922,70 @@
   }
  },
  {
+  "id": "18463321",
+  "source": "SpareRoom",
+  "title": "Double room in Putney",
+  "url": "https://www.spareroom.co.uk/flatshare/london/putney/18463321",
+  "price_pcm": 925,
+  "price_raw": "\u00a3925 pcm",
+  "postcode": "SW15",
+  "neighbourhood": "Putney",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/50/75/50751619.jpg",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.4588733,
+  "lng": -0.2206048,
+  "bills_included": "yes",
+  "available": "1st Nov 2026",
+  "min_term": "3 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Hi there,I have 1 large double room available in my 2 bedroom Putney flat for a working professional who works hybrid.The room is available from Sunday 1st Nov and property benefits from garden access and parking.\u00a3925 per month inclusive of bills and \u00a3750 deposit with min 3 month",
+  "commute_minutes": 43,
+  "commute_summary": "43 min \u00b7 bus 37 \u2192 District",
+  "suitability": 55,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.338,
+    "weight": 0.35,
+    "points": 11.8,
+    "note": "\u00a3925 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.54,
+    "weight": 0.4,
+    "points": 21.6,
+    "note": "43 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "15987778",
   "source": "SpareRoom",
   "title": " Double Ensuite Room Kensal Green NW10",
@@ -1592,6 +2040,70 @@
     "weight": 0.1,
     "points": 6.6,
     "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18464739",
+  "source": "SpareRoom",
+  "title": "4 Bed Flat to rent  Vauxhall",
+  "url": "https://www.spareroom.co.uk/flatshare/london/vauxhall/18464739",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "SE11",
+  "neighbourhood": "Vauxhall",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.4875104,
+  "lng": -0.1177687,
+  "bills_included": "unknown",
+  "available": "Available now",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "This lateral four-bedroom apartment is located on the third floor with lift access and has been neutrally decorated throughout. The flat comprises of four generous double bedrooms, a good sized living room which leads out to a private balcony and a separate fully fitted kitchen. ",
+  "commute_minutes": 39,
+  "commute_summary": "39 min \u00b7 bus 196 \u2192 Victoria \u2192 Circle \u2192 bus 70",
+  "suitability": 52,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.62,
+    "weight": 0.4,
+    "points": 24.8,
+    "note": "39 min to Imperial"
+   },
+   "bills": {
+    "score": 0.4,
+    "weight": 0.1,
+    "points": 4.0,
+    "note": "bills not stated"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-16; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1730,70 +2242,6 @@
   }
  },
  {
-  "id": "18149772",
-  "source": "SpareRoom",
-  "title": "Two Bed Flat on trinity road, Tooting Bec, SW17",
-  "url": "https://www.spareroom.co.uk/flatshare/london/london_sw17/18149772",
-  "price_pcm": 925,
-  "price_raw": "\u00a3925 pcm",
-  "postcode": "SW17",
-  "neighbourhood": "London SW17",
-  "property_type": "flat",
-  "rooms_in_property": "2",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/92/33/92330405.jpg",
-  "verified": false,
-  "num_photos": 5,
-  "risk_flags": [],
-  "lat": 51.4372052,
-  "lng": -0.1619941,
-  "bills_included": "unknown",
-  "available": "Available now",
-  "min_term": "12 months",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Part Furnished",
-  "description": "Located on the popular Trinity Road in Tooting Bec, this well presented twobedroom apartment offers contemporary living just moments from Tooting Bec Station.The property comprises a bright and modern open-plan kitchen and living area, ideal for both relaxing and entertaining. Th",
-  "commute_minutes": 44,
-  "commute_summary": "44 min \u00b7 Northern \u2192 Victoria \u2192 District \u2192 bus 360",
-  "suitability": 51,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.338,
-    "weight": 0.35,
-    "points": 11.8,
-    "note": "\u00a3925 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.52,
-    "weight": 0.4,
-    "points": 20.8,
-    "note": "44 min to Imperial"
-   },
-   "bills": {
-    "score": 0.4,
-    "weight": 0.1,
-    "points": 4.0,
-    "note": "bills not stated"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-10-16; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "18463946",
   "source": "SpareRoom",
   "title": "Balham Room to Rent",
@@ -1900,6 +2348,70 @@
     "weight": 0.4,
     "points": 24.8,
     "note": "39 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "3383555",
+  "source": "SpareRoom",
+  "title": "5 Doublebed Kennington Townhouse with Courtyard",
+  "url": "https://www.spareroom.co.uk/flatshare/london/kennington/3383555",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "SE11",
+  "neighbourhood": "Kennington",
+  "property_type": "house",
+  "rooms_in_property": "5",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.4866754385951,
+  "lng": -0.111785562330277,
+  "bills_included": "no",
+  "available": "18th Oct 2026",
+  "min_term": "12 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Fantastic chance to rent in a four storey neo-Georgian town house in the heart of Kennington Village. This house is walking distance from Kennington and Oval (Northern Line), Vauxhall (Victoria and Overground) and Lambeth North (Bakerloo). Lots of buses are available, 3, 59 and 1",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 bus 196 \u2192 Victoria \u2192 Circle \u2192 bus 70",
+  "suitability": 43,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
    },
    "bills": {
     "score": 0.0,
