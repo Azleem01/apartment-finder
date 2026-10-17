@@ -192,70 +192,6 @@
   }
  },
  {
-  "id": "18357351",
-  "source": "SpareRoom",
-  "title": "Double Room Southfields Wimbledon",
-  "url": "https://www.spareroom.co.uk/flatshare/london/southfields/18357351",
-  "price_pcm": 750,
-  "price_raw": "\u00a3750 pcm",
-  "postcode": "SW19",
-  "neighbourhood": "Southfields",
-  "property_type": "flat",
-  "rooms_in_property": "4",
-  "advertiser_role": "current flatmate",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/10/101073423.jpg",
-  "verified": true,
-  "num_photos": 8,
-  "risk_flags": [],
-  "lat": 51.4437982,
-  "lng": -0.2073282,
-  "bills_included": "no",
-  "available": "Available now",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "We're looking for a new housemate in our clean and sociable four-bedroom flat in leafy Southfields. In December another flatmate is leaving when we\u2019d like to make the flat an even split of boys and girls. We have a large double room available. The room is to the rear of the flat ",
-  "commute_minutes": 35,
-  "commute_summary": "35 min \u00b7 District \u2192 bus 360",
-  "suitability": 68,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.714,
-    "weight": 0.35,
-    "points": 25.0,
-    "note": "\u00a3750 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.7,
-    "weight": 0.4,
-    "points": 28.0,
-    "note": "35 min to Imperial"
-   },
-   "bills": {
-    "score": 0.0,
-    "weight": 0.1,
-    "points": 0.0,
-    "note": "bills not included"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-10-17; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "17016978",
   "source": "SpareRoom",
   "title": "Room for Rent",
@@ -944,6 +880,70 @@
     "weight": 0.1,
     "points": 0.0,
     "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "7660048",
+  "source": "SpareRoom",
+  "title": "Large Double bedroom East Putney tube All Bills In",
+  "url": "https://www.spareroom.co.uk/flatshare/london/east_putney/7660048",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "SW15",
+  "neighbourhood": "East Putney",
+  "property_type": "house",
+  "rooms_in_property": "4",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.4593961369337,
+  "lng": -0.198952665872972,
+  "bills_included": "yes",
+  "available": "20th Oct 2026",
+  "min_term": "3 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "A double room is now available to rent in a near East Putney tube station.Two Professionals female looking for female to share the house. Oakhill Road is a lovely long road that serves both East Putney tube within 7-10 minutes for a quick commute to work and also Wandsworth Park ",
+  "commute_minutes": 45,
+  "commute_summary": "45 min \u00b7 District",
+  "suitability": 63,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.6,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.5,
+    "weight": 0.4,
+    "points": 20.0,
+    "note": "45 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
    },
    "tenancy": {
     "score": 0.66,
@@ -2112,70 +2112,6 @@
   }
  },
  {
-  "id": "18149772",
-  "source": "SpareRoom",
-  "title": "Two Bed Flat on trinity road, Tooting Bec, SW17",
-  "url": "https://www.spareroom.co.uk/flatshare/london/london_sw17/18149772",
-  "price_pcm": 925,
-  "price_raw": "\u00a3925 pcm",
-  "postcode": "SW17",
-  "neighbourhood": "London SW17",
-  "property_type": "flat",
-  "rooms_in_property": "2",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/92/33/92330405.jpg",
-  "verified": false,
-  "num_photos": 5,
-  "risk_flags": [],
-  "lat": 51.4372052,
-  "lng": -0.1619941,
-  "bills_included": "unknown",
-  "available": "Available now",
-  "min_term": "12 months",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Part Furnished",
-  "description": "Located on the popular Trinity Road in Tooting Bec, this well presented twobedroom apartment offers contemporary living just moments from Tooting Bec Station.The property comprises a bright and modern open-plan kitchen and living area, ideal for both relaxing and entertaining. Th",
-  "commute_minutes": 44,
-  "commute_summary": "44 min \u00b7 Northern \u2192 Victoria \u2192 District \u2192 bus 360",
-  "suitability": 51,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.338,
-    "weight": 0.35,
-    "points": 11.8,
-    "note": "\u00a3925 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.52,
-    "weight": 0.4,
-    "points": 20.8,
-    "note": "44 min to Imperial"
-   },
-   "bills": {
-    "score": 0.4,
-    "weight": 0.1,
-    "points": 4.0,
-    "note": "bills not stated"
-   },
-   "tenancy": {
-    "score": 0.96,
-    "weight": 0.1,
-    "points": 9.6,
-    "note": "available 2026-10-17; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "3383555",
   "source": "SpareRoom",
   "title": "5 Doublebed Kennington Townhouse with Courtyard",
@@ -2189,7 +2125,7 @@
   "advertiser_role": "live out landlord",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": false,
+  "available_now": true,
   "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
   "verified": true,
   "num_photos": 7,
@@ -2205,7 +2141,7 @@
   "description": "Fantastic chance to rent in a four storey neo-Georgian town house in the heart of Kennington Village. This house is walking distance from Kennington and Oval (Northern Line), Vauxhall (Victoria and Overground) and Lambeth North (Bakerloo). Lots of buses are available, 3, 59 and 1",
   "commute_minutes": 42,
   "commute_summary": "42 min \u00b7 bus 196 \u2192 Victoria \u2192 Circle \u2192 bus 70",
-  "suitability": 43,
+  "suitability": 46,
   "score_breakdown": {
    "budget": {
     "score": 0.25,
@@ -2226,10 +2162,10 @@
     "note": "bills not included"
    },
    "tenancy": {
-    "score": 0.66,
+    "score": 0.96,
     "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
+    "points": 9.6,
+    "note": "available 2026-10-17; no max term"
    },
    "freshness": {
     "score": 1.0,
