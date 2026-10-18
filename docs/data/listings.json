@@ -1,5 +1,69 @@
 [
  {
+  "id": "15207706",
+  "source": "SpareRoom",
+  "title": "***Fantastic Double in  Pro Flat-W3*",
+  "url": "https://www.spareroom.co.uk/flatshare/london/acton/15207706",
+  "price_pcm": 825,
+  "price_raw": "\u00a3825 pcm",
+  "postcode": "W3",
+  "neighbourhood": "Acton",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/23/82/23825566.jpg",
+  "verified": false,
+  "num_photos": 4,
+  "risk_flags": [],
+  "lat": 51.506797493727,
+  "lng": -0.271930107496427,
+  "bills_included": "yes",
+  "available": "1st Nov 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "\ud83c\udfe1 MODERN DOUBLE ROOM \u2013 ACTON TOWN \u2013 BILLS INCLUDED \u2728\u2728 RECENTLY REFURBISHED PROPERTY \ud83d\udccd ACTON \u2013 WEST LONDON \ud83d\ude87 APPROX. 10-MINUTE WALK TO ACTON TOWN TUBE \ud83e\uddfe BILLS INCLUDEDA lovely furnished double room is available in this recently refurbished property, situated within a secure gated ",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 Piccadilly \u2192 bus 360",
+  "suitability": 67,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.629,
+    "weight": 0.35,
+    "points": 22.0,
+    "note": "\u00a3825 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.58,
+    "weight": 0.4,
+    "points": 23.2,
+    "note": "41 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "9857947",
   "source": "SpareRoom",
   "title": "Sociable all girls flat 1 min to Tube + shops ",
@@ -176,6 +240,134 @@
     "weight": 0.1,
     "points": 10.0,
     "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "15302929",
+  "source": "SpareRoom",
+  "title": "A Beautiful Double Room Zone 2 White City",
+  "url": "https://www.spareroom.co.uk/flatshare/london/white_city/15302929",
+  "price_pcm": 800,
+  "price_raw": "\u00a3800 pcm",
+  "postcode": "W12",
+  "neighbourhood": "White City",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 4,
+  "risk_flags": [],
+  "lat": 51.5134515161555,
+  "lng": -0.231482648056076,
+  "bills_included": "no",
+  "available": "Available now",
+  "min_term": "3 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "We have A beautiful large double room will be available in this lovely flat just a few minutes away from Westfield shopping centre and White City tube station (zone 2 central line), Shepherd's Bush Market tube station (zone 2) and many 24 hours buses.The roomLarge double room \u00a380",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 Central \u2192 Circle \u2192 bus 360",
+  "suitability": 60,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.657,
+    "weight": 0.35,
+    "points": 23.0,
+    "note": "\u00a3800 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-18; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "14664430",
+  "source": "SpareRoom",
+  "title": "Spacious 3 Bedroom Flat",
+  "url": "https://www.spareroom.co.uk/flatshare/london/coldharbour_lane/14664430",
+  "price_pcm": 900,
+  "price_raw": "\u00a3900 pcm",
+  "postcode": "SW9",
+  "neighbourhood": "Coldharbour Lane",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/96/16/96166163.jpg",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.4661341825185,
+  "lng": -0.102209962293743,
+  "bills_included": "unknown",
+  "available": "1st Nov 2026",
+  "min_term": "12 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "This well-appointed detached building offers a refurbished three-double-bedroom apartment.Available, fully furnished for \u00a32700.00, excluding bills, immediatelyIt's ideal for up to 3 Professional people.NO COMPANY LET OR AGENTSThis property is based in zone 2.A short walking dista",
+  "commute_minutes": 45,
+  "commute_summary": "45 min \u00b7 bus P4 \u2192 Victoria \u2192 District",
+  "suitability": 50,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.425,
+    "weight": 0.35,
+    "points": 14.9,
+    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.5,
+    "weight": 0.4,
+    "points": 20.0,
+    "note": "45 min to Imperial"
+   },
+   "bills": {
+    "score": 0.4,
+    "weight": 0.1,
+    "points": 4.0,
+    "note": "bills not stated"
    },
    "tenancy": {
     "score": 0.66,
