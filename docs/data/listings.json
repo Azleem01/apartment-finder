@@ -192,6 +192,72 @@
   }
  },
  {
+  "id": "18466793",
+  "source": "SpareRoom",
+  "title": "Room to let ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/balham/18466793",
+  "price_pcm": 700,
+  "price_raw": "\u00a3700 pcm",
+  "postcode": "SW12",
+  "neighbourhood": "Balham",
+  "property_type": "house",
+  "rooms_in_property": "2",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/18/101841144.jpg",
+  "verified": false,
+  "num_photos": 0,
+  "risk_flags": [
+   "No photos in the ad"
+  ],
+  "lat": 51.4439131,
+  "lng": -0.1493634,
+  "bills_included": "yes",
+  "available": "25th Oct 2026",
+  "min_term": "6 months",
+  "max_term": "12 months",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "I have a room in my family home, in Balham sw12, London, Balham is very nice and quiet place to be, 5 minutes walk to train, bus, all shops.",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 Northern \u2192 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 70,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.771,
+    "weight": 0.35,
+    "points": 27.0,
+    "note": "\u00a3700 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.7,
+    "weight": 0.1,
+    "points": 7.0,
+    "note": "availability unknown; stay up to 12 months"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "6021538",
   "source": "SpareRoom",
   "title": "W6 Fully Furnished Bright Double Room",
@@ -320,48 +386,48 @@
   }
  },
  {
-  "id": "18380116",
+  "id": "18466718",
   "source": "SpareRoom",
-  "title": "Triple room for Rent ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/herne_hill/18380116",
-  "price_pcm": 850,
-  "price_raw": "\u00a3850 pcm",
-  "postcode": "SE24",
-  "neighbourhood": "Herne Hill",
-  "property_type": "house",
+  "title": "Dble Furn Room Brixton \u00a3799 Incl Bills (38Ash)",
+  "url": "https://www.spareroom.co.uk/flatshare/london/brixton/18466718",
+  "price_pcm": 799,
+  "price_raw": "\u00a3799 pcm",
+  "postcode": "SW9",
+  "neighbourhood": "Brixton",
+  "property_type": "flat",
   "rooms_in_property": "4",
-  "advertiser_role": "live in landlord",
+  "advertiser_role": "live out landlord",
   "days_old": 0,
   "days_old_known": true,
   "available_now": true,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/63/50/63503851.jpg",
   "verified": false,
   "num_photos": 3,
   "risk_flags": [],
-  "lat": 51.4647626,
-  "lng": -0.1007226,
+  "lat": 51.4682023,
+  "lng": -0.1065549,
   "bills_included": "yes",
   "available": "Available now",
-  "min_term": "6 months",
+  "min_term": "2 months",
   "max_term": "None",
   "room_type": "",
   "furnishings": "Furnished",
-  "description": "Spacious Fully Furnished Double Room \u2013 A spacious, bright and clean double room is available on the third floor of a well-kept property. The room is fully furnished, clean and comfortable, with plenty of space for storage and living ,The property is well maintained and has a clea",
-  "commute_minutes": 42,
-  "commute_summary": "42 min \u00b7 bus P4 \u2192 Victoria \u2192 District \u2192 bus 360",
+  "description": "DOUBLE FURNISHED ROOM5 min walk LOUGHBOROUGH JUNCTION STATION10 min walk BRIXTON STATION10 min walk BRIXTON VILLAGE\u00a3799pcm incl all bills and wifiViewings week Monday 19th October 6.40pm and Tuesday 20th 6.30pmAvailable 27th Decemberreferences required:Full-time employment proof.",
+  "commute_minutes": 45,
+  "commute_summary": "45 min \u00b7 bus 3 \u2192 Victoria \u2192 Circle \u2192 bus 70",
   "suitability": 68,
   "score_breakdown": {
    "budget": {
-    "score": 0.6,
+    "score": 0.658,
     "weight": 0.35,
-    "points": 21.0,
-    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+    "points": 23.0,
+    "note": "\u00a3799 pcm (best value \u2264 \u00a3850)"
    },
    "commute": {
-    "score": 0.56,
+    "score": 0.5,
     "weight": 0.4,
-    "points": 22.4,
-    "note": "42 min to Imperial"
+    "points": 20.0,
+    "note": "45 min to Imperial"
    },
    "bills": {
     "score": 1.0,
