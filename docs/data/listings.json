@@ -141,7 +141,7 @@
   "advertiser_role": "live out landlord",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": false,
+  "available_now": true,
   "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/90/75/90759747.jpg",
   "verified": false,
   "num_photos": 1,
@@ -181,7 +181,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-18; no max term"
+    "note": "available 2026-10-19; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -375,7 +375,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-18; no max term"
+    "note": "available 2026-10-19; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -439,7 +439,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-18; no max term"
+    "note": "available 2026-10-19; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -503,7 +503,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-18; no max term"
+    "note": "available 2026-10-19; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -697,7 +697,7 @@
     "score": 1.0,
     "weight": 0.1,
     "points": 10.0,
-    "note": "available 2026-10-18; stay up to 12 months"
+    "note": "available 2026-10-19; stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
@@ -761,7 +761,7 @@
     "score": 1.0,
     "weight": 0.1,
     "points": 10.0,
-    "note": "available 2026-10-18; stay up to 36 months"
+    "note": "available 2026-10-19; stay up to 36 months"
    },
    "freshness": {
     "score": 1.0,
@@ -826,6 +826,70 @@
     "weight": 0.1,
     "points": 6.6,
     "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18464234",
+  "source": "SpareRoom",
+  "title": "Clapham Junction \ud83d\ude0d 2 Beautiful Rooms \ud83d\ude0d",
+  "url": "https://www.spareroom.co.uk/flatshare/london/clapham_junction/18464234",
+  "price_pcm": 915,
+  "price_raw": "\u00a3915 pcm",
+  "postcode": "SW11",
+  "neighbourhood": "Clapham Junction",
+  "property_type": "flat",
+  "rooms_in_property": "5",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.4659635,
+  "lng": -0.1718349,
+  "bills_included": "yes",
+  "available": "19th Oct 2026",
+  "min_term": "12 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Leave Your Number and Move in Date\ud83d\udea8 Please no waste timers \ud83d\udea8Message or Call Me on WhatsApp \ud83d\udcf2 \ud83d\udcdeDetails; The room is for 1 person use. Property and rooms are furnished. Kitchen, bathroom with toilet and extra separate toilet There isn\u2019t a Living room. \ud83d\udc6b We make sure all flatmates a",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 bus 49 \u2192 bus 360",
+  "suitability": 61,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.372,
+    "weight": 0.35,
+    "points": 13.0,
+    "note": "\u00a3915 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.58,
+    "weight": 0.4,
+    "points": 23.2,
+    "note": "41 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-19; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1017,71 +1081,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-18; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "18464234",
-  "source": "SpareRoom",
-  "title": "Clapham Junction \ud83d\ude0d 2 Beautiful Rooms \ud83d\ude0d",
-  "url": "https://www.spareroom.co.uk/flatshare/london/clapham_junction/18464234",
-  "price_pcm": 915,
-  "price_raw": "\u00a3915 pcm",
-  "postcode": "SW11",
-  "neighbourhood": "Clapham Junction",
-  "property_type": "flat",
-  "rooms_in_property": "5",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 9,
-  "risk_flags": [],
-  "lat": 51.4659635,
-  "lng": -0.1718349,
-  "bills_included": "yes",
-  "available": "19th Oct 2026",
-  "min_term": "12 months",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "Leave Your Number and Move in Date\ud83d\udea8 Please no waste timers \ud83d\udea8Message or Call Me on WhatsApp \ud83d\udcf2 \ud83d\udcdeDetails; The room is for 1 person use. Property and rooms are furnished. Kitchen, bathroom with toilet and extra separate toilet There isn\u2019t a Living room. \ud83d\udc6b We make sure all flatmates a",
-  "commute_minutes": 41,
-  "commute_summary": "41 min \u00b7 bus 49 \u2192 bus 360",
-  "suitability": 58,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.372,
-    "weight": 0.35,
-    "points": 13.0,
-    "note": "\u00a3915 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.58,
-    "weight": 0.4,
-    "points": 23.2,
-    "note": "41 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
+    "note": "available 2026-10-19; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1145,7 +1145,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-18; no max term"
+    "note": "available 2026-10-19; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1337,7 +1337,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-18; no max term"
+    "note": "available 2026-10-19; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1529,7 +1529,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-18; no max term"
+    "note": "available 2026-10-19; no max term"
    },
    "freshness": {
     "score": 1.0,
