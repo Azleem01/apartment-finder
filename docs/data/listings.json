@@ -13,7 +13,7 @@
   "advertiser_role": "agent",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": false,
+  "available_now": true,
   "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/86/45/86454897.jpg",
   "verified": false,
   "num_photos": 4,
@@ -53,7 +53,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-22; no max term"
+    "note": "available 2026-10-23; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -117,7 +117,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-22; no max term"
+    "note": "available 2026-10-23; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -384,6 +384,70 @@
   }
  },
  {
+  "id": "18471769",
+  "source": "SpareRoom",
+  "title": "Private room in White city all bills included ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/white_city/18471769",
+  "price_pcm": 750,
+  "price_raw": "\u00a3750 pcm",
+  "postcode": "W12",
+  "neighbourhood": "White City",
+  "property_type": "flat",
+  "rooms_in_property": "6",
+  "advertiser_role": "former flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/12/101247355.jpg",
+  "verified": false,
+  "num_photos": 3,
+  "risk_flags": [],
+  "lat": 51.5153129,
+  "lng": -0.2314208,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "\ud83c\udfe1 Private Room in White City, W12 \u2013 \u00a3750 pcm, Bills Included!Available immediately \u2013 First come, first served!I\u2019m looking for someone to take over my room in White City, West London.\u2728 The Room* Private room in a shared flat* Furnished with a bed, desk, wardrobe and a small chest ",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 Circle \u2192 bus 360",
+  "suitability": 73,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.714,
+    "weight": 0.35,
+    "points": 25.0,
+    "note": "\u00a3750 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.58,
+    "weight": 0.4,
+    "points": 23.2,
+    "note": "41 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-23; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "4737137",
   "source": "SpareRoom",
   "title": " room to rent in fulham",
@@ -501,7 +565,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-22; no max term"
+    "note": "available 2026-10-23; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -576,6 +640,70 @@
   }
  },
  {
+  "id": "4007162",
+  "source": "SpareRoom",
+  "title": "Excellent  4 bed flat, share with professionals",
+  "url": "https://www.spareroom.co.uk/flatshare/london/hammersmith/4007162",
+  "price_pcm": 899,
+  "price_raw": "\u00a3899 pcm",
+  "postcode": "W6",
+  "neighbourhood": "Hammersmith",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 12,
+  "risk_flags": [],
+  "lat": 51.4919385366192,
+  "lng": -0.237875917751462,
+  "bills_included": "yes",
+  "available": "1st Nov 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "In Hammersmith moments away from Ravenscourt Park 3 minutes walk away & Stamfordbrook tube stations being the nearest links just minutes walk away. The property is situated in a tree lined residential road -Weltje road which is a 10-minute walk to the river, ideally located for t",
+  "commute_minutes": 30,
+  "commute_summary": "30 min \u00b7 District \u2192 bus 360",
+  "suitability": 69,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.428,
+    "weight": 0.35,
+    "points": 15.0,
+    "note": "\u00a3899 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.8,
+    "weight": 0.4,
+    "points": 32.0,
+    "note": "30 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18470823",
   "source": "SpareRoom",
   "title": "\ud83c\udfe1 Room in Battersea |  move in Now",
@@ -629,7 +757,7 @@
     "score": 1.0,
     "weight": 0.1,
     "points": 10.0,
-    "note": "available 2026-10-22; stay up to 12 months"
+    "note": "available 2026-10-23; stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
@@ -693,7 +821,71 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-22; no max term"
+    "note": "available 2026-10-23; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18467211",
+  "source": "SpareRoom",
+  "title": "\ud83d\ude0d Beautiful Cozy Double Room in Battersea \ud83d\ude0d ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/battersea/18467211",
+  "price_pcm": 840,
+  "price_raw": "\u00a3840 pcm",
+  "postcode": "SW8",
+  "neighbourhood": "Battersea",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 6,
+  "risk_flags": [],
+  "lat": 51.475249,
+  "lng": -0.1399845,
+  "bills_included": "yes",
+  "available": "23rd Oct 2026",
+  "min_term": "12 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Leave Your Number and Move in Date\ud83d\udea8 Please no waste timers \ud83d\udea8Message or Call Me on WhatsApp \ud83d\udcf2 \ud83d\udcdeDetails; The room is for 1 person use. Property and rooms are furnished. Kitchen, bathroom with separate toilet There isn\u2019t a Living room. \ud83d\udc6b We make sure all flatmates are Clean, Friendl",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 bus 156 \u2192 bus 137 \u2192 District \u2192 bus 360",
+  "suitability": 68,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.611,
+    "weight": 0.35,
+    "points": 21.4,
+    "note": "\u00a3840 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-23; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -821,7 +1013,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-22; no max term"
+    "note": "available 2026-10-23; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -885,7 +1077,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-22; no max term"
+    "note": "available 2026-10-23; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1024,70 +1216,6 @@
   }
  },
  {
-  "id": "18467211",
-  "source": "SpareRoom",
-  "title": "\ud83d\ude0d Beautiful Cozy Double Room in Battersea \ud83d\ude0d ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/battersea/18467211",
-  "price_pcm": 840,
-  "price_raw": "\u00a3840 pcm",
-  "postcode": "SW8",
-  "neighbourhood": "Battersea",
-  "property_type": "flat",
-  "rooms_in_property": "4",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 6,
-  "risk_flags": [],
-  "lat": 51.475249,
-  "lng": -0.1399845,
-  "bills_included": "yes",
-  "available": "23rd Oct 2026",
-  "min_term": "12 months",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "Leave Your Number and Move in Date\ud83d\udea8 Please no waste timers \ud83d\udea8Message or Call Me on WhatsApp \ud83d\udcf2 \ud83d\udcdeDetails; The room is for 1 person use. Property and rooms are furnished. Kitchen, bathroom with separate toilet There isn\u2019t a Living room. \ud83d\udc6b We make sure all flatmates are Clean, Friendl",
-  "commute_minutes": 42,
-  "commute_summary": "42 min \u00b7 bus 156 \u2192 bus 137 \u2192 District \u2192 bus 360",
-  "suitability": 65,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.611,
-    "weight": 0.35,
-    "points": 21.4,
-    "note": "\u00a3840 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.56,
-    "weight": 0.4,
-    "points": 22.4,
-    "note": "42 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "18471332",
   "source": "SpareRoom",
   "title": "\ud83c\udfe1 Double Room Available - Flat Near Station \ud83c\udfe1 ",
@@ -1206,6 +1334,70 @@
     "weight": 0.1,
     "points": 6.6,
     "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "8905801",
+  "source": "SpareRoom",
+  "title": "Big Double room Close to Swiss Cottage",
+  "url": "https://www.spareroom.co.uk/flatshare/london/london_nw6/8905801",
+  "price_pcm": 750,
+  "price_raw": "\u00a3750 pcm",
+  "postcode": "NW6",
+  "neighbourhood": "London NW6",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 5,
+  "risk_flags": [],
+  "lat": 51.5437810584235,
+  "lng": -0.176700725685271,
+  "bills_included": "no",
+  "available": "Available now",
+  "min_term": "3 months",
+  "max_term": "12 months",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Lovely Big Double room for rent offering generous living space throughout, ideally set in a popular purpose built block in the heart of Swiss Cottage. The property is set on the 3rd floor (with lift), comprising of a shared, separate fully fitted kitchen, smart modern bathroom wi",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 Jubilee \u2192 Piccadilly \u2192 bus 70",
+  "suitability": 63,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.714,
+    "weight": 0.35,
+    "points": 25.0,
+    "note": "\u00a3750 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.58,
+    "weight": 0.4,
+    "points": 23.2,
+    "note": "41 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "available 2026-10-23; stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
@@ -1397,7 +1589,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-22; no max term"
+    "note": "available 2026-10-23; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1589,7 +1781,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-22; no max term"
+    "note": "available 2026-10-23; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1653,7 +1845,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-22; no max term"
+    "note": "available 2026-10-23; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1719,7 +1911,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-22; no max term"
+    "note": "available 2026-10-23; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1783,7 +1975,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-22; no max term"
+    "note": "available 2026-10-23; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1847,7 +2039,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-22; no max term"
+    "note": "available 2026-10-23; no max term"
    },
    "freshness": {
     "score": 1.0,
