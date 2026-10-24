@@ -1,5 +1,69 @@
 [
  {
+  "id": "18473484",
+  "source": "SpareRoom",
+  "title": "Large Double Room Available in Victoria/Pimlico",
+  "url": "https://www.spareroom.co.uk/flatshare/london/victoria/18473484",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "SW1",
+  "neighbourhood": "Victoria",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 5,
+  "risk_flags": [],
+  "lat": 51.4927756,
+  "lng": -0.1389013,
+  "bills_included": "yes",
+  "available": "1st Nov 2026",
+  "min_term": "3 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Hi, I have a large double room available for rent. It is situated right in the middle of Victoria and Pimlico, both train stations are a 5 minute walk. I am a live in landlord and my children have moved out but visit occasionally. Every shop and amenities is on our doorstep. Plea",
+  "commute_minutes": 29,
+  "commute_summary": "29 min \u00b7 District",
+  "suitability": 75,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.6,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.81,
+    "weight": 0.4,
+    "points": 32.4,
+    "note": "29 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18473018",
   "source": "SpareRoom",
   "title": "Very Nice Double Bedroom - Stockwell/ Vauxhall",
@@ -118,6 +182,70 @@
     "weight": 0.1,
     "points": 6.6,
     "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18471560",
+  "source": "SpareRoom",
+  "title": "Single Room to Rent \u2013 Brixton, SW2",
+  "url": "https://www.spareroom.co.uk/flatshare/london/london_sw2/18471560",
+  "price_pcm": 700,
+  "price_raw": "\u00a3700 pcm",
+  "postcode": "SW2",
+  "neighbourhood": "London SW2",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/94/66/94661542.jpg",
+  "verified": false,
+  "num_photos": 3,
+  "risk_flags": [],
+  "lat": 51.4482207,
+  "lng": -0.1143903,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "single",
+  "furnishings": "Furnished",
+  "description": "Single Room to Rent \u2013 Brixton, London, SW2 A single room is available in a 4-bedroom house on Craignair Road, London.\ud83d\udccd Location: Craignair Road, London, SW2 \ud83c\udfe0 Property Details:* 4-bedroom house* 1 single room available* Currently 3 people living in the house* 1 bathroom* All bill",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 bus 432 \u2192 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 74,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.771,
+    "weight": 0.35,
+    "points": 27.0,
+    "note": "\u00a3700 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.96,
+    "weight": 0.1,
+    "points": 9.6,
+    "note": "available 2026-10-24; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1410,6 +1538,70 @@
   }
  },
  {
+  "id": "18473512",
+  "source": "SpareRoom",
+  "title": "Cosy double room in Putney",
+  "url": "https://www.spareroom.co.uk/flatshare/london/east_putney/18473512",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "SW15",
+  "neighbourhood": "East Putney",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "former flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/97/38/97387532.jpg",
+  "verified": false,
+  "num_photos": 6,
+  "risk_flags": [],
+  "lat": 51.4598758,
+  "lng": -0.2026004,
+  "bills_included": "no",
+  "available": "29th Nov 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "I\u2019m moving out and looking for someone to take over my lovely double room in a friendly flat in Putney, available from 29th November. The room comes furnished and benefits from plenty of natural light, making it a comfortable space to relax and unwind.The FlatThe flat has three b",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 District",
+  "suitability": 55,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.6,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "17935388",
   "source": "SpareRoom",
   "title": "Double Room in 2 bed flat in Chiswick ",
@@ -1644,70 +1836,6 @@
     "weight": 0.4,
     "points": 22.4,
     "note": "42 min to Imperial"
-   },
-   "bills": {
-    "score": 0.0,
-    "weight": 0.1,
-    "points": 0.0,
-    "note": "bills not included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "15303428",
-  "source": "SpareRoom",
-  "title": "Charming Flat - Steps from Clapham North Tube!",
-  "url": "https://www.spareroom.co.uk/flatshare/london/clapham_north/15303428",
-  "price_pcm": 949,
-  "price_raw": "\u00a3219 pw",
-  "postcode": "SW4",
-  "neighbourhood": "Clapham North",
-  "property_type": "flat",
-  "rooms_in_property": "5",
-  "advertiser_role": "live out landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/15/80/15805582.jpg",
-  "verified": true,
-  "num_photos": 9,
-  "risk_flags": [],
-  "lat": 51.4663770006157,
-  "lng": -0.129627310290883,
-  "bills_included": "no",
-  "available": "1st Dec 2026",
-  "min_term": "4 months",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "A fully furnished apartment with five bedrooms, three bathrooms and a spacious shared kitchen and living area, just a minute\u2019s walk from Clapham North and Clapham High Street stations.We\u2019re looking for a friendly, considerate person to join the household.The apartment has new fur",
-  "commute_minutes": 35,
-  "commute_summary": "35 min \u00b7 bus 345 \u2192 Victoria \u2192 District \u2192 bus 360",
-  "suitability": 48,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.254,
-    "weight": 0.35,
-    "points": 8.9,
-    "note": "\u00a3949 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.7,
-    "weight": 0.4,
-    "points": 28.0,
-    "note": "35 min to Imperial"
    },
    "bills": {
     "score": 0.0,
