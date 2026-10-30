@@ -117,7 +117,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -269,7 +269,7 @@
   "advertiser_role": "agent",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": false,
+  "available_now": true,
   "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/86/45/86454897.jpg",
   "verified": false,
   "num_photos": 4,
@@ -309,7 +309,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -437,7 +437,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -501,7 +501,71 @@
     "score": 1.0,
     "weight": 0.1,
     "points": 10.0,
-    "note": "available 2026-10-29; stay up to 12 months"
+    "note": "available 2026-10-30; stay up to 12 months"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "15207706",
+  "source": "SpareRoom",
+  "title": "***Fantastic Double in  Pro Flat-W3*",
+  "url": "https://www.spareroom.co.uk/flatshare/london/acton/15207706",
+  "price_pcm": 825,
+  "price_raw": "\u00a3825 pcm",
+  "postcode": "W3",
+  "neighbourhood": "Acton",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/23/82/23825566.jpg",
+  "verified": false,
+  "num_photos": 4,
+  "risk_flags": [],
+  "lat": 51.506797493727,
+  "lng": -0.271930107496427,
+  "bills_included": "yes",
+  "available": "1st Nov 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "\ud83c\udfe1 MODERN DOUBLE ROOM \u2013 ACTON TOWN \u2013 BILLS INCLUDED \u2728\u2728 RECENTLY REFURBISHED PROPERTY \ud83d\udccd ACTON \u2013 WEST LONDON \ud83d\ude87 APPROX. 10-MINUTE WALK TO ACTON TOWN TUBE \ud83e\uddfe BILLS INCLUDEDA lovely furnished double room is available in this recently refurbished property, situated within a secure gated ",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 Piccadilly \u2192 bus 360",
+  "suitability": 67,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.629,
+    "weight": 0.35,
+    "points": 22.0,
+    "note": "\u00a3825 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.58,
+    "weight": 0.4,
+    "points": 23.2,
+    "note": "41 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -565,7 +629,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -693,7 +757,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -821,7 +885,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -949,7 +1013,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1079,7 +1143,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1143,7 +1207,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1207,7 +1271,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1260,6 +1324,70 @@
     "weight": 0.4,
     "points": 20.0,
     "note": "45 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "15034606",
+  "source": "SpareRoom",
+  "title": "28aR3 | Small Double | Female House | Bills Inc ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/white_city/15034606",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "W12",
+  "neighbourhood": "White City",
+  "property_type": "flat",
+  "rooms_in_property": "5",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/80/90/8090134.jpg",
+  "verified": false,
+  "num_photos": 10,
+  "risk_flags": [],
+  "lat": 51.5089972421678,
+  "lng": -0.234868772984169,
+  "bills_included": "yes",
+  "available": "1st Jan 2027",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Hi There We have small double available - Fully furnished including smart TV - All bills includes (Great fast wifi, Gas, Electricity, Water, Council Tax, TV License) - Available for single occupancy The large garden flat is located 10 mins walk from White City Station. The flat h",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 bus 207 \u2192 bus 49",
+  "suitability": 63,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.6,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
    },
    "bills": {
     "score": 1.0,
@@ -1335,7 +1463,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1399,7 +1527,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1655,7 +1783,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1783,7 +1911,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1847,7 +1975,7 @@
     "score": 0.96,
     "weight": 0.1,
     "points": 9.6,
-    "note": "available 2026-10-29; no max term"
+    "note": "available 2026-10-30; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1977,7 +2105,7 @@
     "score": 1.0,
     "weight": 0.1,
     "points": 10.0,
-    "note": "available 2026-10-29; stay up to 12 months"
+    "note": "available 2026-10-30; stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
