@@ -1,69 +1,5 @@
 [
  {
-  "id": "15755195",
-  "source": "SpareRoom",
-  "title": "\u00a3850:Dble rm with mini kitchen for singl occupancy",
-  "url": "https://www.spareroom.co.uk/flatshare/london/west_kensington/15755195",
-  "price_pcm": 850,
-  "price_raw": "\u00a3850 pcm",
-  "postcode": "W14",
-  "neighbourhood": "West Kensington",
-  "property_type": "house",
-  "rooms_in_property": "2",
-  "advertiser_role": "live in landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 2,
-  "risk_flags": [],
-  "lat": 51.4903551500162,
-  "lng": -0.20816191896854,
-  "bills_included": "yes",
-  "available": "6th Dec 2026",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "Fairly good size double room to rent for single occupancy immediately, Room has 1) Double bed 2) single wardrobe 3) kitchen work top4) fridge freezer 5)microwave oven 6) hand bastion 7) drawer 8) large window with curtains 9) internet free10) laundry pas as yiu go very cheap 11) ",
-  "commute_minutes": 21,
-  "commute_summary": "21 min \u00b7 District \u2192 bus 360",
-  "suitability": 78,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.6,
-    "weight": 0.35,
-    "points": 21.0,
-    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.89,
-    "weight": 0.4,
-    "points": 35.6,
-    "note": "21 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "18490277",
   "source": "SpareRoom",
   "title": "Double Room Available",
@@ -117,7 +53,7 @@
     "score": 0.85,
     "weight": 0.1,
     "points": 8.5,
-    "note": "available 2026-11-09 (late); stay up to 12 months"
+    "note": "available 2026-11-10 (late); stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
@@ -181,7 +117,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
+    "note": "available 2026-11-10 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -245,7 +181,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
+    "note": "available 2026-11-10 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -309,7 +245,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
+    "note": "available 2026-11-10 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -375,7 +311,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
+    "note": "available 2026-11-10 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -399,7 +335,7 @@
   "advertiser_role": "current flatmate",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": false,
+  "available_now": true,
   "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
   "verified": false,
   "num_photos": 9,
@@ -439,71 +375,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "4110098",
-  "source": "SpareRoom",
-  "title": "Amazing refurbished flatshare with sunny patio",
-  "url": "https://www.spareroom.co.uk/flatshare/london/earl's_court/4110098",
-  "price_pcm": 800,
-  "price_raw": "\u00a3800 pcm",
-  "postcode": "SW5",
-  "neighbourhood": "Earl's Court",
-  "property_type": "flat",
-  "rooms_in_property": "7",
-  "advertiser_role": "live out landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": true,
-  "num_photos": 9,
-  "risk_flags": [],
-  "lat": 51.4876345728862,
-  "lng": -0.195535330302587,
-  "bills_included": "no",
-  "available": "18th Nov 2026",
-  "min_term": "12 months",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "**RENT DIRECTLY FROM LANDLORD!**The following one room is available on 18/11/26:- Double ensuite room at \u00a3800pcm. Bills are \u00a3200pcm extra.New to the market, this stunning flatshare on a quiet residential road has been fully refurbished providing a high class finish specifically d",
-  "commute_minutes": 23,
-  "commute_summary": "23 min \u00b7 District \u2192 bus 360",
-  "suitability": 69,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.657,
-    "weight": 0.35,
-    "points": 23.0,
-    "note": "\u00a3800 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.87,
-    "weight": 0.4,
-    "points": 34.8,
-    "note": "23 min to Imperial"
-   },
-   "bills": {
-    "score": 0.0,
-    "weight": 0.1,
-    "points": 0.0,
-    "note": "bills not included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
+    "note": "available 2026-11-10 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -706,6 +578,72 @@
   }
  },
  {
+  "id": "18490988",
+  "source": "SpareRoom",
+  "title": "Luxurious double room for rent ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/camden/18490988",
+  "price_pcm": 800,
+  "price_raw": "\u00a3800 pcm",
+  "postcode": "NW1",
+  "neighbourhood": "Camden",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 0,
+  "risk_flags": [
+   "No photos in the ad"
+  ],
+  "lat": 51.5307068,
+  "lng": -0.1422993,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "I am looking for someone from Asian backgrounds very quiet apartment with kitchen and separate bathroom and toilet very near to tube stations like Euston Mornington crescent Warren Street station and loads of bus service. I have very location for going out to regent\u2019s park 5 min ",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 67,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.657,
+    "weight": 0.35,
+    "points": 23.0,
+    "note": "\u00a3800 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.81,
+    "weight": 0.1,
+    "points": 8.1,
+    "note": "available 2026-11-10 (late); no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18490157",
   "source": "SpareRoom",
   "title": "2 Beautiful Double Rooms | SW9 9DQ",
@@ -823,135 +761,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "18488173",
-  "source": "SpareRoom",
-  "title": "Spacious Rooms in Hammersmith for Benefit Claimant",
-  "url": "https://www.spareroom.co.uk/flatshare/london/hammersmith_and_fulham/18488173",
-  "price_pcm": 910,
-  "price_raw": "\u00a3210 pw",
-  "postcode": "W6",
-  "neighbourhood": "Hammersmith and Fulham",
-  "property_type": "house",
-  "rooms_in_property": "4",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 10,
-  "risk_flags": [],
-  "lat": 51.4882666,
-  "lng": -0.2209447,
-  "bills_included": "yes",
-  "available": "20th Nov 2026",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "Have you heard about the new Transitional Housing Scheme?We are proud to be one of the few providers offering this scheme in a professional, structured and highly supportive way.Benefits of Transitional Housing:Faster pathway to long-term independenceEnhanced services and accommo",
-  "commute_minutes": 31,
-  "commute_summary": "31 min \u00b7 District \u2192 bus 360",
-  "suitability": 66,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.39,
-    "weight": 0.35,
-    "points": 13.6,
-    "note": "\u00a3910 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.78,
-    "weight": 0.4,
-    "points": 31.2,
-    "note": "31 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "18487340",
-  "source": "SpareRoom",
-  "title": "\ud83c\udfe1 Bright & Cosy Double Room | Nine Elms ASAP",
-  "url": "https://www.spareroom.co.uk/flatshare/london/battersea/18487340",
-  "price_pcm": 850,
-  "price_raw": "\u00a3850 pcm",
-  "postcode": "SW8",
-  "neighbourhood": "Battersea",
-  "property_type": "flat",
-  "rooms_in_property": "5",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/21/102115633.jpg",
-  "verified": false,
-  "num_photos": 7,
-  "risk_flags": [],
-  "lat": 51.4713534,
-  "lng": -0.1348339,
-  "bills_included": "yes",
-  "available": "Available now",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "A comfortable double room in a 5-bedroom shared flat, suitable for a professional or student looking for a convenient South London base.\ud83d\udecf\ufe0f Your Room & Shared Spaces\u2022 Double bedroom\u2022 Shared kitchen\u2022 One shared shower and one shared toilet \u2022 Local shops, supermarkets and everyday e",
-  "commute_minutes": 43,
-  "commute_summary": "43 min \u00b7 bus 87 \u2192 Victoria \u2192 Circle \u2192 bus 70",
-  "suitability": 66,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.6,
-    "weight": 0.35,
-    "points": 21.0,
-    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.54,
-    "weight": 0.4,
-    "points": 21.6,
-    "note": "43 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.81,
-    "weight": 0.1,
-    "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
+    "note": "available 2026-11-10 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1079,7 +889,71 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
+    "note": "available 2026-11-10 (late); no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "18489146",
+  "source": "SpareRoom",
+  "title": "Double room available in Shepherds Bush",
+  "url": "https://www.spareroom.co.uk/flatshare/london/shepherds_bush/18489146",
+  "price_pcm": 886,
+  "price_raw": "\u00a3886 pcm",
+  "postcode": "W12",
+  "neighbourhood": "Shepherds Bush",
+  "property_type": "house",
+  "rooms_in_property": "4",
+  "advertiser_role": "former flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 5,
+  "risk_flags": [],
+  "lat": 51.5037543,
+  "lng": -0.2252548,
+  "bills_included": "yes",
+  "available": "1st Dec 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Looking for a quiet and tidy person to fill my double room. Ideally female to keep the balance. You will be sharing with 1 female and 2 males in their late 20s. The house consists of x4 bedrooms, x2 bathrooms, x1 small kitchen & x1 living room. Non-smokers only. The landlord requ",
+  "commute_minutes": 37,
+  "commute_summary": "37 min \u00b7 bus 94 \u2192 bus 49",
+  "suitability": 65,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.474,
+    "weight": 0.35,
+    "points": 16.6,
+    "note": "\u00a3886 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.66,
+    "weight": 0.4,
+    "points": 26.4,
+    "note": "37 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1145,7 +1019,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
+    "note": "available 2026-11-10 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1284,6 +1158,70 @@
   }
  },
  {
+  "id": "18251471",
+  "source": "SpareRoom",
+  "title": "Gorgeous New Rooms in Fulham!",
+  "url": "https://www.spareroom.co.uk/flatshare/london/hammersmith_and_fulham/18251471",
+  "price_pcm": 910,
+  "price_raw": "\u00a3210 pw",
+  "postcode": "SW6",
+  "neighbourhood": "Hammersmith and Fulham",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "agent",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.4771916,
+  "lng": -0.2170553,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "3 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "WHATSAPP ONLY \u2013 PLEASE QUOTE THE AD REF NUMBERThe room is fully furnished.The communal areas are clean, well maintained, and equipped with a fridge/freezer, washing machine, microwave, and all essential kitchen appliances.The following payments apply:- A holding deposit of 1 week",
+  "commute_minutes": 37,
+  "commute_summary": "37 min \u00b7 bus 430",
+  "suitability": 63,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.39,
+    "weight": 0.35,
+    "points": 13.6,
+    "note": "\u00a3910 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.66,
+    "weight": 0.4,
+    "points": 26.4,
+    "note": "37 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.81,
+    "weight": 0.1,
+    "points": 8.1,
+    "note": "available 2026-11-10 (late); no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "10514917",
   "source": "SpareRoom",
   "title": "Double room  - Bills inc",
@@ -1326,70 +1264,6 @@
     "weight": 0.4,
     "points": 28.8,
     "note": "34 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "15034606",
-  "source": "SpareRoom",
-  "title": "28aR3 | Small Double | Female House | Bills Inc ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/white_city/15034606",
-  "price_pcm": 850,
-  "price_raw": "\u00a3850 pcm",
-  "postcode": "W12",
-  "neighbourhood": "White City",
-  "property_type": "flat",
-  "rooms_in_property": "5",
-  "advertiser_role": "live out landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/80/90/8090134.jpg",
-  "verified": false,
-  "num_photos": 10,
-  "risk_flags": [],
-  "lat": 51.5089972421678,
-  "lng": -0.234868772984169,
-  "bills_included": "yes",
-  "available": "1st Jan 2027",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Furnished",
-  "description": "Hi There We have small double available - Fully furnished including smart TV - All bills includes (Great fast wifi, Gas, Electricity, Water, Council Tax, TV License) - Available for single occupancy The large garden flat is located 10 mins walk from White City Station. The flat h",
-  "commute_minutes": 44,
-  "commute_summary": "44 min \u00b7 bus 207 \u2192 bus 49",
-  "suitability": 63,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.6,
-    "weight": 0.35,
-    "points": 21.0,
-    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
-   },
-   "commute": {
-    "score": 0.52,
-    "weight": 0.4,
-    "points": 20.8,
-    "note": "44 min to Imperial"
    },
    "bills": {
     "score": 1.0,
@@ -1668,70 +1542,6 @@
   }
  },
  {
-  "id": "18487324",
-  "source": "SpareRoom",
-  "title": "\ud83c\udfe1 2 Rooms Available | Clapham Junction | Now/Dec",
-  "url": "https://www.spareroom.co.uk/flatshare/london/battersea/18487324",
-  "price_pcm": 900,
-  "price_raw": "\u00a3900 pcm",
-  "postcode": "SW11",
-  "neighbourhood": "Battersea",
-  "property_type": "flat",
-  "rooms_in_property": "5",
-  "advertiser_role": "agent",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/21/102115633.jpg",
-  "verified": false,
-  "num_photos": 10,
-  "risk_flags": [],
-  "lat": 51.464829,
-  "lng": -0.1746173,
-  "bills_included": "yes",
-  "available": "Available now",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "\ud83d\udd25 ROOM A AVAILABLE NOW | ROOM E AVAILABLE FROM 1ST NOVEMBER\u2728 2 DOUBLE ROOMS AVAILABLE!\ud83c\udfe0 5-BEDROOM SHARED PROPERTYA clean, well-maintained and friendly shared home in a fantastic location, just minutes from Clapham Junction Station.\ud83d\udcb7 AVAILABLE ROOMS\ud83d\udecf\ufe0f Room A \u2013 \u00a3900/month\ud83d\udcc5 Availabl",
-  "commute_minutes": 41,
-  "commute_summary": "41 min \u00b7 Overground \u2192 District",
-  "suitability": 61,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.425,
-    "weight": 0.35,
-    "points": 14.9,
-    "note": "\u00a3900 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.58,
-    "weight": 0.4,
-    "points": 23.2,
-    "note": "41 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.81,
-    "weight": 0.1,
-    "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "8952964",
   "source": "SpareRoom",
   "title": "SPACIOUS 3 bedroom Split Level Flat",
@@ -1796,70 +1606,6 @@
   }
  },
  {
-  "id": "18490768",
-  "source": "SpareRoom",
-  "title": "Two double sized bedrooms - fulham",
-  "url": "https://www.spareroom.co.uk/flatshare/london/fulham/18490768",
-  "price_pcm": 920,
-  "price_raw": "\u00a3920 pcm",
-  "postcode": "SW6",
-  "neighbourhood": "Fulham",
-  "property_type": "flat",
-  "rooms_in_property": "2",
-  "advertiser_role": "former flatmate",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": true,
-  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
-  "verified": false,
-  "num_photos": 6,
-  "risk_flags": [],
-  "lat": 51.4813363,
-  "lng": -0.199928,
-  "bills_included": "no",
-  "available": "Available now",
-  "min_term": "None",
-  "max_term": "None",
-  "room_type": "double",
-  "furnishings": "Unfurnished",
-  "description": "Two double rooms for rent:Security deposit room 1 : \u00a31,300Room 2 : 1,134.70First room - white walls, spacious, shutters and underfloor heating. Also comes with its own private en-suite bathroom, space for a walk-in wardrobe, and plenty of space for a desk if you work from home. T",
-  "commute_minutes": 30,
-  "commute_summary": "30 min \u00b7 District \u2192 bus 360",
-  "suitability": 58,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.355,
-    "weight": 0.35,
-    "points": 12.4,
-    "note": "\u00a3920 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.8,
-    "weight": 0.4,
-    "points": 32.0,
-    "note": "30 min to Imperial"
-   },
-   "bills": {
-    "score": 0.0,
-    "weight": 0.1,
-    "points": 0.0,
-    "note": "bills not included"
-   },
-   "tenancy": {
-    "score": 0.81,
-    "weight": 0.1,
-    "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
   "id": "18490087",
   "source": "SpareRoom",
   "title": "Clapham Junction | \u00a3900 | Move in Now",
@@ -1913,7 +1659,7 @@
     "score": 0.85,
     "weight": 0.1,
     "points": 8.5,
-    "note": "available 2026-11-09 (late); stay up to 12 months"
+    "note": "available 2026-11-10 (late); stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
@@ -2041,7 +1787,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
+    "note": "available 2026-11-10 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2169,7 +1915,7 @@
     "score": 0.85,
     "weight": 0.1,
     "points": 8.5,
-    "note": "available 2026-11-09 (late); stay up to 24 months"
+    "note": "available 2026-11-10 (late); stay up to 24 months"
    },
    "freshness": {
     "score": 1.0,
@@ -2233,7 +1979,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
+    "note": "available 2026-11-10 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2372,36 +2118,36 @@
   }
  },
  {
-  "id": "17543637",
+  "id": "18491312",
   "source": "SpareRoom",
-  "title": "Double room ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/brixton/17543637",
+  "title": "Chiswick Double Room | W4",
+  "url": "https://www.spareroom.co.uk/flatshare/london/chiswick/18491312",
   "price_pcm": 950,
   "price_raw": "\u00a3950 pcm",
-  "postcode": "SW9",
-  "neighbourhood": "Brixton",
+  "postcode": "W4",
+  "neighbourhood": "Chiswick",
   "property_type": "house",
-  "rooms_in_property": "3",
-  "advertiser_role": "current flatmate",
+  "rooms_in_property": "6",
+  "advertiser_role": "agent",
   "days_old": 0,
   "days_old_known": true,
-  "available_now": true,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/94/32/94327817.jpg",
-  "verified": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/75/82/7582753.jpg",
+  "verified": false,
   "num_photos": 6,
   "risk_flags": [],
-  "lat": 51.4635016,
-  "lng": -0.1039278,
+  "lat": 51.5006434,
+  "lng": -0.2526748,
   "bills_included": "yes",
-  "available": "Available now",
-  "min_term": "None",
+  "available": "30th Nov 2026",
+  "min_term": "6 months",
   "max_term": "None",
   "room_type": "double",
   "furnishings": "Furnished",
-  "description": "I am looking for a person who works someone who can pay on a monthly basis someone who doesn\u2019t mind cats as I have one. The room has a double bed and a chest of drawers it has a unit where you can store your belongings away . There is a window with a view of the garden.. the acco",
-  "commute_minutes": 43,
-  "commute_summary": "43 min \u00b7 bus 35 \u2192 Victoria \u2192 District",
-  "suitability": 53,
+  "description": "\u2b50\ufe0f ALL BILLS + WIFI INCLUDED \u2b50\ufe0f\ud83d\udc9a Room 5: A spacious, fully furnished double bedroom in a lovely six-bedroom professional house share in Chiswick. Ideal for a working professional looking for a comfortable home with excellent transport links.\ud83d\udd35 Available 30.11.26\ud83d\udd34 \u00a3950 per month \u2013 ",
+  "commute_minutes": 41,
+  "commute_summary": "41 min \u00b7 District \u2192 bus 74",
+  "suitability": 54,
   "score_breakdown": {
    "budget": {
     "score": 0.25,
@@ -2410,10 +2156,10 @@
     "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
    },
    "commute": {
-    "score": 0.54,
+    "score": 0.58,
     "weight": 0.4,
-    "points": 21.6,
-    "note": "43 min to Imperial"
+    "points": 23.2,
+    "note": "41 min to Imperial"
    },
    "bills": {
     "score": 1.0,
@@ -2422,10 +2168,10 @@
     "note": "bills included"
    },
    "tenancy": {
-    "score": 0.81,
+    "score": 0.66,
     "weight": 0.1,
-    "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
+    "points": 6.6,
+    "note": "availability unknown; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2553,7 +2299,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
+    "note": "available 2026-11-10 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -2681,7 +2427,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-09 (late); no max term"
+    "note": "available 2026-11-10 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
