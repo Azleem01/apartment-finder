@@ -128,6 +128,70 @@
   }
  },
  {
+  "id": "14337772",
+  "source": "SpareRoom",
+  "title": "A quiet double room in Connought Village",
+  "url": "https://www.spareroom.co.uk/flatshare/london/london_w2/14337772",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "W2",
+  "neighbourhood": "London W2",
+  "property_type": "house",
+  "rooms_in_property": "3",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/10/16/101629296.jpg",
+  "verified": true,
+  "num_photos": 4,
+  "risk_flags": [],
+  "lat": 51.5151299490217,
+  "lng": -0.164556531788661,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "We are looking for a professional female over the age of 30 to rent a nice quiet double room in a family home. We are right in the center of London, 5 mins walk to Marble Arch and 2 mins to Hyde Park. You can find everything on your doorstep. The buzz of Edgware Road and the sere",
+  "commute_minutes": 35,
+  "commute_summary": "35 min \u00b7 walking",
+  "suitability": 72,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.6,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.7,
+    "weight": 0.4,
+    "points": 28.0,
+    "note": "35 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.81,
+    "weight": 0.1,
+    "points": 8.1,
+    "note": "available 2026-11-14 (late); no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "17683841",
   "source": "SpareRoom",
   "title": "Double room in Bayswater, girls preferred ",
@@ -1026,6 +1090,70 @@
   }
  },
  {
+  "id": "18495475",
+  "source": "SpareRoom",
+  "title": "Queer POC room Brixton/Loughborough Junction",
+  "url": "https://www.spareroom.co.uk/flatshare/london/london_se24/18495475",
+  "price_pcm": 720,
+  "price_raw": "\u00a3720 pcm",
+  "postcode": "SE24",
+  "neighbourhood": "London SE24",
+  "property_type": "house",
+  "rooms_in_property": "4",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/97/54/97544646.jpg",
+  "verified": false,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.4646927,
+  "lng": -0.1002936,
+  "bills_included": "no",
+  "available": "1st Dec 2026",
+  "min_term": "3 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "One of our housemates is sadly leaving so we're looking for someone kind, community-oriented, and bringing soft, warm, energy to join this home.This is a Queer POC household, and we would ideally like to maintain this house as a safe space for Queer POC people.You\u2019d also be livin",
+  "commute_minutes": 42,
+  "commute_summary": "42 min \u00b7 bus P4 \u2192 Victoria \u2192 District \u2192 bus 360",
+  "suitability": 60,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.749,
+    "weight": 0.35,
+    "points": 26.2,
+    "note": "\u00a3720 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.56,
+    "weight": 0.4,
+    "points": 22.4,
+    "note": "42 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18252026",
   "source": "SpareRoom",
   "title": "Single room in WHITE CITY",
@@ -1144,6 +1272,72 @@
     "weight": 0.1,
     "points": 8.1,
     "note": "available 2026-11-14 (late); no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "14023105",
+  "source": "SpareRoom",
+  "title": "3 Bed Semi-Detached House ~ Low Deposit",
+  "url": "https://www.spareroom.co.uk/flatshare/london/brixton/14023105",
+  "price_pcm": 800,
+  "price_raw": "\u00a3800 pcm",
+  "postcode": "SW2",
+  "neighbourhood": "Brixton",
+  "property_type": "house",
+  "rooms_in_property": "3",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 0,
+  "risk_flags": [
+   "No photos in the ad"
+  ],
+  "lat": 51.4549673095934,
+  "lng": -0.124696038171527,
+  "bills_included": "unknown",
+  "available": "23rd Nov 2026",
+  "min_term": "12 months",
+  "max_term": "None",
+  "room_type": "",
+  "furnishings": "Furnished",
+  "description": "Hyperoptic broadband installed. 2 large rooms (both have WFH desks). 1 smaller room - (can convert to WFH office ~ currently has removeable 4ft double bed). Rooms have fitted wardrobes & bedside cabinets. Spacious newly installed eat-in kitchen with induction hob, electric fan ov",
+  "commute_minutes": 45,
+  "commute_summary": "45 min \u00b7 bus 59 \u2192 Victoria \u2192 District",
+  "suitability": 59,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.657,
+    "weight": 0.35,
+    "points": 23.0,
+    "note": "\u00a3800 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.5,
+    "weight": 0.4,
+    "points": 20.0,
+    "note": "45 min to Imperial"
+   },
+   "bills": {
+    "score": 0.4,
+    "weight": 0.1,
+    "points": 4.0,
+    "note": "bills not stated"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1446,6 +1640,70 @@
     "weight": 0.35,
     "points": 24.2,
     "note": "\u00a3770 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.52,
+    "weight": 0.4,
+    "points": 20.8,
+    "note": "44 min to Imperial"
+   },
+   "bills": {
+    "score": 0.0,
+    "weight": 0.1,
+    "points": 0.0,
+    "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "17034489",
+  "source": "SpareRoom",
+  "title": "Double Bedroom in Shoreditch ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/shoreditch/17034489",
+  "price_pcm": 760,
+  "price_raw": "\u00a3760 pcm",
+  "postcode": "E1",
+  "neighbourhood": "Shoreditch",
+  "property_type": "flat",
+  "rooms_in_property": "3",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/89/92/89921259.jpg",
+  "verified": false,
+  "num_photos": 8,
+  "risk_flags": [],
+  "lat": 51.52192,
+  "lng": -0.0747765,
+  "bills_included": "no",
+  "available": "10th Dec 2026",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Hi there,I'm Matteo 39 and another Matteo 37, I Know :), 2 Italians looking for a flatmate. Also, don't look at the age too much, we have a young soul.I am a freelance portrait photographer, I am often away for my reportages and the other Matteo works as brand ambassador and bar ",
+  "commute_minutes": 44,
+  "commute_summary": "44 min \u00b7 Overground \u2192 District \u2192 bus 360",
+  "suitability": 57,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.703,
+    "weight": 0.35,
+    "points": 24.6,
+    "note": "\u00a3760 pcm (best value \u2264 \u00a3850)"
    },
    "commute": {
     "score": 0.52,
