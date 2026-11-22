@@ -2,7 +2,7 @@
  {
   "id": "18504615",
   "source": "SpareRoom",
-  "title": "Only Females Spacious Double Room W14 \u00a3740",
+  "title": "Prefferably\u00a0Females Spacious Double Room W14 \u00a3740",
   "url": "https://www.spareroom.co.uk/flatshare/london/west_kensington/18504615",
   "price_pcm": 740,
   "price_raw": "\u00a3740 pcm",
@@ -53,7 +53,7 @@
     "score": 0.85,
     "weight": 0.1,
     "points": 8.5,
-    "note": "available 2026-11-21 (late); stay up to 15 months"
+    "note": "available 2026-11-22 (late); stay up to 15 months"
    },
    "freshness": {
     "score": 1.0,
@@ -128,6 +128,70 @@
   }
  },
  {
+  "id": "18504729",
+  "source": "SpareRoom",
+  "title": "Bright single room in friendly house share",
+  "url": "https://www.spareroom.co.uk/flatshare/london/latimer_road/18504729",
+  "price_pcm": 700,
+  "price_raw": "\u00a3700 pcm",
+  "postcode": "W10",
+  "neighbourhood": "Latimer Road",
+  "property_type": "house",
+  "rooms_in_property": "3",
+  "advertiser_role": "current flatmate",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": true,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": false,
+  "num_photos": 2,
+  "risk_flags": [],
+  "lat": 51.5137702110476,
+  "lng": -0.218041074802716,
+  "bills_included": "yes",
+  "available": "Available now",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "single",
+  "furnishings": "Furnished",
+  "description": "A clean, comfortable single room is available in a friendly, well-kept home ideal for a tidy and considerate flatmate looking for unbeatable transport and shopping links.",
+  "commute_minutes": 38,
+  "commute_summary": "38 min \u00b7 Hammersmith & City \u2192 Piccadilly \u2192 bus 360",
+  "suitability": 76,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.771,
+    "weight": 0.35,
+    "points": 27.0,
+    "note": "\u00a3700 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.64,
+    "weight": 0.4,
+    "points": 25.6,
+    "note": "38 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.81,
+    "weight": 0.1,
+    "points": 8.1,
+    "note": "available 2026-11-22 (late); no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
   "id": "18272817",
   "source": "SpareRoom",
   "title": "Double room Battersea ",
@@ -181,7 +245,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-21 (late); no max term"
+    "note": "available 2026-11-22 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -234,6 +298,70 @@
     "weight": 0.4,
     "points": 28.8,
     "note": "34 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "16195280",
+  "source": "SpareRoom",
+  "title": "Single Room Zone 1 All Bills/Wifi Inc.",
+  "url": "https://www.spareroom.co.uk/flatshare/london/london_nw8/16195280",
+  "price_pcm": 850,
+  "price_raw": "\u00a3850 pcm",
+  "postcode": "NW8",
+  "neighbourhood": "London NW8",
+  "property_type": "flat",
+  "rooms_in_property": "2",
+  "advertiser_role": "live out landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "/img/spareroom/v4/icons/profilepic_unisex.gif",
+  "verified": true,
+  "num_photos": 7,
+  "risk_flags": [],
+  "lat": 51.5229482668021,
+  "lng": -0.171427475496098,
+  "bills_included": "yes",
+  "available": "1st Dec 2026",
+  "min_term": "None",
+  "max_term": "None",
+  "room_type": "single",
+  "furnishings": "Furnished",
+  "description": "We are looking for a female housemate to join our home.The house is fully furnished, nice kitchen, microwave, washing machine etc.There is a power shower in the bathroom.Close to all facilities: Tesco, Banks, M&S, Post office, Argos, Sainsbury's,local shops, restaurants and takea",
+  "commute_minutes": 36,
+  "commute_summary": "36 min \u00b7 Circle \u2192 bus 360",
+  "suitability": 70,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.6,
+    "weight": 0.35,
+    "points": 21.0,
+    "note": "\u00a3850 pcm (best value \u2264 \u00a3850)"
+   },
+   "commute": {
+    "score": 0.68,
+    "weight": 0.4,
+    "points": 27.2,
+    "note": "36 min to Imperial"
    },
    "bills": {
     "score": 1.0,
@@ -309,7 +437,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-21 (late); no max term"
+    "note": "available 2026-11-22 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -437,7 +565,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-21 (late); no max term"
+    "note": "available 2026-11-22 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -501,7 +629,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-21 (late); no max term"
+    "note": "available 2026-11-22 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -565,7 +693,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-21 (late); no max term"
+    "note": "available 2026-11-22 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -629,7 +757,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-21 (late); no max term"
+    "note": "available 2026-11-22 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -821,7 +949,7 @@
     "score": 0.85,
     "weight": 0.1,
     "points": 8.5,
-    "note": "available 2026-11-21 (late); stay up to 12 months"
+    "note": "available 2026-11-22 (late); stay up to 12 months"
    },
    "freshness": {
     "score": 1.0,
@@ -949,7 +1077,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-21 (late); no max term"
+    "note": "available 2026-11-22 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1141,7 +1269,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-21 (late); no max term"
+    "note": "available 2026-11-22 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1205,71 +1333,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-21 (late); no max term"
-   },
-   "freshness": {
-    "score": 1.0,
-    "weight": 0.05,
-    "points": 5.0,
-    "note": "listed today"
-   }
-  }
- },
- {
-  "id": "18490491",
-  "source": "SpareRoom",
-  "title": "\ud83d\udc8eBright & Spacious \ud83d\udc8eKing-Size Room All Bill Inc ",
-  "url": "https://www.spareroom.co.uk/flatshare/london/london_w12/18490491",
-  "price_pcm": 950,
-  "price_raw": "\u00a3950 pcm",
-  "postcode": "W12",
-  "neighbourhood": "London W12",
-  "property_type": "flat",
-  "rooms_in_property": "4",
-  "advertiser_role": "live out landlord",
-  "days_old": 0,
-  "days_old_known": true,
-  "available_now": false,
-  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/98/87/98872114.jpg",
-  "verified": true,
-  "num_photos": 7,
-  "risk_flags": [],
-  "lat": 51.5144133138553,
-  "lng": -0.230631438418133,
-  "bills_included": "yes",
-  "available": "4th Dec 2026",
-  "min_term": "6 months",
-  "max_term": "None",
-  "room_type": "",
-  "furnishings": "Furnished",
-  "description": "A bright and spacious king-size bedroom is available in a fully refurbished, well-maintained flat, ideally located near White City and Hammersmith.The room is beautifully furnished with a comfortable king-size bed, large desk, chair, wardrobe and plenty of storage space. Perfect ",
-  "commute_minutes": 42,
-  "commute_summary": "42 min \u00b7 Circle \u2192 bus 360",
-  "suitability": 53,
-  "score_breakdown": {
-   "budget": {
-    "score": 0.25,
-    "weight": 0.35,
-    "points": 8.8,
-    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
-   },
-   "commute": {
-    "score": 0.56,
-    "weight": 0.4,
-    "points": 22.4,
-    "note": "42 min to Imperial"
-   },
-   "bills": {
-    "score": 1.0,
-    "weight": 0.1,
-    "points": 10.0,
-    "note": "bills included"
-   },
-   "tenancy": {
-    "score": 0.66,
-    "weight": 0.1,
-    "points": 6.6,
-    "note": "availability unknown; no max term"
+    "note": "available 2026-11-22 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
@@ -1328,6 +1392,70 @@
     "weight": 0.1,
     "points": 0.0,
     "note": "bills not included"
+   },
+   "tenancy": {
+    "score": 0.66,
+    "weight": 0.1,
+    "points": 6.6,
+    "note": "availability unknown; no max term"
+   },
+   "freshness": {
+    "score": 1.0,
+    "weight": 0.05,
+    "points": 5.0,
+    "note": "listed today"
+   }
+  }
+ },
+ {
+  "id": "3484659",
+  "source": "SpareRoom",
+  "title": "Furnished double room near Clapham Old Town ",
+  "url": "https://www.spareroom.co.uk/flatshare/london/clapham/3484659",
+  "price_pcm": 950,
+  "price_raw": "\u00a3950 pcm",
+  "postcode": "SW8",
+  "neighbourhood": "Clapham",
+  "property_type": "flat",
+  "rooms_in_property": "4",
+  "advertiser_role": "live in landlord",
+  "days_old": 0,
+  "days_old_known": true,
+  "available_now": false,
+  "image": "https://photos2.spareroom.co.uk/images/flatshare/listings/square/91/88/91882047.jpg",
+  "verified": false,
+  "num_photos": 9,
+  "risk_flags": [],
+  "lat": 51.4699860488256,
+  "lng": -0.136859930165938,
+  "bills_included": "yes",
+  "available": "1st Jan 2027",
+  "min_term": "6 months",
+  "max_term": "None",
+  "room_type": "double",
+  "furnishings": "Furnished",
+  "description": "Furnished double room in Victorian share flat in Clapham. Sharing with 3 other professionals working in Finance and Marketing.The room has all furniture including a double bed, built-in wardrobe, desk, chair and shelves.Eat-in kitchen has stainless steel appliances including indu",
+  "commute_minutes": 45,
+  "commute_summary": "45 min \u00b7 bus 87 \u2192 Victoria \u2192 Circle \u2192 bus 70",
+  "suitability": 50,
+  "score_breakdown": {
+   "budget": {
+    "score": 0.25,
+    "weight": 0.35,
+    "points": 8.8,
+    "note": "\u00a3950 pcm \u2014 above your preferred \u00a3850"
+   },
+   "commute": {
+    "score": 0.5,
+    "weight": 0.4,
+    "points": 20.0,
+    "note": "45 min to Imperial"
+   },
+   "bills": {
+    "score": 1.0,
+    "weight": 0.1,
+    "points": 10.0,
+    "note": "bills included"
    },
    "tenancy": {
     "score": 0.66,
@@ -1525,7 +1653,7 @@
     "score": 0.81,
     "weight": 0.1,
     "points": 8.1,
-    "note": "available 2026-11-21 (late); no max term"
+    "note": "available 2026-11-22 (late); no max term"
    },
    "freshness": {
     "score": 1.0,
