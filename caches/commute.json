@@ -1424,6 +1424,11 @@
 "minutes": 42,
 "summary": "42 min \u00b7 Northern \u2192 Victoria \u2192 District"
 },
+"15508096": {
+"_fetched": "2026-11-24",
+"minutes": 38,
+"summary": "38 min \u00b7 bus 295 \u2192 District"
+},
 "15510206": {
 "_fetched": "2026-09-13",
 "minutes": 42,
@@ -1924,6 +1929,16 @@
 "minutes": 46,
 "summary": "46 min \u00b7 Northern \u2192 Victoria \u2192 District \u2192 bus 360"
 },
+"15798977": {
+"_fetched": "2026-11-24",
+"minutes": 51,
+"summary": "51 min \u00b7 bus 185 \u2192 District"
+},
+"15800920": {
+"_fetched": "2026-11-24",
+"minutes": 46,
+"summary": "46 min \u00b7 Central \u2192 Circle \u2192 bus 360"
+},
 "15803787": {
 "_fetched": "2026-11-18",
 "minutes": 29,
@@ -2354,6 +2369,11 @@
 "minutes": 34,
 "summary": "34 min \u00b7 bus 49"
 },
+"16104389": {
+"_fetched": "2026-11-24",
+"minutes": 34,
+"summary": "34 min \u00b7 District \u2192 bus 360"
+},
 "16119005": {
 "_fetched": "2026-10-20",
 "minutes": 50,
@@ -2634,6 +2654,11 @@
 "minutes": 45,
 "summary": "45 min \u00b7 bus 37 \u2192 District \u2192 bus 360"
 },
+"16336574": {
+"_fetched": "2026-11-24",
+"minutes": 47,
+"summary": "47 min \u00b7 bus 328 \u2192 Circle \u2192 bus 360"
+},
 "16337185": {
 "_fetched": "2026-11-03",
 "minutes": 36,
@@ -2758,6 +2783,11 @@
 "_fetched": "2026-10-29",
 "minutes": 47,
 "summary": "47 min \u00b7 bus 88 \u2192 Northern \u2192 Victoria \u2192 District \u2192 bus 360"
+},
+"16461758": {
+"_fetched": "2026-11-24",
+"minutes": 49,
+"summary": "49 min \u00b7 bus 417 \u2192 Northern \u2192 Victoria \u2192 District \u2192 bus 360"
 },
 "16465572": {
 "_fetched": "2026-09-24",
@@ -3693,6 +3723,11 @@
 "_fetched": "2026-11-09",
 "minutes": 50,
 "summary": "50 min \u00b7 bus 255 \u2192 Northern \u2192 Victoria \u2192 District \u2192 bus 360"
+},
+"17147349": {
+"_fetched": "2026-11-24",
+"minutes": 40,
+"summary": "40 min \u00b7 bus 110 \u2192 District \u2192 bus 74"
 },
 "17159481": {
 "_fetched": "2026-08-31",
@@ -6259,6 +6294,16 @@
 "minutes": 56,
 "summary": "56 min \u00b7 bus 493 \u2192 District"
 },
+"18014163": {
+"_fetched": "2026-11-24",
+"minutes": 40,
+"summary": "40 min \u00b7 Victoria \u2192 Circle \u2192 bus 70"
+},
+"18017363": {
+"_fetched": "2026-11-24",
+"minutes": 46,
+"summary": "46 min \u00b7 bus 3 \u2192 Victoria \u2192 Circle \u2192 bus 70"
+},
 "18017460": {
 "_fetched": "2026-11-04",
 "minutes": 41,
@@ -7993,6 +8038,11 @@
 "_fetched": "2026-09-04",
 "minutes": 45,
 "summary": "45 min \u00b7 Piccadilly \u2192 bus 360"
+},
+"18290121": {
+"_fetched": "2026-11-24",
+"minutes": 41,
+"summary": "41 min \u00b7 Central \u2192 Circle \u2192 bus 360"
 },
 "18290217": {
 "_fetched": "2026-10-24",
@@ -15860,9 +15910,9 @@
 "summary": "39 min \u00b7 Central \u2192 Circle \u2192 bus 360"
 },
 "18443716": {
-"_fetched": "2026-09-29",
-"minutes": 53,
-"summary": "53 min \u00b7 bus 493 \u2192 District"
+"_fetched": "2026-11-24",
+"minutes": 52,
+"summary": "52 min \u00b7 bus 493 \u2192 District"
 },
 "18443798": {
 "_fetched": "2026-09-29",
@@ -25424,6 +25474,81 @@
 "minutes": 55,
 "summary": "55 min \u00b7 bus 32 \u2192 Jubilee \u2192 District \u2192 bus 360"
 },
+"18506098": {
+"_fetched": "2026-11-24",
+"minutes": 48,
+"summary": "48 min \u00b7 District \u2192 bus 74"
+},
+"18506104": {
+"_fetched": "2026-11-24",
+"minutes": 60,
+"summary": "60 min \u00b7 bus 493 \u2192 District"
+},
+"18506148": {
+"_fetched": "2026-11-24",
+"minutes": 51,
+"summary": "51 min \u00b7 bus 328 \u2192 Circle \u2192 bus 360"
+},
+"18506179": {
+"_fetched": "2026-11-24",
+"minutes": 42,
+"summary": "42 min \u00b7 bus 355 \u2192 Victoria \u2192 Circle \u2192 bus 70"
+},
+"18506295": {
+"_fetched": "2026-11-24",
+"minutes": 42,
+"summary": "42 min \u00b7 bus 39 \u2192 District \u2192 bus 360"
+},
+"18506367": {
+"_fetched": "2026-11-24",
+"minutes": 33,
+"summary": "33 min \u00b7 Circle \u2192 bus 360"
+},
+"18506372": {
+"_fetched": "2026-11-24",
+"minutes": 44,
+"summary": "44 min \u00b7 Northern \u2192 Victoria \u2192 District \u2192 bus 360"
+},
+"18506441": {
+"_fetched": "2026-11-24",
+"minutes": 49,
+"summary": "49 min \u00b7 Jubilee \u2192 Piccadilly"
+},
+"18506517": {
+"_fetched": "2026-11-24",
+"minutes": 52,
+"summary": "52 min \u00b7 bus 37 \u2192 District \u2192 bus 360"
+},
+"18506535": {
+"_fetched": "2026-11-24",
+"minutes": 45,
+"summary": "45 min \u00b7 Bakerloo \u2192 District \u2192 bus 360"
+},
+"18506544": {
+"_fetched": "2026-11-24",
+"minutes": 57,
+"summary": "57 min \u00b7 bus 493 \u2192 District"
+},
+"18506577": {
+"_fetched": "2026-11-24",
+"minutes": 42,
+"summary": "42 min \u00b7 bus 35 \u2192 Victoria \u2192 District"
+},
+"18506600": {
+"_fetched": "2026-11-24",
+"minutes": 29,
+"summary": "29 min \u00b7 District \u2192 bus 360"
+},
+"18506639": {
+"_fetched": "2026-11-24",
+"minutes": 42,
+"summary": "42 min \u00b7 bus 436 \u2192 Victoria \u2192 District"
+},
+"18506690": {
+"_fetched": "2026-11-24",
+"minutes": 43,
+"summary": "43 min \u00b7 bus 207 \u2192 Piccadilly"
+},
 "1880224": {
 "_fetched": "2026-08-21",
 "minutes": 41,
@@ -26273,6 +26398,11 @@
 "_fetched": "2026-11-04",
 "minutes": 47,
 "summary": "47 min \u00b7 Northern \u2192 Victoria \u2192 District \u2192 bus 360"
+},
+"5708839": {
+"_fetched": "2026-11-24",
+"minutes": 30,
+"summary": "30 min \u00b7 bus 49 \u2192 bus 360"
 },
 "5753836": {
 "_fetched": "2026-10-20",
